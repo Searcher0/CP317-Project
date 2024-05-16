@@ -16,11 +16,14 @@
 
     <style>
         #map { height: 550px; width: 100%; }
+        #stores-list { margin-top: 20px; }
     </style>
 </head>
 <body>
     <h1>Nearby Stores</h1>
     <div id="map"></div>
+    <h2>Stores within your location:</h2>
+    <ul id="stores-list"></ul>
 </body>
 
 <script>
@@ -33,6 +36,7 @@
     }).addTo(map);
 
     let marker, circle, zoomed;
+    let stores = []; // Array to store nearby stores
 
     navigator.geolocation.watchPosition(success, error);
 
@@ -77,11 +81,31 @@
         fetch(overpassUrl)
             .then(response => response.json())
             .then(data => {
+                // Clear the stores array and HTML list before adding new stores
+                stores = [];
+                const storesList = document.getElementById('stores-list');
+                storesList.innerHTML = '';
+
                 data.elements.forEach(store => {
                     const storeLocation = [store.lat, store.lon];
                     L.marker(storeLocation).addTo(map)
                         .bindPopup(store.tags.name || "Unnamed store");
+
+                    // Add the store to the stores array
+                    const storeName = store.tags.name || "Unnamed store";
+                    stores.push({
+                        name: storeName,
+                        location: storeLocation
+                    });
+
+                    // Add the store name to the HTML list
+                    const li = document.createElement('li');
+                    li.textContent = storeName;
+                    storesList.appendChild(li);
                 });
+
+                // Log the stores array to the console for debugging
+                console.log(stores);
             })
             .catch(error => console.error('Error:', error));
     }
