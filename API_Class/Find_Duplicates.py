@@ -2,9 +2,9 @@ import json
 from collections import defaultdict
 
 # Path to the JSON file with products
-input_file = r'C:\CP317 Project\CP317-Project\FreshVeg Complete.json'
+input_file = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\Butters & Spreads.json'
 # Path to the JSON file to save duplicates
-output_file = r'C:\CP317 Project\CP317-Project\duplicates.json'
+output_file = r'C:\CP317 Project\CP317-Project\duplicates_1.json'
 
 # Read the products from the JSON file
 with open(input_file, 'r') as json_file:

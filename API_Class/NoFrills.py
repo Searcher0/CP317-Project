@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 
 # Read HTML content from a file
-html_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FRESHVEG.txt'  # Update the path to your HTML file
+html_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_Butters & Spreads.txt'  # Update the path to your HTML file
 with open(html_file_path, 'r', encoding='utf-8') as file:
     html_content = file.read()
 
@@ -32,7 +32,7 @@ for product_div in product_divs:
             product_id += 1
 
 # Write the extracted product details to a JSON file
-output_file = 'C:\\CP317 Project\\CP317-Project\\products.json' # CHANGE THIS TO THE PATH YOU WANT. 
+output_file = 'C:\\CP317 Project\\CP317-Project\\Butters & Spreads.json' # CHANGE THIS TO THE PATH YOU WANT. 
 with open(output_file, 'w') as json_file:
     json.dump(products, json_file, indent=4)
 
