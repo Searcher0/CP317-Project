@@ -2,241 +2,337 @@
     {
         "id": 1,
         "name": "Salted Butter",
-        "price": "454 g, $1.32/100g"
+        "price": "454 g, $1.32/100g",
+        "brand": "No Name"
     },
     {
         "id": 2,
         "name": "Salted Butter",
-        "price": "454 g, $1.65/100g"
+        "price": "454 g, $1.65/100g",
+        "brand": "Lactantia"
     },
     {
         "id": 3,
         "name": "Salted Butter",
-        "price": "454 g, $1.83/100g"
+        "price": "454 g, $1.83/100g",
+        "brand": "Gay Lea"
     },
     {
         "id": 4,
         "name": "Unsalted Butter",
-        "price": "454 g, $1.32/100g"
+        "price": "454 g, $1.32/100g",
+        "brand": "No Name"
     },
     {
         "id": 5,
         "name": "Margarine Original",
-        "price": "850 g, $1.06/100g"
+        "price": "850 g, $1.06/100g",
+        "brand": "Becel"
     },
     {
         "id": 6,
         "name": "Margarine Original",
-        "price": "427 g, $1.17/100g"
+        "price": "427 g, $1.17/100g",
+        "brand": "Becel"
     },
     {
         "id": 7,
         "name": "Margarine with Olive Oil",
-        "price": "850 g, $1.06/100g"
+        "price": "850 g, $1.06/100g",
+        "brand": "Becel"
     },
     {
         "id": 8,
         "name": "Unsalted Butter",
-        "price": "454 g, $1.83/100g"
+        "price": "454 g, $1.83/100g",
+        "brand": "Gay Lea"
     },
     {
         "id": 9,
         "name": "Salted Butter Sticks, 4 units",
-        "price": "4x113.0 g, $1.99/100g"
+        "price": "4x113.0 g, $1.99/100g",
+        "brand": "Lactantia"
     },
     {
         "id": 10,
         "name": "Margarine Spread",
-        "price": "427 g, $0.44/100g"
+        "price": "427 g, $0.44/100g",
+        "brand": "I Can't Believe It's Not Butter!"
     },
     {
         "id": 11,
         "name": "Unsalted Butter",
-        "price": "454 g, $1.65/100g"
+        "price": "454 g, $1.65/100g",
+        "brand": "Lactantia"
     },
     {
         "id": 12,
         "name": "Country Churned Unsalted Butter",
-        "price": "454 g, $1.76/100g"
+        "price": "454 g, $1.76/100g",
+        "brand": "President's Choice"
     },
     {
         "id": 13,
         "name": "Margarine Vegan",
-        "price": "850 g, $1.06/100g"
+        "price": "850 g, $1.06/100g",
+        "brand": "Becel"
     },
     {
         "id": 14,
         "name": "Margarine with Olive Oil",
-        "price": "427 g, $1.17/100g"
+        "price": "427 g, $1.17/100g",
+        "brand": "Becel"
     },
     {
         "id": 15,
         "name": "Country Churned Salted Butter",
-        "price": "454 g, $1.76/100g"
+        "price": "454 g, $1.76/100g",
+        "brand": "President's Choice"
     },
     {
         "id": 16,
         "name": "Margarine Club Pack",
-        "price": "1.275 kg, $0.55/100g"
+        "price": "1.275 kg, $0.55/100g",
+        "brand": "Imperial"
     },
     {
         "id": 17,
         "name": "Blue Menu Margarine with Olive Oil",
-        "price": "907 g, $0.64/100g"
+        "price": "907 g, $0.64/100g",
+        "brand": "PC Blue Menu"
     },
     {
         "id": 18,
         "name": "My Country Unsalted Butter Sticks, 4 units",
-        "price": "4x113.5 g, $1.98/100g"
+        "price": "4x113.5 g, $1.98/100g",
+        "brand": "Lactantia"
     },
     {
         "id": 19,
         "name": "55% Vegetable Oil Margarine",
-        "price": "637 g, $1.10/100g"
+        "price": "637 g, $1.10/100g",
+        "brand": "Imperial"
     },
     {
         "id": 20,
         "name": "Spreadables Butter With Canola Oil",
-        "price": "227 g, $2.64/100g"
+        "price": "227 g, $2.64/100g",
+        "brand": "Gay Lea"
     },
     {
         "id": 21,
         "name": "Garlic & Proven\u00e7al Herb Butter",
-        "price": "125 g, $3.35/100g"
+        "price": "125 g, $3.35/100g",
+        "brand": "Lactantia"
     },
     {
         "id": 22,
         "name": "Margarine with Avocado Oil",
-        "price": "850 g, $1.06/100g"
+        "price": "850 g, $1.06/100g",
+        "brand": "Becel"
     },
     {
         "id": 23,
         "name": "Blue Menu Original Margarine",
-        "price": "907 g, $0.64/100g"
+        "price": "907 g, $0.64/100g",
+        "brand": "PC Blue Menu"
     },
     {
         "id": 24,
         "name": "Garlic Spread",
-        "price": "250 g, $1.20/100g"
+        "price": "250 g, $1.20/100g",
+        "brand": "Derlea"
     },
     {
         "id": 25,
         "name": "Calorie-Reduced Margarine Light",
-        "price": "850 g, $1.06/100g"
+        "price": "850 g, $1.06/100g",
+        "brand": "Becel"
     },
     {
         "id": 26,
         "name": "Margarine Unsalted Plant-Based Sticks",
-        "price": "454 g, $1.10/100g"
+        "price": "454 g, $1.10/100g",
+        "brand": "Becel"
     },
     {
         "id": 27,
         "name": "Margarine Salted Plant-Based Sticks",
-        "price": "454 g, $1.10/100g"
+        "price": "454 g, $1.10/100g",
+        "brand": "Becel"
     },
     {
         "id": 28,
         "name": "Buttery Taste Margarine",
-        "price": "637 g, $1.33/100g"
+        "price": "637 g, $1.33/100g",
+        "brand": "Becel"
     },
     {
         "id": 29,
         "name": "Organics Salted Butter Churned",
-        "price": "250 g, $2.60/100g"
+        "price": "250 g, $2.60/100g",
+        "brand": "PC Organics"
     },
     {
         "id": 30,
         "name": "68% Vegetable Oil Margarine",
-        "price": "907 g, $0.55/100g"
+        "price": "907 g, $0.55/100g",
+        "brand": "No Name"
     },
     {
         "id": 31,
         "name": "Organics Unsalted Butter Churned",
-        "price": "250 g, $2.60/100g"
+        "price": "250 g, $2.60/100g",
+        "brand": "PC Organics"
     },
     {
         "id": 32,
         "name": "Plant Based Butter Alternative Salted",
-        "price": "454 g, $1.06/100g"
+        "price": "454 g, $1.06/100g",
+        "brand": "President's Choice"
     },
     {
         "id": 33,
         "name": "Margarine Quarters Value Size",
-        "price": "1.36 kg, $0.51/100g"
+        "price": "1.36 kg, $0.51/100g",
+        "brand": "Imperial"
     },
     {
         "id": 34,
         "name": "Original Spread",
-        "price": "850 g, $0.82/100g"
+        "price": "850 g, $0.82/100g",
+        "brand": "COUNTRY CROCK"
     },
     {
         "id": 35,
         "name": "Grass Fed Salted Butter",
-        "price": "250 g, $3.40/100g"
+        "price": "250 g, $3.40/100g",
+        "brand": "Gay Lea"
     },
     {
         "id": 36,
         "name": "Soy Free Buttery Spread",
-        "price": "425 g, $1.48/100g"
+        "price": "425 g, $1.48/100g",
+        "brand": "Earth Balance"
     },
     {
         "id": 37,
         "name": "Margarine Original",
-        "price": "1.7 kg, $0.97/100g"
+        "price": "1.7 kg, $0.97/100g",
+        "brand": "Becel"
     },
     {
         "id": 38,
         "name": "Mirage Margarine",
-        "price": "2.72 kg, $0.64/100g"
+        "price": "2.72 kg, $0.64/100g",
+        "brand": "Golden Gate"
     },
     {
         "id": 39,
         "name": "Plant Based Butter Alternative Unsalted",
-        "price": "454 g, $1.06/100g"
+        "price": "454 g, $1.06/100g",
+        "brand": "President's Choice"
     },
     {
         "id": 40,
         "name": "Lactose Free Butter Unsalted",
-        "price": "454 g, $1.98/100g"
+        "price": "454 g, $1.98/100g",
+        "brand": "Lactantia"
     },
     {
         "id": 41,
         "name": "Olivina Margarine",
-        "price": "427 g, $1.17/100g"
+        "price": "427 g, $1.17/100g",
+        "brand": "Olivina"
     },
     {
         "id": 42,
         "name": "Spreadables Light Butter With Canola Oil",
-        "price": "227 g, $2.64/100g"
+        "price": "227 g, $2.64/100g",
+        "brand": "Gay Lea"
     },
     {
         "id": 43,
         "name": "Butter 84% Sea Salted",
-        "price": "250 g, $3.40/100g"
+        "price": "250 g, $3.40/100g",
+        "brand": "Gay Lea"
     },
     {
         "id": 44,
         "name": "Plant Based Oils Spread Salted",
-        "price": "427 g, $1.75/100g"
+        "price": "427 g, $1.75/100g",
+        "brand": "Becel"
     },
     {
         "id": 45,
         "name": "Dairy Makhani",
-        "price": "250 g, $2.80/100g"
+        "price": "250 g, $2.80/100g",
+        "brand": "Brar's"
     },
     {
         "id": 46,
         "name": "75% Vegetable Oil Margarine",
-        "price": "454 g, $0.61/100g"
+        "price": "454 g, $0.61/100g",
+        "brand": "No Name"
     },
     {
         "id": 47,
         "name": "Original Spread",
-        "price": "427 g, $0.93/100g"
+        "price": "427 g, $0.93/100g",
+        "brand": "COUNTRY CROCK"
     },
     {
         "id": 48,
         "name": "Soy Free Vegenaise",
-        "price": "473 ml, $1.96/100ml"
+        "price": "473 ml, $1.96/100ml",
+        "brand": "Follow Your Heart"
+    },
+    {
+        "id": 49,
+        "name": "Margarine Spread",
+        "price": "454 g, $0.61/100g",
+        "brand": "No Name"
+    },
+    {
+        "id": 50,
+        "name": "Butter Sticks, Unsalted",
+        "price": "454 g, $1.83/100g",
+        "brand": "Gay Lea"
+    },
+    {
+        "id": 51,
+        "name": "Non-Hydrogenated Margarine",
+        "price": "1.36 kg, $0.57/100g",
+        "brand": "No Name"
+    },
+    {
+        "id": 52,
+        "name": "Original",
+        "price": "473 ml, $1.54/100ml",
+        "brand": "Vegenaise"
+    },
+    {
+        "id": 53,
+        "name": "Original Buttery Spread",
+        "price": "425 g, $1.48/100g",
+        "brand": "Earth Balance"
+    },
+    {
+        "id": 54,
+        "name": "Mirage Margarine",
+        "price": "907 g, $0.80/100g",
+        "brand": "Golden Gate"
+    },
+    {
+        "id": 55,
+        "name": "Grass Fed Unsalted Butter",
+        "price": "250 g, $3.20/100g",
+        "brand": "Savor"
+    },
+    {
+        "id": 56,
+        "name": "Lactose Free Butter Salted",
+        "price": "454 g, $1.98/100g",
+        "brand": "Lactantia"
     }
 ]
