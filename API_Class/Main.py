@@ -13,10 +13,11 @@ If the Items you want to retreive DO NOT have a brand associated with them then 
 
 from NoFrills import Branded_products, Unbranded_products
 
+
 # CHANGE PATHS TO SUIT THE NEEDS.
 
-output_file = r'C:\\CP317 Project\\CP317-Project\\B&S.json'
-html_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\HTML_Butters & Spreads.txt'
+output_file = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\JSON FILES\Butters & Spreads.json'
+html_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Dairy & Eggs\HTML_Butters & Spreads.txt'
 
 # Branded_products(html_file_path, output_file)
 # Unbranded_products(html_file_path, output_file)

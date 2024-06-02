@@ -3,336 +3,392 @@
         "id": 1,
         "name": "Salted Butter",
         "price": "454 g, $1.32/100g",
-        "brand": "No Name"
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20325029/b3/en/front/20325029_front_a06_@2.png"
     },
     {
         "id": 2,
         "name": "Salted Butter",
         "price": "454 g, $1.65/100g",
-        "brand": "Lactantia"
+        "brand": "Lactantia",
+        "image_url": "https://assets.shop.loblaws.ca/products/20639926/b3/en/front/20639926_front_a06_@2.png"
     },
     {
         "id": 3,
         "name": "Salted Butter",
         "price": "454 g, $1.83/100g",
-        "brand": "Gay Lea"
+        "brand": "Gay Lea",
+        "image_url": "https://assets.shop.loblaws.ca/products/20559408/b3/en/front/20559408_front_a06_@2.png"
     },
     {
         "id": 4,
         "name": "Unsalted Butter",
         "price": "454 g, $1.32/100g",
-        "brand": "No Name"
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316543002/b3/en/front/20316543002_front_a06_@2.png"
     },
     {
         "id": 5,
         "name": "Margarine Original",
         "price": "850 g, $1.06/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/20297818002/b3/en/front/20297818002_front_a06_@2.png"
     },
     {
         "id": 6,
         "name": "Margarine Original",
         "price": "427 g, $1.17/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322707001/b3/en/front/20322707001_front_a06_@2.png"
     },
     {
         "id": 7,
         "name": "Margarine with Olive Oil",
         "price": "850 g, $1.06/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21279389/b3/en/front/21279389_front_a06_@2.png"
     },
     {
         "id": 8,
         "name": "Unsalted Butter",
         "price": "454 g, $1.83/100g",
-        "brand": "Gay Lea"
+        "brand": "Gay Lea",
+        "image_url": "https://assets.shop.loblaws.ca/products/20559466/b3/en/front/20559466_front_a06_@2.png"
     },
     {
         "id": 9,
         "name": "Salted Butter Sticks, 4 units",
         "price": "4x113.0 g, $1.99/100g",
-        "brand": "Lactantia"
+        "brand": "Lactantia",
+        "image_url": "https://assets.shop.loblaws.ca/products/20315960/b3/en/front/20315960_front_a06_@2.png"
     },
     {
         "id": 10,
         "name": "Margarine Spread",
         "price": "427 g, $0.44/100g",
-        "brand": "I Can't Believe It's Not Butter!"
+        "brand": "I Can't Believe It's Not Butter!",
+        "image_url": "https://assets.shop.loblaws.ca/products/20061949001/b3/en/front/20061949001_front_a06_@2.png"
     },
     {
         "id": 11,
         "name": "Unsalted Butter",
         "price": "454 g, $1.65/100g",
-        "brand": "Lactantia"
+        "brand": "Lactantia",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296112005/b3/en/front/20296112005_front_a06_@2.png"
     },
     {
         "id": 12,
         "name": "Country Churned Unsalted Butter",
         "price": "454 g, $1.76/100g",
-        "brand": "President's Choice"
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313456001/b3/en/front/20313456001_front_a06_@2.png"
     },
     {
         "id": 13,
         "name": "Margarine Vegan",
         "price": "850 g, $1.06/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21279333/b3/en/front/21279333_front_a06_@2.png"
     },
     {
         "id": 14,
         "name": "Margarine with Olive Oil",
         "price": "427 g, $1.17/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21279391/b3/en/front/21279391_front_a06_@2.png"
     },
     {
         "id": 15,
         "name": "Country Churned Salted Butter",
         "price": "454 g, $1.76/100g",
-        "brand": "President's Choice"
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313456002/b3/en/front/20313456002_front_a06_@2.png"
     },
     {
         "id": 16,
         "name": "Margarine Club Pack",
         "price": "1.275 kg, $0.55/100g",
-        "brand": "Imperial"
+        "brand": "Imperial",
+        "image_url": "https://assets.shop.loblaws.ca/products/20084892/b3/en/front/20084892_front_a06_@2.png"
     },
     {
         "id": 17,
         "name": "Blue Menu Margarine with Olive Oil",
         "price": "907 g, $0.64/100g",
-        "brand": "PC Blue Menu"
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20604430/b3/en/front/20604430_front_a06_@2.png"
     },
     {
         "id": 18,
         "name": "My Country Unsalted Butter Sticks, 4 units",
         "price": "4x113.5 g, $1.98/100g",
-        "brand": "Lactantia"
+        "brand": "Lactantia",
+        "image_url": "https://assets.shop.loblaws.ca/products/20056675/b3/en/front/20056675_front_a06_@2.png"
     },
     {
         "id": 19,
         "name": "55% Vegetable Oil Margarine",
         "price": "637 g, $1.10/100g",
-        "brand": "Imperial"
+        "brand": "Imperial",
+        "image_url": "https://assets.shop.loblaws.ca/products/21535351/b3/en/front/21535351_front_a06_@2.png"
     },
     {
         "id": 20,
         "name": "Spreadables Butter With Canola Oil",
         "price": "227 g, $2.64/100g",
-        "brand": "Gay Lea"
+        "brand": "Gay Lea",
+        "image_url": "https://assets.shop.loblaws.ca/products/20119926002/b3/en/front/20119926002_front_a06_@2.png"
     },
     {
         "id": 21,
         "name": "Garlic & Proven\u00e7al Herb Butter",
         "price": "125 g, $3.35/100g",
-        "brand": "Lactantia"
+        "brand": "Lactantia",
+        "image_url": "https://assets.shop.loblaws.ca/products/20106744/b3/en/front/20106744_front_a06_@2.png"
     },
     {
         "id": 22,
         "name": "Margarine with Avocado Oil",
         "price": "850 g, $1.06/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21044725/b3/en/front/21044725_front_a06_@2.png"
     },
     {
         "id": 23,
         "name": "Blue Menu Original Margarine",
         "price": "907 g, $0.64/100g",
-        "brand": "PC Blue Menu"
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20604565/b3/en/front/20604565_front_a06_@2.png"
     },
     {
         "id": 24,
         "name": "Garlic Spread",
         "price": "250 g, $1.20/100g",
-        "brand": "Derlea"
+        "brand": "Derlea",
+        "image_url": "https://assets.shop.loblaws.ca/products/20167731/b3/en/front/20167731_front_a06_@2.png"
     },
     {
         "id": 25,
         "name": "Calorie-Reduced Margarine Light",
         "price": "850 g, $1.06/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/20297818003/b3/en/front/20297818003_front_a06_@2.png"
     },
     {
         "id": 26,
         "name": "Margarine Unsalted Plant-Based Sticks",
         "price": "454 g, $1.10/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21088940/b3/en/front/21088940_front_a06_@2.png"
     },
     {
         "id": 27,
         "name": "Margarine Salted Plant-Based Sticks",
         "price": "454 g, $1.10/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21088919/b3/en/front/21088919_front_a06_@2.png"
     },
     {
         "id": 28,
         "name": "Buttery Taste Margarine",
         "price": "637 g, $1.33/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21279362/b3/en/front/21279362_front_a06_@2.png"
     },
     {
         "id": 29,
         "name": "Organics Salted Butter Churned",
         "price": "250 g, $2.60/100g",
-        "brand": "PC Organics"
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588708/b3/en/front/21588708_front_a06_@2.png"
     },
     {
         "id": 30,
         "name": "68% Vegetable Oil Margarine",
         "price": "907 g, $0.55/100g",
-        "brand": "No Name"
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20073675/b3/en/front/20073675_front_a06_@2.png"
     },
     {
         "id": 31,
         "name": "Organics Unsalted Butter Churned",
         "price": "250 g, $2.60/100g",
-        "brand": "PC Organics"
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588696/b3/en/front/21588696_front_a06_@2.png"
     },
     {
         "id": 32,
         "name": "Plant Based Butter Alternative Salted",
         "price": "454 g, $1.06/100g",
-        "brand": "President's Choice"
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21381941/b3/en/front/21381941_front_a06_@2.png"
     },
     {
         "id": 33,
         "name": "Margarine Quarters Value Size",
         "price": "1.36 kg, $0.51/100g",
-        "brand": "Imperial"
+        "brand": "Imperial",
+        "image_url": "https://assets.shop.loblaws.ca/products/20164195/b3/en/front/20164195_front_a06_@2.png"
     },
     {
         "id": 34,
         "name": "Original Spread",
         "price": "850 g, $0.82/100g",
-        "brand": "COUNTRY CROCK"
+        "brand": "COUNTRY CROCK",
+        "image_url": "https://assets.shop.loblaws.ca/products/21535355/b3/en/front/21535355_front_a06_@2.png"
     },
     {
         "id": 35,
         "name": "Grass Fed Salted Butter",
         "price": "250 g, $3.40/100g",
-        "brand": "Gay Lea"
+        "brand": "Gay Lea",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361785/b3/en/front/21361785_front_a06_@2.png"
     },
     {
         "id": 36,
         "name": "Soy Free Buttery Spread",
         "price": "425 g, $1.48/100g",
-        "brand": "Earth Balance"
+        "brand": "Earth Balance",
+        "image_url": "https://assets.shop.loblaws.ca/products/20288193/b3/en/front/20288193_front_a06_@2.png"
     },
     {
         "id": 37,
         "name": "Margarine Original",
         "price": "1.7 kg, $0.97/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/20023950/b3/en/front/20023950_front_a06_@2.png"
     },
     {
         "id": 38,
         "name": "Mirage Margarine",
         "price": "2.72 kg, $0.64/100g",
-        "brand": "Golden Gate"
+        "brand": "Golden Gate",
+        "image_url": "https://assets.shop.loblaws.ca/products/20162225/b3/en/front/20162225_front_a06_@2.png"
     },
     {
         "id": 39,
         "name": "Plant Based Butter Alternative Unsalted",
         "price": "454 g, $1.06/100g",
-        "brand": "President's Choice"
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21381971/b3/en/front/21381971_front_a06_@2.png"
     },
     {
         "id": 40,
         "name": "Lactose Free Butter Unsalted",
         "price": "454 g, $1.98/100g",
-        "brand": "Lactantia"
+        "brand": "Lactantia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21601712/b3/en/front/21601712_front_a06_@2.png"
     },
     {
         "id": 41,
         "name": "Olivina Margarine",
         "price": "427 g, $1.17/100g",
-        "brand": "Olivina"
+        "brand": "Olivina",
+        "image_url": "https://assets.shop.loblaws.ca/products/20249802/b3/en/front/20249802_front_a06_@2.png"
     },
     {
         "id": 42,
         "name": "Spreadables Light Butter With Canola Oil",
         "price": "227 g, $2.64/100g",
-        "brand": "Gay Lea"
+        "brand": "Gay Lea",
+        "image_url": "https://assets.shop.loblaws.ca/products/20119926001/b3/en/front/20119926001_front_a06_@2.png"
     },
     {
         "id": 43,
         "name": "Butter 84% Sea Salted",
         "price": "250 g, $3.40/100g",
-        "brand": "Gay Lea"
+        "brand": "Gay Lea",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361882/b3/en/front/21361882_front_a06_@2.png"
     },
     {
         "id": 44,
         "name": "Plant Based Oils Spread Salted",
         "price": "427 g, $1.75/100g",
-        "brand": "Becel"
+        "brand": "Becel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21593578/b3/en/front/21593578_front_a06_@2.png"
     },
     {
         "id": 45,
         "name": "Dairy Makhani",
         "price": "250 g, $2.80/100g",
-        "brand": "Brar's"
+        "brand": "Brar's",
+        "image_url": "https://assets.shop.loblaws.ca/products/21029114/b3/en/front/21029114_front_a06_@2.png"
     },
     {
         "id": 46,
         "name": "75% Vegetable Oil Margarine",
         "price": "454 g, $0.61/100g",
-        "brand": "No Name"
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20132489/b3/en/front/20132489_front_a06_@2.png"
     },
     {
         "id": 47,
         "name": "Original Spread",
         "price": "427 g, $0.93/100g",
-        "brand": "COUNTRY CROCK"
+        "brand": "COUNTRY CROCK",
+        "image_url": "https://assets.shop.loblaws.ca/products/21535354/b3/en/front/21535354_front_a06_@2.png"
     },
     {
         "id": 48,
         "name": "Soy Free Vegenaise",
         "price": "473 ml, $1.96/100ml",
-        "brand": "Follow Your Heart"
+        "brand": "Follow Your Heart",
+        "image_url": "https://assets.shop.loblaws.ca/products/20908309/b3/en/front/20908309_front_a06_@2.png"
     },
     {
         "id": 49,
         "name": "Margarine Spread",
         "price": "454 g, $0.61/100g",
-        "brand": "No Name"
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20132206/b3/en/front/20132206_front_a06_@2.png"
     },
     {
         "id": 50,
         "name": "Butter Sticks, Unsalted",
         "price": "454 g, $1.83/100g",
-        "brand": "Gay Lea"
+        "brand": "Gay Lea",
+        "image_url": "https://assets.shop.loblaws.ca/products/20148873002/b3/en/front/20148873002_front_a06_@2.png"
     },
     {
         "id": 51,
         "name": "Non-Hydrogenated Margarine",
         "price": "1.36 kg, $0.57/100g",
-        "brand": "No Name"
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20665613/b3/en/front/20665613_front_a06_@2.png"
     },
     {
         "id": 52,
         "name": "Original",
         "price": "473 ml, $1.54/100ml",
-        "brand": "Vegenaise"
+        "brand": "Vegenaise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20010990/b3/en/front/20010990_front_a06_@2.png"
     },
     {
         "id": 53,
         "name": "Original Buttery Spread",
         "price": "425 g, $1.48/100g",
-        "brand": "Earth Balance"
+        "brand": "Earth Balance",
+        "image_url": "https://assets.shop.loblaws.ca/products/20323227/b3/en/front/20323227_front_a06_@2.png"
     },
     {
         "id": 54,
         "name": "Mirage Margarine",
         "price": "907 g, $0.80/100g",
-        "brand": "Golden Gate"
+        "brand": "Golden Gate",
+        "image_url": "https://assets.shop.loblaws.ca/products/20074944/b3/en/front/20074944_front_a06_@2.png"
     },
     {
         "id": 55,
         "name": "Grass Fed Unsalted Butter",
         "price": "250 g, $3.20/100g",
-        "brand": "Savor"
+        "brand": "Savor",
+        "image_url": "https://assets.shop.loblaws.ca/products/21106192/b3/en/front/21106192_front_a06_@2.png"
     },
     {
         "id": 56,
         "name": "Lactose Free Butter Salted",
         "price": "454 g, $1.98/100g",
-        "brand": "Lactantia"
+        "brand": "Lactantia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21601669/b3/en/front/21601669_front_a06_@2.png"
     }
 ]

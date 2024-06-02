@@ -1,0 +1,12 @@
+ Sausages
+    Lamb & Veal
+    Kebabs & Marinated Meat
+    Beef
+    Chicken & Turkey
+    Pork & Ham
+    Game Meat, Offals & Fowl
+    Bacon
+    Hot Dogs
+    Halal Meat
+    Plant Based Meat Alternatives
+    Deli Meat

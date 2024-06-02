@@ -16,19 +16,22 @@ def Branded_products(html_file_path, output_file):
         name_tag = product_div.find('h3', {'data-testid': 'product-title'})
         price_tag = product_div.find('p', {'data-testid': 'product-package-size'})
         brand_tag = product_div.find('p', {'data-testid': 'product-brand'})
+        image_tag = product_div.find('div', {'data-testid': 'product-image'}).find('img') if product_div.find('div', {'data-testid': 'product-image'}) else None
 
-        if name_tag and price_tag:
+        if name_tag and price_tag and image_tag:
             name = name_tag.get_text(strip=True)
             price = price_tag.get_text(strip=True)
             brand = brand_tag.get_text(strip=True) if brand_tag else "No brand"
+            image_url = image_tag['src']
 
             if (name, price) not in unique_products:
-                unique_products.add((name, price))
+                unique_products.add((name, price, brand))
                 products.append({
                     'id': product_id,
                     'name': name,
                     'price': price,
-                    'brand': brand
+                    'brand': brand,
+                    'image_url': image_url
                 })
                 product_id += 1
     
@@ -56,17 +59,21 @@ def Unbranded_products(html_file_path, output_file):
     for product_div in product_divs:
         name_tag = product_div.find('h3', {'data-testid': 'product-title'})
         price_tag = product_div.find('p', {'data-testid': 'product-package-size'})
+        image_tag = product_div.find('div', {'data-testid': 'product-image'}).find('img') if product_div.find('div', {'data-testid': 'product-image'}) else None
 
-        if name_tag and price_tag:
+        if name_tag and price_tag and image_tag:
             name = name_tag.get_text(strip=True)
             price = price_tag.get_text(strip=True)
+            image_url = image_tag['src']
+
             
             if (name, price) not in unique_products:
                 unique_products.add((name, price))
                 products.append({
                     'id': product_id,
                     'name': name,
-                    'price': price
+                    'price': price,
+                    'image_url': image_url
                 })
                 product_id += 1
 
