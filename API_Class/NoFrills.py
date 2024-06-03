@@ -57,20 +57,25 @@ def Unbranded_products(html_file_path, output_file):
     for product_div in product_divs:
         name_tag = product_div.find('h3', {'data-testid': 'product-title'})
         price_tag = product_div.find('p', {'data-testid': 'product-package-size'})
-        img_tag = product_div.find('img')
+        brand_tag = product_div.find('p', {'data-testid': 'product-brand'})
+        image_tag = product_div.find('img')
 
-        if name_tag and price_tag:
+        if name_tag and price_tag and image_tag:
             name = name_tag.get_text(strip=True)
             price = price_tag.get_text(strip=True)
-            img_url = img_tag['src'] if img_tag and 'src' in img_tag.attrs else None
+            brand = brand_tag.get_text(strip=True) if brand_tag else "No brand"
+            image_url = image_tag['src'] if image_tag and 'src' in image_tag.attrs else None
+            image_alt = image_tag['alt'] if 'alt' in image_tag.attrs else "No alt text"
 
             if (name, price) not in unique_products:
-                unique_products.add((name, price))
+                unique_products.add((name, price, brand))
                 products.append({
                     'id': product_id,
                     'name': name,
                     'price': price,
-                    'image_url': img_url
+                    'brand': brand,
+                    'image_url': image_url,
+                    'image_alt': image_alt
                 })
                 product_id += 1
 
