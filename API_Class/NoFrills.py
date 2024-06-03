@@ -24,6 +24,7 @@ def Branded_products(html_file_path, output_file):
             price = price_tag.get_text(strip=True)
             brand = brand_tag.get_text(strip=True) if brand_tag else "No brand"
             image_url = image_tag['src'] if image_tag and 'src' in image_tag.attrs else None
+            image_alt = image_tag['alt'] if 'alt' in image_tag.attrs else "No alt text"
 
             if (name, price) not in unique_products:
                 unique_products.add((name, price, brand))
@@ -32,7 +33,8 @@ def Branded_products(html_file_path, output_file):
                     'name': name,
                     'price': price,
                     'brand': brand,
-                    'image_url': image_url
+                    'image_url': image_url,
+                    'image_alt': image_alt
                 })
                 product_id += 1
     

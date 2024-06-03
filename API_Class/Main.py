@@ -12,11 +12,11 @@ If the Items you want to retreive DO NOT have a brand associated with them then 
 
 
 from NoFrills import Branded_products, Unbranded_products, create_base_and_sub_folders, create_folders_and_files
-
+from Scrape_HTML import Scrape_ALL, Scrape_DIV
 
 # CHANGE PATHS TO SUIT THE NEEDS.
 
-output_file = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\JSON_FILES\Fruits & Vegetables\Fresh Vegetables\JSON_Fresh Vegetables.json'
+output_file = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Bakery\Bagels, Croissants & English Muffins\HTML_Bagels, Croissants & English Muffins.txt'
 
 html_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Fruits & Vegetables\Fresh Vegetables\HTML_Fresh Vegetables.txt'
 
@@ -24,8 +24,11 @@ list_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Cla
 
 base_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Snacks, Chips & Candy'
 
+Link = r'https://www.nofrills.ca/food/bakery/bagels-croissants-english-muffins/c/28149'
 
+Scrape_DIV(Link, output_file)
+# Scrape_ALL(Link, output_file)
 # Branded_products(html_file_path, output_file)
-Unbranded_products(html_file_path, output_file)
+# Unbranded_products(html_file_path, output_file)
 # create_folders_and_files(base_path, list_file_path)
 # create_base_and_sub_folders(list_file_path)
