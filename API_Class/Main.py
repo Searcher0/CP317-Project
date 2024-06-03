@@ -25,7 +25,7 @@ list_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Cla
 base_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Snacks, Chips & Candy'
 
 
-# Branded_products(html_file_path, output_file)
+Branded_products(html_file_path, output_file)
 # Unbranded_products(html_file_path, output_file)
 # create_folders_and_files(base_path, list_file_path)
 # create_base_and_sub_folders(list_file_path)

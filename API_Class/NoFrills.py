@@ -17,13 +17,13 @@ def Branded_products(html_file_path, output_file):
         name_tag = product_div.find('h3', {'data-testid': 'product-title'})
         price_tag = product_div.find('p', {'data-testid': 'product-package-size'})
         brand_tag = product_div.find('p', {'data-testid': 'product-brand'})
-        image_tag = product_div.find('div', {'data-testid': 'product-image'}).find('img') if product_div.find('div', {'data-testid': 'product-image'}) else None
+        image_tag = product_div.find('img')
 
         if name_tag and price_tag and image_tag:
             name = name_tag.get_text(strip=True)
             price = price_tag.get_text(strip=True)
             brand = brand_tag.get_text(strip=True) if brand_tag else "No brand"
-            image_url = image_tag['src']
+            image_url = image_tag['src'] if image_tag and 'src' in image_tag.attrs else None
 
             if (name, price) not in unique_products:
                 unique_products.add((name, price, brand))
@@ -74,11 +74,13 @@ def Unbranded_products(html_file_path, output_file):
                 })
                 product_id += 1
 
+
     # Write the extracted product details to a JSON file
     with open(output_file, 'w') as json_file:
         json.dump(products, json_file, indent=4)
 
     print("Products have been written to JSON file.")
+
 
 def create_base_and_sub_folders(list_file_path):
     # Read the list file
