@@ -1,0 +1,1658 @@
+[
+    {
+        "id": 1,
+        "name": "Cola",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20308197001/b3/en/front/20308197001_front_a06_@2.png",
+        "image_alt": "Coca-Cola Cola   24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$10.98$10.98$12.99$12.99SAVE $2.01"
+    },
+    {
+        "id": 2,
+        "name": "Soda",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20318694002/b3/en/front/20318694002_front_a06_@2.png",
+        "image_alt": "Coca-Cola Soda  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 3,
+        "name": "Zero Sugar, 12 pack",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20318694001/b3/en/front/20318694001_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar, 12 pack 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 4,
+        "name": "Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316026002/b3/en/front/20316026002_front_a06_@2.png",
+        "image_alt": "Coca-Cola Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 5,
+        "name": "Ginger Ale, 12 Pack",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307569004/b3/en/front/20307569004_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale, 12 Pack 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 6,
+        "name": "Pepsi Cans",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306687002/b3/en/front/20306687002_front_a06_@2.png",
+        "image_alt": "Pepsi Pepsi Cans  24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$11.49$11.49$13.49$13.49SAVE $2.00"
+    },
+    {
+        "id": 7,
+        "name": "Soft Drink Blueberry Blast",
+        "price": "250 ml, $0.28/100ml",
+        "brand": "Chubby",
+        "image_url": "https://assets.shop.loblaws.ca/products/21567411/b3/en/front/21567411_front_a06_@2.png",
+        "image_alt": "Chubby Soft Drink Blueberry Blast 250 ml, $0.28/100ml",
+        "price_product_tile": "$0.69$0.69$0.79$0.79SAVE $0.10"
+    },
+    {
+        "id": 8,
+        "name": "Ginger Ale, Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311362001/b3/en/front/20311362001_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale, Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 9,
+        "name": "Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322361002/b3/en/front/20322361002_front_a06_@2.png",
+        "image_alt": "Pepsi Soda  12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 10,
+        "name": "Zero",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20308197006/b3/en/front/20308197006_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero       24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$10.98$10.98$12.99$12.99SAVE $2.01"
+    },
+    {
+        "id": 11,
+        "name": "Ginger Ale",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306330002/b3/en/front/20306330002_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale  24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$10.98$10.98$12.99$12.99SAVE $2.01"
+    },
+    {
+        "id": 12,
+        "name": "Diet Coke",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20318694003/b3/en/front/20318694003_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet Coke   12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 13,
+        "name": "Diet Coke Cans",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20308197003/b3/en/front/20308197003_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet Coke Cans   24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$10.98$10.98$12.99$12.99SAVE $2.01"
+    },
+    {
+        "id": 14,
+        "name": "Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296926002/b3/en/front/20296926002_front_a06_@2.png",
+        "image_alt": "Pepsi Soda       2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 15,
+        "name": "Pineapple Sunshine Soft Drink",
+        "price": "250 ml, $0.28/100ml",
+        "brand": "Chubby",
+        "image_url": "https://assets.shop.loblaws.ca/products/20941724/b3/en/front/20941724_front_a06_@2.png",
+        "image_alt": "Chubby Pineapple Sunshine Soft Drink 250 ml, $0.28/100ml",
+        "price_product_tile": "$0.69$0.69$0.79$0.79SAVE $0.10"
+    },
+    {
+        "id": 16,
+        "name": "Zero Sugar, Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316026005/b3/en/front/20316026005_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar, Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 17,
+        "name": "Low Sodium Club Soda",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20690671001/b3/en/front/20690671001_front_a06_@2.png",
+        "image_alt": "President's Choice Low Sodium Club Soda 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 18,
+        "name": "Classic",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20354288002/b3/en/front/20354288002_front_a06_@2.png",
+        "image_alt": "Coca-Cola Classic 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 19,
+        "name": "Ginger Ale, 6 Pack Mini-Cans",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20354227001/b3/en/front/20354227001_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale, 6 Pack Mini-Cans 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 20,
+        "name": "Soft Drink Go Bananas",
+        "price": "250 ml, $0.28/100ml",
+        "brand": "Chubby",
+        "image_url": "https://assets.shop.loblaws.ca/products/21567352/b3/en/front/21567352_front_a06_@2.png",
+        "image_alt": "Chubby Soft Drink Go Bananas 250 ml, $0.28/100ml",
+        "price_product_tile": "$0.69$0.69$0.79$0.79SAVE $0.10"
+    },
+    {
+        "id": 21,
+        "name": "Diet Soda",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306687001/b3/en/front/20306687001_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda 24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$11.49$11.49$13.49$13.49SAVE $2.00"
+    },
+    {
+        "id": 22,
+        "name": "Soda",
+        "price": "6x710.0 ml, $0.12/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313741002/b3/en/front/20313741002_front_a06_@2.png",
+        "image_alt": "Coca-Cola Soda  6x710.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 23,
+        "name": "Zero Sugar, 12-Pack",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Dr Pepper",
+        "image_url": "https://assets.shop.loblaws.ca/products/21519855/b3/en/front/21519855_front_a06_@2.png",
+        "image_alt": "Dr Pepper Zero Sugar, 12-Pack 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 24,
+        "name": "Diet , Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316026001/b3/en/front/20316026001_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet , Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 25,
+        "name": "Zero Sugar",
+        "price": "6x710.0 ml, $0.12/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313741001/b3/en/front/20313741001_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar      6x710.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 26,
+        "name": "Diet Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322361004/b3/en/front/20322361004_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 27,
+        "name": "Low Sodium Club Soda",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645012/b3/en/front/20311645012_front_a06_@2.png",
+        "image_alt": "President's Choice Low Sodium Club Soda 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 28,
+        "name": "Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306914001/b3/en/front/20306914001_front_a06_@2.png",
+        "image_alt": "Sprite Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 29,
+        "name": "Soda",
+        "price": "6x710.0 ml, $0.14/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20310546002/b3/en/front/20310546002_front_a06_@2.png",
+        "image_alt": "Pepsi Soda       6x710.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 30,
+        "name": "Root Beer",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "A&W",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316407001/b3/en/front/20316407001_front_a06_@2.png",
+        "image_alt": "A&W Root Beer  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 31,
+        "name": "Soda",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20319214002/b3/en/front/20319214002_front_a06_@2.png",
+        "image_alt": "Sprite Soda  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 32,
+        "name": "Soda",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20857560004/b3/en/front/20857560004_front_a06_@2.png",
+        "image_alt": "Pepsi Soda       6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$3.99$3.99SAVE $0.50"
+    },
+    {
+        "id": 33,
+        "name": "Diet Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296926003/b3/en/front/20296926003_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 34,
+        "name": "Ginger Ale",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645004/b3/en/front/20311645004_front_a06_@2.png",
+        "image_alt": "President's Choice Ginger Ale 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 35,
+        "name": "Tray Variety Pack Soda",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Crush",
+        "image_url": "https://assets.shop.loblaws.ca/products/20375155/b3/en/front/20375155_front_a06_@2.png",
+        "image_alt": "Crush Tray Variety Pack Soda  24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$11.49$11.49$13.49$13.49SAVE $2.00"
+    },
+    {
+        "id": 36,
+        "name": "Cola",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645003/b3/en/front/20311645003_front_a06_@2.png",
+        "image_alt": "President's Choice Cola 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 37,
+        "name": "Diet Ginger Ale",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887038/b3/en/front/20218887038_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Ginger Ale 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 38,
+        "name": "Diet Soda",
+        "price": "6x710.0 ml, $0.14/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20310546004/b3/en/front/20310546004_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda 6x710.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 39,
+        "name": "Classic 500 ml Bottle",
+        "price": "500 ml, $0.50/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20827293/b3/en/front/20827293_front_a06_@2.png",
+        "image_alt": "Coca-Cola Classic 500 ml Bottle 500 ml, $0.50/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 40,
+        "name": "ZERO Sugar Ginger Ale, 12-Pack",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518539/b3/en/front/21518539_front_a06_@2.png",
+        "image_alt": "Canada Dry ZERO Sugar Ginger Ale, 12-Pack 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 41,
+        "name": "Zero Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/20325377002/b3/en/front/20325377002_front_a06_@2.png",
+        "image_alt": "7Up Zero Soda 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 42,
+        "name": "Zero",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20354288001/b3/en/front/20354288001_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero       6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 43,
+        "name": "Soda",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Fresca",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316417001/b3/en/front/20316417001_front_a06_@2.png",
+        "image_alt": "Fresca Soda  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 44,
+        "name": "Ginger Ale, 6 Pack",
+        "price": "6x710.0 ml, $0.12/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20304419001/b3/en/front/20304419001_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale, 6 Pack 6x710.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 45,
+        "name": "Diet Spritz-Up Lemon-Lime Soda",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645016/b3/en/front/20311645016_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Spritz-Up Lemon-Lime Soda 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 46,
+        "name": "Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Dr Pepper",
+        "image_url": "https://assets.shop.loblaws.ca/products/20298422001/b3/en/front/20298422001_front_a06_@2.png",
+        "image_alt": "Dr Pepper Soda 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 47,
+        "name": "Spritz Up Lemon-Lime Soda",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645015/b3/en/front/20311645015_front_a06_@2.png",
+        "image_alt": "President's Choice Spritz Up Lemon-Lime Soda 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 48,
+        "name": "Coke",
+        "price": "500 ml, $0.46/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20968251/b3/en/front/20968251_front_a06_@2.png",
+        "image_alt": "Coca-Cola Coke 500 ml, $0.46/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 49,
+        "name": "Zero Sugar Peach",
+        "price": "12x355.0 ml, $2.11/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21608626/b3/en/front/21608626_front_a06_@2.png",
+        "image_alt": "Pepsi Zero Sugar Peach 12x355.0 ml, $2.11/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 50,
+        "name": "Zero",
+        "price": "1 l, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21507641/b3/en/front/21507641_front_a06_@2.png",
+        "image_alt": "Pepsi Zero 1 l, $0.13/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 51,
+        "name": "Mini Diet Ginger Ale 6 Pack",
+        "price": "6x222.0 ml, $0.22/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21093763/b3/en/front/21093763_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Diet Ginger Ale 6 Pack 6x222.0 ml, $0.22/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 52,
+        "name": "Ting, Grapefruit Drink",
+        "price": "300 ml, $0.43/100ml",
+        "brand": "D&G",
+        "image_url": "https://assets.shop.loblaws.ca/products/20315773002/b3/en/front/20315773002_front_a06_@2.png",
+        "image_alt": "D&G Ting, Grapefruit Drink 300 ml, $0.43/100ml",
+        "price_product_tile": "$1.29$1.29$1.49$1.49SAVE $0.20"
+    },
+    {
+        "id": 53,
+        "name": "Orange Soda",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Crush",
+        "image_url": "https://assets.shop.loblaws.ca/products/20857560005/b3/en/front/20857560005_front_a06_@2.png",
+        "image_alt": "Crush Orange Soda      6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$3.99$3.99SAVE $0.50"
+    },
+    {
+        "id": 54,
+        "name": "Tonic Water",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307569007/b3/en/front/20307569007_front_a06_@2.png",
+        "image_alt": "Canada Dry Tonic Water  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 55,
+        "name": "Spicy Ginger Beer",
+        "price": "250 ml, $0.60/100ml",
+        "brand": "The Great Gentleman",
+        "image_url": "https://assets.shop.loblaws.ca/products/21374081/b3/en/front/21374081_front_a06_@2.png",
+        "image_alt": "The Great Gentleman Spicy Ginger Beer 250 ml, $0.60/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 56,
+        "name": "Diet Spritz-Up Naturally Flavoured Calorie-Free Sugar-Free Lemon-Lime Soda",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887034/b3/en/front/20218887034_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Spritz-Up Naturally Flavoured Calorie-Free Sugar-Free Lemon-Lime Soda 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 57,
+        "name": "Classic Malt Beverage",
+        "price": "330 ml, $0.39/100ml",
+        "brand": "Vitamalt",
+        "image_url": "https://assets.shop.loblaws.ca/products/20139955/b3/en/front/20139955_front_a06_@2.png",
+        "image_alt": "Vitamalt Classic Malt Beverage 330 ml, $0.39/100ml",
+        "price_product_tile": "$1.29$1.29$1.49$1.49SAVE $0.20"
+    },
+    {
+        "id": 58,
+        "name": "Diet Coke",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20354288003/b3/en/front/20354288003_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet Coke   6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 59,
+        "name": "Diet Soda Caffeine Free",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322361006/b3/en/front/20322361006_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda Caffeine Free 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 60,
+        "name": "Island Soda, Cream Soda",
+        "price": "355 ml, $0.36/100ml",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299652004/b3/en/front/20299652004_front_a06_@2.png",
+        "image_alt": "Grace Island Soda, Cream Soda 355 ml, $0.36/100ml",
+        "price_product_tile": "$1.29$1.29$1.49$1.49SAVE $0.20"
+    },
+    {
+        "id": 61,
+        "name": "Club Soda",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307569006/b3/en/front/20307569006_front_a06_@2.png",
+        "image_alt": "Canada Dry Club Soda  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 62,
+        "name": "Rootbeer, case",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "A&W",
+        "image_url": "https://assets.shop.loblaws.ca/products/21043323/b3/en/front/21043323_front_a06_@2.png",
+        "image_alt": "A&W Rootbeer, case 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 63,
+        "name": "Cranberry Ginger Ale Diet",
+        "price": "8x2.0 l, $0.12/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21350162/b3/en/front/21350162_front_a06_@2.png",
+        "image_alt": "Canada Dry Cranberry Ginger Ale Diet 8x2.0 l, $0.12/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 64,
+        "name": "Diet Soda Caffeine Free",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296926005/b3/en/front/20296926005_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda Caffeine Free 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 65,
+        "name": "Limited Edition Cranberry Ginger Ale",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307569003/b3/en/front/20307569003_front_a06_@2.png",
+        "image_alt": "Canada Dry Limited Edition Cranberry Ginger Ale 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 66,
+        "name": "Soda",
+        "price": "6x710.0 ml, $0.14/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/20310937002/b3/en/front/20310937002_front_a06_@2.png",
+        "image_alt": "7Up Soda       6x710.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 67,
+        "name": "Soda Sugar-Free Natural Grapefruit Flavour",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Fresca",
+        "image_url": "https://assets.shop.loblaws.ca/products/21022955/b3/en/front/21022955_front_a06_@2.png",
+        "image_alt": "Fresca Soda Sugar-Free Natural Grapefruit Flavour 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 68,
+        "name": "Bottle",
+        "price": "8x300.0 ml, $0.31/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21181174/b3/en/front/21181174_front_a06_@2.png",
+        "image_alt": "Sprite Bottle    8x300.0 ml, $0.31/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 69,
+        "name": "Diet Tonic Water",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645014/b3/en/front/20311645014_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Tonic Water 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 70,
+        "name": "Mini Ginger Ale 6 Pack",
+        "price": "6x222.0 ml, $0.22/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21087279/b3/en/front/21087279_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Ginger Ale 6 Pack 6x222.0 ml, $0.22/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 71,
+        "name": "Diet Ginger Ale",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645007/b3/en/front/20311645007_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Ginger Ale 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 72,
+        "name": "Zero Sugar Lime",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21576392/b3/en/front/21576392_front_a06_@2.png",
+        "image_alt": "Pepsi Zero Sugar Lime 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 73,
+        "name": "Limited Edition Cranberry Ginger Ale, case",
+        "price": "6x222.0 ml, $0.34/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21062428/b3/en/front/21062428_front_a06_@2.png",
+        "image_alt": "Canada Dry Limited Edition Cranberry Ginger Ale, case 6x222.0 ml, $0.34/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 74,
+        "name": "Mini Tonic Water 6 Pack",
+        "price": "6x222.0 ml, $0.22/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21094861/b3/en/front/21094861_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Tonic Water 6 Pack 6x222.0 ml, $0.22/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 75,
+        "name": "Diet, Bottle",
+        "price": "500 ml, $0.50/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20827666/b3/en/front/20827666_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet, Bottle 500 ml, $0.50/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 76,
+        "name": "Mexican Cola Soda with Natural and Artificial Flavours",
+        "price": "370 ml, $0.62/100ml",
+        "brand": "Jarritos",
+        "image_url": "https://assets.shop.loblaws.ca/products/21040487/b3/en/front/21040487_front_a06_@2.png",
+        "image_alt": "Jarritos Mexican Cola Soda with Natural and Artificial Flavours 370 ml, $0.62/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 77,
+        "name": "Tonic Water",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21065068/b3/en/front/21065068_front_a06_@2.png",
+        "image_alt": "Canada Dry Tonic Water  6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 78,
+        "name": "Zero Sugar",
+        "price": "1 l, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20659785/b3/en/front/20659785_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar 1 l, $0.18/100ml",
+        "price_product_tile": "$1.79$1.79"
+    },
+    {
+        "id": 79,
+        "name": "Diet Coke",
+        "price": "8x300.0 ml, $0.31/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21181171/b3/en/front/21181171_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet Coke   8x300.0 ml, $0.31/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 80,
+        "name": "Zero Sugar",
+        "price": "8x300.0 ml, $0.31/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21181175/b3/en/front/21181175_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar     8x300.0 ml, $0.31/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 81,
+        "name": "Low Sodium & Caffeine-Free Diet Cola",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645009/b3/en/front/20311645009_front_a06_@2.png",
+        "image_alt": "President's Choice Low Sodium & Caffeine-Free Diet Cola 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 82,
+        "name": "Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Dr Pepper",
+        "image_url": "https://assets.shop.loblaws.ca/products/20056206001/b3/en/front/20056206001_front_a06_@2.png",
+        "image_alt": "Dr Pepper Soda 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 83,
+        "name": "Pineapple Fridgepack Cans, 12 Pack",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "FANTA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21437106/b3/en/front/21437106_front_a06_@2.png",
+        "image_alt": "FANTA Pineapple Fridgepack Cans, 12 Pack 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 84,
+        "name": "Zero Sugar Cherry, 12 pack",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21021564/b3/en/front/21021564_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar Cherry, 12 pack 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 85,
+        "name": "Orange Soda",
+        "price": "6x710.0 ml, $0.14/100ml",
+        "brand": "Crush",
+        "image_url": "https://assets.shop.loblaws.ca/products/20324095/b3/en/front/20324095_front_a06_@2.png",
+        "image_alt": "Crush Orange Soda  6x710.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 86,
+        "name": "Zero Sugar Caffeine Mini Packs",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21384413/b3/EN/front/21384413_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar Caffeine Mini Packs 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 87,
+        "name": "Soda",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/20324722001/b3/en/front/20324722001_front_a06_@2.png",
+        "image_alt": "7Up Soda 24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$11.49$11.49$13.49$13.49SAVE $2.00"
+    },
+    {
+        "id": 88,
+        "name": "Diet Ginger Ale",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307569005/b3/en/front/20307569005_front_a06_@2.png",
+        "image_alt": "Canada Dry Diet Ginger Ale  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 89,
+        "name": "Ginger Ale Zero Sugar",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518408/b3/en/front/21518408_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale Zero Sugar 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 90,
+        "name": "Peanut Punch",
+        "price": "240 ml, $0.42/100ml",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20213313/b3/en/front/20213313_front_a06_@2.png",
+        "image_alt": "Grace Peanut Punch 240 ml, $0.42/100ml",
+        "price_product_tile": "$1.00$1.00$1.29$1.29SAVE $0.29"
+    },
+    {
+        "id": 91,
+        "name": "Crush Orange Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Crush",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307938001/b3/en/front/20307938001_front_a06_@2.png",
+        "image_alt": "Crush Crush Orange Soda  12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 92,
+        "name": "Orange Fridge Pack Cans",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "FANTA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518427/b3/en/front/21518427_front_a06_@2.png",
+        "image_alt": "FANTA Orange Fridge Pack Cans 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 93,
+        "name": "Orange Soda",
+        "price": "500 ml, $0.50/100ml",
+        "brand": "FANTA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21531921/b3/en/front/21531921_front_a06_@2.png",
+        "image_alt": "FANTA Orange Soda 500 ml, $0.50/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 94,
+        "name": "Max Zero Sugar Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296926004/b3/en/front/20296926004_front_a06_@2.png",
+        "image_alt": "Pepsi Max Zero Sugar Soda     2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 95,
+        "name": "Diet Cola",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887028/b3/en/front/20218887028_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Cola 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 96,
+        "name": "Lime Soft Drink",
+        "price": "370 ml, $0.62/100ml",
+        "brand": "Jarritos",
+        "image_url": "https://assets.shop.loblaws.ca/products/20147354011/b3/en/front/20147354011_front_a06_@2.png",
+        "image_alt": "Jarritos Lime Soft Drink 370 ml, $0.62/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 97,
+        "name": "Diet Ginger Ale",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311362002/b3/en/front/20311362002_front_a06_@2.png",
+        "image_alt": "Canada Dry Diet Ginger Ale 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 98,
+        "name": "Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/20325377001/b3/en/front/20325377001_front_a06_@2.png",
+        "image_alt": "7Up Soda 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 99,
+        "name": "Cola Soft Drink",
+        "price": "1 l, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20040201001/b3/en/front/20040201001_front_a06_@2.png",
+        "image_alt": "Pepsi Cola Soft Drink 1 l, $0.13/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 100,
+        "name": "Spritz Up",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887035/b3/en/front/20218887035_front_a06_@2.png",
+        "image_alt": "President's Choice Spritz Up 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 101,
+        "name": "Blue Hawaii Drink",
+        "price": "275 ml, $0.83/100ml",
+        "brand": "Freezone",
+        "image_url": "https://assets.shop.loblaws.ca/products/20887419/b3/en/front/20887419_front_a06_@2.png",
+        "image_alt": "Freezone Blue Hawaii Drink 275 ml, $0.83/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 102,
+        "name": "Malt Drink, Pomegranate",
+        "price": "330 ml, $0.54/100ml",
+        "brand": "Barbican",
+        "image_url": "https://assets.shop.loblaws.ca/products/20883754/b3/en/front/20883754_front_a06_@2.png",
+        "image_alt": "Barbican Malt Drink, Pomegranate 330 ml, $0.54/100ml",
+        "price_product_tile": "$1.79$1.79"
+    },
+    {
+        "id": 103,
+        "name": "Mini Jamaican Style Ginger Beer 6 Pack",
+        "price": "6x222.0 ml, $0.22/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21399519/b3/en/front/21399519_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Jamaican Style Ginger Beer 6 Pack 6x222.0 ml, $0.22/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 104,
+        "name": "Ginger Ale, Bottle",
+        "price": "500 ml, $0.50/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20828514/b3/en/front/20828514_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale, Bottle 500 ml, $0.50/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 105,
+        "name": "Bottle",
+        "price": "500 ml, $0.50/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20827426/b3/en/front/20827426_front_a06_@2.png",
+        "image_alt": "Sprite Bottle 500 ml, $0.50/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 106,
+        "name": "Orange Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Crush",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306117002/b3/en/front/20306117002_front_a06_@2.png",
+        "image_alt": "Crush Orange Soda 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 107,
+        "name": "Malt Beverage",
+        "price": "341 ml, $0.29/100ml",
+        "brand": "Tiger",
+        "image_url": "https://assets.shop.loblaws.ca/products/20039327/b3/en/front/20039327_front_a06_@2.png",
+        "image_alt": "Tiger Malt Beverage 341 ml, $0.29/100ml",
+        "price_product_tile": "$0.99$0.99$1.29$1.29SAVE $0.30"
+    },
+    {
+        "id": 108,
+        "name": "Zero Sugar Caffeine, 12 Pack",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21368014/b3/en/front/21368014_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar Caffeine, 12 Pack  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 109,
+        "name": "Club Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311362003/b3/en/front/20311362003_front_a06_@2.png",
+        "image_alt": "Canada Dry Club Soda 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 110,
+        "name": "Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Mountain Dew",
+        "image_url": "https://assets.shop.loblaws.ca/products/20571840/b3/en/front/20571840_front_a06_@2.png",
+        "image_alt": "Mountain Dew Soda 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 111,
+        "name": "Raspberry Lemonade Ginger Ale",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21615639/b3/en/front/21615639_front_a06_@2.png",
+        "image_alt": "Canada Dry Raspberry Lemonade Ginger Ale 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 112,
+        "name": "Naturally Flavoured Sparkling Beverage Orange",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "FANTA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21534527/b3/en/front/21534527_front_a06_@2.png",
+        "image_alt": "FANTA Naturally Flavoured Sparkling Beverage Orange 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 113,
+        "name": "Jamaican-Style Ginger Beer",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645010/b3/en/front/20311645010_front_a06_@2.png",
+        "image_alt": "President's Choice Jamaican-Style Ginger Beer 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 114,
+        "name": "Bottle",
+        "price": "8x300.0 ml, $0.31/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21181173/b3/en/front/21181173_front_a06_@2.png",
+        "image_alt": "Coca-Cola Bottle      8x300.0 ml, $0.31/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 115,
+        "name": "Orange Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "FANTA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518414/b3/en/front/21518414_front_a06_@2.png",
+        "image_alt": "FANTA Orange Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 116,
+        "name": "Soda",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Dr Pepper",
+        "image_url": "https://assets.shop.loblaws.ca/products/20373875/b3/en/front/20373875_front_a06_@2.png",
+        "image_alt": "Dr Pepper Soda 24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$11.49$11.49"
+    },
+    {
+        "id": 117,
+        "name": "Club Soda Triple Berry",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21433209/b3/en/front/21433209_front_a06_@2.png",
+        "image_alt": "Canada Dry Club Soda Triple Berry 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 118,
+        "name": "Max Zero Sugar Soda",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306687007/b3/en/front/20306687007_front_a06_@2.png",
+        "image_alt": "Pepsi Max Zero Sugar Soda     24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$11.49$11.49$13.49$13.49SAVE $2.00"
+    },
+    {
+        "id": 119,
+        "name": "Brisk Lemon Iced Tea",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Lipton",
+        "image_url": "https://assets.shop.loblaws.ca/products/20326699001/b3/en/front/20326699001_front_a06_@2.png",
+        "image_alt": "Lipton Brisk Lemon Iced Tea 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 120,
+        "name": "Old-Fashioned Style Root Beer Soda",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645017/b3/en/front/20311645017_front_a06_@2.png",
+        "image_alt": "President's Choice Old-Fashioned Style Root Beer Soda 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 121,
+        "name": "Watermelon Lemon Sparkling Soda",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20152117031/b3/en/front/20152117031_front_a06_@2.png",
+        "image_alt": "President's Choice Watermelon Lemon Sparkling Soda  12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 122,
+        "name": "Low Sodium & Caffeine-Free Diet Cola",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887029/b3/en/front/20218887029_front_a06_@2.png",
+        "image_alt": "President's Choice Low Sodium & Caffeine-Free Diet Cola 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 123,
+        "name": "Island Soda Mango Drink",
+        "price": "355 ml, $0.36/100ml",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/21564134/b3/en/front/21564134_front_a06_@2.png",
+        "image_alt": "Grace Island Soda Mango Drink 355 ml, $0.36/100ml",
+        "price_product_tile": "$1.29$1.29"
+    },
+    {
+        "id": 124,
+        "name": "Soda",
+        "price": "8x355.0 ml, $0.23/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21362875/b3/en/front/21362875_front_a06_@2.png",
+        "image_alt": "Pepsi Soda   8x355.0 ml, $0.23/100ml",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 125,
+        "name": "Diet Coke",
+        "price": "6x710.0 ml, $0.12/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313741003/b3/en/front/20313741003_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet Coke   6x710.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 126,
+        "name": "Ginger Ale, Bottle",
+        "price": "1 l, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299076002/b3/en/front/20299076002_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale, Bottle 1 l, $0.18/100ml",
+        "price_product_tile": "$1.79$1.79"
+    },
+    {
+        "id": 127,
+        "name": "Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307968001/b3/en/front/20307968001_front_a06_@2.png",
+        "image_alt": "7Up Soda       2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 128,
+        "name": "Spiced Mini",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589469/b3/en/front/21589469_front_a06_@2.png",
+        "image_alt": "Coca-Cola Spiced Mini 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 129,
+        "name": "Strawberry Soft Drink",
+        "price": "275 ml, $0.83/100ml",
+        "brand": "Freezone",
+        "image_url": "https://assets.shop.loblaws.ca/products/20886811/b3/en/front/20886811_front_a06_@2.png",
+        "image_alt": "Freezone Strawberry Soft Drink 275 ml, $0.83/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 130,
+        "name": "Soft Drink Mandarin Orange",
+        "price": "370 ml, $0.62/100ml",
+        "brand": "Jarritos",
+        "image_url": "https://assets.shop.loblaws.ca/products/20147354007/b3/en/front/20147354007_front_a06_@2.png",
+        "image_alt": "Jarritos Soft Drink Mandarin Orange 370 ml, $0.62/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 131,
+        "name": "Mini Diet Tonic Water 6 Pack",
+        "price": "6x222.0 ml, $0.22/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21094148/b3/en/front/21094148_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Diet Tonic Water 6 Pack 6x222.0 ml, $0.22/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 132,
+        "name": "Light Spicy Ginger Beer",
+        "price": "948 ml, $0.82/100ml",
+        "brand": "The Great Gentleman",
+        "image_url": "https://assets.shop.loblaws.ca/products/21594078/b3/en/front/21594078_front_a06_@2.png",
+        "image_alt": "The Great Gentleman Light Spicy Ginger Beer 948 ml, $0.82/100ml",
+        "price_product_tile": "$7.79$7.79"
+    },
+    {
+        "id": 133,
+        "name": "Strawberry",
+        "price": "200 ml, $1.25/100ml",
+        "brand": "Marble Pop",
+        "image_url": "https://assets.shop.loblaws.ca/products/20666497002/b3/en/front/20666497002_front_a06_@2.png",
+        "image_alt": "Marble Pop Strawberry 200 ml, $1.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 134,
+        "name": "Mini Club Soda 6 Pack",
+        "price": "6x222.0 ml, $0.22/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21094147/b3/en/front/21094147_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Club Soda 6 Pack 6x222.0 ml, $0.22/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 135,
+        "name": "Zero Sugar",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21189960/b3/en/front/21189960_front_a06_@2.png",
+        "image_alt": "Pepsi Zero Sugar  6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$3.99$3.99SAVE $0.50"
+    },
+    {
+        "id": 136,
+        "name": "Wild Cherry Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322361009/b3/en/front/20322361009_front_a06_@2.png",
+        "image_alt": "Pepsi Wild Cherry Soda     12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 137,
+        "name": "Tonic Water",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887030/b3/en/front/20218887030_front_a06_@2.png",
+        "image_alt": "President's Choice Tonic Water 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 138,
+        "name": "Limited Edition Diet Cranberry Ginger Ale",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21203621/b3/en/front/21203621_front_a06_@2.png",
+        "image_alt": "Canada Dry Limited Edition Diet Cranberry Ginger Ale 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 139,
+        "name": "Spiced",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589652/b3/en/front/21589652_front_a06_@2.png",
+        "image_alt": "Coca-Cola Spiced 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 140,
+        "name": "Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Mountain Dew",
+        "image_url": "https://assets.shop.loblaws.ca/products/20312312001/b3/en/front/20312312001_front_a06_@2.png",
+        "image_alt": "Mountain Dew Soda 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 141,
+        "name": "Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Fresca",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313027001/b3/en/front/20313027001_front_a06_@2.png",
+        "image_alt": "Fresca Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 142,
+        "name": "Old-Fashioned Style Root Beer Soda",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887036/b3/en/front/20218887036_front_a06_@2.png",
+        "image_alt": "President's Choice Old-Fashioned Style Root Beer Soda 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 143,
+        "name": "Raspberry Lemonade Ginger Ale Zero Sugar",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21615872/b3/en/front/21615872_front_a06_@2.png",
+        "image_alt": "Canada Dry Raspberry Lemonade Ginger Ale Zero Sugar 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 144,
+        "name": "Soft Drink Mini",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Dr Pepper",
+        "image_url": "https://assets.shop.loblaws.ca/products/21356963/b3/en/front/21356963_front_a06_@2.png",
+        "image_alt": "Dr Pepper Soft Drink Mini  6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$3.99$3.99SAVE $0.50"
+    },
+    {
+        "id": 145,
+        "name": "Tonic Water",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887030/b3/en/front/20218887030_front_a06_@2.png",
+        "image_alt": "President's Choice Tonic Water 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 146,
+        "name": "Zero, Bottle 2L",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20713788/b3/en/front/20713788_front_a06_@2.png",
+        "image_alt": "Sprite Zero, Bottle 2L 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 147,
+        "name": "Spiced",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589652/b3/en/front/21589652_front_a06_@2.png",
+        "image_alt": "Coca-Cola Spiced 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 148,
+        "name": "Zero Sugar",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/21098829/b3/en/front/21098829_front_a06_@2.png",
+        "image_alt": "7Up Zero Sugar 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$3.99$3.99SAVE $0.50"
+    },
+    {
+        "id": 149,
+        "name": "Sparkling Apple Drink",
+        "price": "1 l, $0.30/100ml",
+        "brand": "Frooti",
+        "image_url": "https://assets.shop.loblaws.ca/products/21042148/b3/en/front/21042148_front_a06_@2.png",
+        "image_alt": "Frooti Sparkling Apple Drink 1 l, $0.30/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 150,
+        "name": "Zero Soda",
+        "price": "2 l, $0.13/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307968002/b3/en/front/20307968002_front_a06_@2.png",
+        "image_alt": "7Up Zero Soda 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 151,
+        "name": "Orange Bottles",
+        "price": "8x300.0 ml, $0.31/100ml",
+        "brand": "FANTA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518445/b3/en/front/21518445_front_a06_@2.png",
+        "image_alt": "FANTA Orange Bottles 8x300.0 ml, $0.31/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 152,
+        "name": "Cream Soda",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645020/b3/en/front/20311645020_front_a06_@2.png",
+        "image_alt": "President's Choice Cream Soda 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 153,
+        "name": "Ginger Ale Zero Sugar",
+        "price": "500 ml, $0.50/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518584/b3/en/front/21518584_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale Zero Sugar 500 ml, $0.50/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 154,
+        "name": "Lemon Iced Tea",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Brisk",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311671001/b3/en/front/20311671001_front_a06_@2.png",
+        "image_alt": "Brisk Lemon Iced Tea     12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 155,
+        "name": "Cola Carbonated Beverage",
+        "price": "250 ml, $0.40/100ml",
+        "brand": "Alokozay",
+        "image_url": "https://assets.shop.loblaws.ca/products/21567058/b3/en/front/21567058_front_a06_@2.png",
+        "image_alt": "Alokozay Cola Carbonated Beverage 250 ml, $0.40/100ml",
+        "price_product_tile": "$0.99$0.99"
+    },
+    {
+        "id": 156,
+        "name": "Diet Soda",
+        "price": "1 l, $0.13/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20040201002/b3/en/front/20040201002_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda 1 l, $0.13/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 157,
+        "name": "Strawberries & Cream",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Dr Pepper",
+        "image_url": "https://assets.shop.loblaws.ca/products/21587363/b3/en/front/21587363_front_a06_@2.png",
+        "image_alt": "Dr Pepper Strawberries & Cream 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 158,
+        "name": "Mini Cola 6 Pack",
+        "price": "222 ml, $0.22/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361951/b3/en/front/21361951_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Cola 6 Pack 222 ml, $0.22/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 159,
+        "name": "Bottle",
+        "price": "1 l, $0.18/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306007001/b3/en/front/20306007001_front_a06_@2.png",
+        "image_alt": "Sprite Bottle 1 l, $0.18/100ml",
+        "price_product_tile": "$1.79$1.79"
+    },
+    {
+        "id": 160,
+        "name": "Diet Cola",
+        "price": "2 l, $0.06/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20311645002/b3/en/front/20311645002_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Cola 2 l, $0.06/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 161,
+        "name": "Cherry Flavoured Cola",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21392782/b3/en/front/21392782_front_a06_@2.png",
+        "image_alt": "Coca-Cola Cherry Flavoured Cola  12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 162,
+        "name": "Zero",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20713862/b3/en/front/20713862_front_a06_@2.png",
+        "image_alt": "Sprite Zero       12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 163,
+        "name": "Zero Sugar Soda",
+        "price": "8x355.0 ml, $0.23/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361864/b3/en/front/21361864_front_a06_@2.png",
+        "image_alt": "Pepsi Zero Sugar Soda  8x355.0 ml, $0.23/100ml",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 164,
+        "name": "Zero Spiced",
+        "price": "12x355.0 ml, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589046/b3/en/front/21589046_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Spiced 12x355.0 ml, $0.18/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 165,
+        "name": "Diet Caffeine Free, Bottle",
+        "price": "2 l, $0.13/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316026003/b3/en/front/20316026003_front_a06_@2.png",
+        "image_alt": "Coca-Cola Diet Caffeine Free, Bottle 2 l, $0.13/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 166,
+        "name": "Ginger Beer Mini Can",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588853/b3/en/front/21588853_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Beer Mini Can 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 167,
+        "name": "Ginger Ale, 8 Pack Bottles",
+        "price": "8x300.0 ml, $0.31/100ml",
+        "brand": "Canada Dry",
+        "image_url": "https://assets.shop.loblaws.ca/products/21181176/b3/en/front/21181176_front_a06_@2.png",
+        "image_alt": "Canada Dry Ginger Ale, 8 Pack Bottles 8x300.0 ml, $0.31/100ml",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 168,
+        "name": "Soda",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20354164001/b3/en/front/20354164001_front_a06_@2.png",
+        "image_alt": "Sprite Soda  6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$4.29$4.29SAVE $0.80"
+    },
+    {
+        "id": 169,
+        "name": "Diet Lemonade Sparkling Soda",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20152117011/b3/en/front/20152117011_front_a06_@2.png",
+        "image_alt": "President's Choice Diet Lemonade Sparkling Soda   12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 170,
+        "name": "Soda",
+        "price": "24x355.0 ml, $0.13/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20298360001/b3/en/front/20298360001_front_a06_@2.png",
+        "image_alt": "Sprite Soda  24x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$10.98$10.98$12.99$12.99SAVE $2.01"
+    },
+    {
+        "id": 171,
+        "name": "Sparkling Lemonade 12 Cans",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20152117010/b3/en/front/20152117010_front_a06_@2.png",
+        "image_alt": "President's Choice Sparkling Lemonade 12 Cans 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 172,
+        "name": "Soda",
+        "price": "6x710.0 ml, $0.12/100ml",
+        "brand": "Sprite",
+        "image_url": "https://assets.shop.loblaws.ca/products/20115107001/b3/en/front/20115107001_front_a06_@2.png",
+        "image_alt": "Sprite Soda  6x710.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 173,
+        "name": "Water Melon Watermelon Hibiscus Soda",
+        "price": "250 ml, $0.60/100ml",
+        "brand": "The Great Gentleman",
+        "image_url": "https://assets.shop.loblaws.ca/products/21455400/b3/en/front/21455400_front_a06_@2.png",
+        "image_alt": "The Great Gentleman Water Melon Watermelon Hibiscus Soda 250 ml, $0.60/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 174,
+        "name": "Zero Wild Cherry, 12-Pack",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21523222/b3/en/front/21523222_front_a06_@2.png",
+        "image_alt": "Pepsi Zero Wild Cherry, 12-Pack 12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 175,
+        "name": "Zero Sugar Soda",
+        "price": "12x355.0 ml, $0.16/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322361001/b3/en/front/20322361001_front_a06_@2.png",
+        "image_alt": "Pepsi Zero Sugar Soda     12x355.0 ml, $0.16/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 176,
+        "name": "Spicy Ginger Beer",
+        "price": "948 ml, $0.82/100ml",
+        "brand": "The Great Gentleman",
+        "image_url": "https://assets.shop.loblaws.ca/products/21594192/b3/en/front/21594192_front_a06_@2.png",
+        "image_alt": "The Great Gentleman Spicy Ginger Beer 948 ml, $0.82/100ml",
+        "price_product_tile": "$7.79$7.79"
+    },
+    {
+        "id": 177,
+        "name": "Kola, Champagne",
+        "price": "355 ml, $0.36/100ml",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299652003/b3/en/front/20299652003_front_a06_@2.png",
+        "image_alt": "Grace Kola, Champagne 355 ml, $0.36/100ml",
+        "price_product_tile": "$1.29$1.29$1.49$1.49SAVE $0.20"
+    },
+    {
+        "id": 178,
+        "name": "Diet Soda",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "Pepsi",
+        "image_url": "https://assets.shop.loblaws.ca/products/20857560006/b3/en/front/20857560006_front_a06_@2.png",
+        "image_alt": "Pepsi Diet Soda 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$3.99$3.99SAVE $0.50"
+    },
+    {
+        "id": 179,
+        "name": "Island Soda, Pineapple",
+        "price": "355 ml, $0.36/100ml",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299652001/b3/en/front/20299652001_front_a06_@2.png",
+        "image_alt": "Grace Island Soda, Pineapple 355 ml, $0.36/100ml",
+        "price_product_tile": "$1.29$1.29$1.49$1.49SAVE $0.20"
+    },
+    {
+        "id": 180,
+        "name": "Soda Mini",
+        "price": "6x222.0 ml, $0.26/100ml",
+        "brand": "7Up",
+        "image_url": "https://assets.shop.loblaws.ca/products/20857560002/b3/en/front/20857560002_front_a06_@2.png",
+        "image_alt": "7Up Soda Mini 6x222.0 ml, $0.26/100ml",
+        "price_product_tile": "$3.49$3.49$3.99$3.99SAVE $0.50"
+    },
+    {
+        "id": 181,
+        "name": "Ginger Ale",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20690671002/b3/en/front/20690671002_front_a06_@2.png",
+        "image_alt": "President's Choice Ginger Ale 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 182,
+        "name": "Zero Sugar, Bottle",
+        "price": "500 ml, $0.50/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20827604/b3/en/front/20827604_front_a06_@2.png",
+        "image_alt": "Coca-Cola Zero Sugar, Bottle 500 ml, $0.50/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 183,
+        "name": "Cola",
+        "price": "12x355.0 ml, $0.14/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20218887027/b3/en/front/20218887027_front_a06_@2.png",
+        "image_alt": "President's Choice Cola 12x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 184,
+        "name": "Bottle",
+        "price": "1 l, $0.18/100ml",
+        "brand": "Coca-Cola",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299050/b3/en/front/20299050_front_a06_@2.png",
+        "image_alt": "Coca-Cola Bottle 1 l, $0.18/100ml",
+        "price_product_tile": "$1.79$1.79"
+    }
+]

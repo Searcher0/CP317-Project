@@ -1,0 +1,335 @@
+[
+    {
+        "id": 1,
+        "name": "Butter Croissant",
+        "price": "270 g, $1.85/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/20975943/b3/en/front/20975943_front_a06_@2.png",
+        "image_alt": "Farmer's Market Butter Croissant 270 g, $1.85/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 2,
+        "name": "Original English Muffins",
+        "price": "342 g, $0.58/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297780/b3/en/front/21297780_front_a06_@2.png",
+        "image_alt": "No Name Original English Muffins 342 g, $0.58/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 3,
+        "name": "Everything Bagels",
+        "price": "510 g, $0.39/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297831/b3/en/front/21297831_front_a06_@2.png",
+        "image_alt": "No Name Everything Bagels 510 g, $0.39/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 4,
+        "name": "Bagel Plain, 6 Pack",
+        "price": "510 g, $0.39/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297816/b3/en/front/21297816_front_a06_@2.png",
+        "image_alt": "No Name Bagel Plain, 6 Pack 510 g, $0.39/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 5,
+        "name": "Original English Muffins",
+        "price": "342 g, $0.87/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20810728/b3/en/front/20810728_front_a06_@2.png",
+        "image_alt": "President's Choice Original English Muffins 342 g, $0.87/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 6,
+        "name": "Everything Bagel",
+        "price": "450 g, $0.67/100g",
+        "brand": "Country Harvest",
+        "image_url": "https://assets.shop.loblaws.ca/products/21178597/b3/en/front/21178597_front_a06_@2.png",
+        "image_alt": "Country Harvest Everything Bagel 450 g, $0.67/100g",
+        "price_product_tile": "$3.00$3.00$3.29$3.29SAVE $0.29"
+    },
+    {
+        "id": 7,
+        "name": "Butter Croissants Mini",
+        "price": "336 g, $1.49/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21032805/b3/en/front/21032805_front_a06_@2.png",
+        "image_alt": "Farmer's Market Butter Croissants Mini 336 g, $1.49/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 8,
+        "name": "Sesame Seed Bagels",
+        "price": "510 g, $0.39/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297778/b3/en/front/21297778_front_a06_@2.png",
+        "image_alt": "No Name Sesame Seed Bagels 510 g, $0.39/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 9,
+        "name": "Original Bagels",
+        "price": "450 g, $0.67/100g",
+        "brand": "Country Harvest",
+        "image_url": "https://assets.shop.loblaws.ca/products/21178546/b3/en/front/21178546_front_a06_@2.png",
+        "image_alt": "Country Harvest Original Bagels 450 g, $0.67/100g",
+        "price_product_tile": "$3.00$3.00$3.29$3.29SAVE $0.29"
+    },
+    {
+        "id": 10,
+        "name": "Whole Wheat English Muffins",
+        "price": "342 g, $0.58/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297819/b3/en/front/21297819_front_a06_@2.png",
+        "image_alt": "No Name Whole Wheat English Muffins 342 g, $0.58/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 11,
+        "name": "Bagels, Raisin Cinnamon with Whole Wheat",
+        "price": "450 g, $0.67/100g",
+        "brand": "Country Harvest",
+        "image_url": "https://assets.shop.loblaws.ca/products/20914389/b3/en/front/20914389_front_a06_@2.png",
+        "image_alt": "Country Harvest Bagels, Raisin Cinnamon with Whole Wheat 450 g, $0.67/100g",
+        "price_product_tile": "$3.00$3.00$3.29$3.29SAVE $0.29"
+    },
+    {
+        "id": 12,
+        "name": "14 Grain Bagels",
+        "price": "450 g, $0.67/100g",
+        "brand": "Country Harvest",
+        "image_url": "https://assets.shop.loblaws.ca/products/21178601/b3/en/front/21178601_front_a06_@2.png",
+        "image_alt": "Country Harvest 14 Grain Bagels 450 g, $0.67/100g",
+        "price_product_tile": "$3.00$3.00$3.29$3.29SAVE $0.29"
+    },
+    {
+        "id": 13,
+        "name": "Everything Bagels",
+        "price": "6x75.0 g, $1.00/100g",
+        "brand": "Dempster",
+        "image_url": "https://assets.shop.loblaws.ca/products/20563221/b3/en/front/20563221_front_a06_@2.png",
+        "image_alt": "Dempster Everything Bagels 6x75.0 g, $1.00/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 14,
+        "name": "Crumpets",
+        "price": "284 g, $1.05/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20123948/b3/en/front/20123948_front_a06_@2.png",
+        "image_alt": "President's Choice Crumpets 284 g, $1.05/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 15,
+        "name": "Bagel Cinnamon Raisin, 6 pack",
+        "price": "510 g, $0.39/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297784/b3/en/front/21297784_front_a06_@2.png",
+        "image_alt": "No Name Bagel Cinnamon Raisin, 6 pack 510 g, $0.39/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 16,
+        "name": "Sesame Bagels",
+        "price": "450 g, $0.67/100g",
+        "brand": "Country Harvest",
+        "image_url": "https://assets.shop.loblaws.ca/products/21178531/b3/en/front/21178531_front_a06_@2.png",
+        "image_alt": "Country Harvest Sesame Bagels 450 g, $0.67/100g",
+        "price_product_tile": "$3.00$3.00$3.29$3.29SAVE $0.29"
+    },
+    {
+        "id": 17,
+        "name": "Bagel Whole Wheat",
+        "price": "510 g, $0.39/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297807/b3/en/front/21297807_front_a06_@2.png",
+        "image_alt": "No Name Bagel Whole Wheat 510 g, $0.39/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 18,
+        "name": "Original Bagels",
+        "price": "6x75.0 g, $1.00/100g",
+        "brand": "Dempster",
+        "image_url": "https://assets.shop.loblaws.ca/products/20563427/b3/en/front/20563427_front_a06_@2.png",
+        "image_alt": "Dempster Original Bagels 6x75.0 g, $1.00/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 19,
+        "name": "Butter Croissant Buns",
+        "price": "300 g, $1.67/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577824/b3/en/front/21577824_front_a06_@2.png",
+        "image_alt": "Farmer's Market Butter Croissant Buns 300 g, $1.67/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 20,
+        "name": "Original 6 Croissants",
+        "price": "6x300.0 g, $1.33/100g",
+        "brand": "Dumas",
+        "image_url": "https://assets.shop.loblaws.ca/products/21161077/b3/en/front/21161077_front_a06_@2.png",
+        "image_alt": "Dumas Original 6 Croissants 6x300.0 g, $1.33/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 21,
+        "name": "Mini Choco Buns",
+        "price": "400 g, $1.15/100g",
+        "brand": "LA PETITE BRETONNE",
+        "image_url": "https://assets.shop.loblaws.ca/products/20174610/b3/en/front/20174610_front_a06_@2.png",
+        "image_alt": "LA PETITE BRETONNE Mini Choco Buns 400 g, $1.15/100g",
+        "price_product_tile": "$4.59$4.59"
+    },
+    {
+        "id": 22,
+        "name": "Blueberry Bagel",
+        "price": "450 g, $0.44/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21343191/b3/en/front/21343191_front_a06_@2.png",
+        "image_alt": "No Name Blueberry Bagel 450 g, $0.44/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 23,
+        "name": "Bagel Poppy Seed",
+        "price": "510 g, $0.39/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21297811/b3/en/front/21297811_front_a06_@2.png",
+        "image_alt": "No Name Bagel Poppy Seed 510 g, $0.39/100g",
+        "price_product_tile": "$1.97$1.97"
+    },
+    {
+        "id": 24,
+        "name": "Everything Bagels 6 Bagels",
+        "price": "336 g, $1.19/100g",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/21018518/b3/en/front/21018518_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Everything Bagels 6 Bagels 336 g, $1.19/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 25,
+        "name": "Mini-Croissants",
+        "price": "340 g, $1.14/100g",
+        "brand": "Di Manno Bakery",
+        "image_url": "https://assets.shop.loblaws.ca/products/21615681/b3/en/front/21615681_front_a06_@2.png",
+        "image_alt": "Di Manno Bakery Mini-Croissants 340 g, $1.14/100g",
+        "price_product_tile": "$3.89$3.89"
+    },
+    {
+        "id": 26,
+        "name": "Plain English Muffins",
+        "price": "6x57.0 g, $0.96/100g",
+        "brand": "Dempster",
+        "image_url": "https://assets.shop.loblaws.ca/products/20339353/b3/en/front/20339353_front_a06_@2.png",
+        "image_alt": "Dempster Plain English Muffins 6x57.0 g, $0.96/100g",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 27,
+        "name": "Sprouted Power Bagels Sesame Sunflower Organic 5 Bagels",
+        "price": "400 g, $1.67/100g",
+        "brand": "Silver Hills",
+        "image_url": "https://assets.shop.loblaws.ca/products/21100346/b3/en/front/21100346_front_a06_@2.png",
+        "image_alt": "Silver Hills Sprouted Power Bagels Sesame Sunflower Organic 5 Bagels 400 g, $1.67/100g",
+        "price_product_tile": "$6.69$6.69"
+    },
+    {
+        "id": 28,
+        "name": "Gusto! Black & White Sesame 6 Bagels",
+        "price": "540 g, $0.83/100g",
+        "brand": "D'Italiano",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577155/b3/en/front/21577155_front_a06_@2.png",
+        "image_alt": "D'Italiano Gusto! Black & White Sesame 6 Bagels 540 g, $0.83/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 29,
+        "name": "Micro Croissants",
+        "price": "350 g, $1.31/100g",
+        "brand": "LA PETITE BRETONNE",
+        "image_url": "https://assets.shop.loblaws.ca/products/20302754/b3/en/front/20302754_front_a06_@2.png",
+        "image_alt": "LA PETITE BRETONNE Micro Croissants 350 g, $1.31/100g",
+        "price_product_tile": "$4.59$4.59"
+    },
+    {
+        "id": 30,
+        "name": "Original English Muffins",
+        "price": "684 g, $0.48/100g",
+        "brand": "Old Mill",
+        "image_url": "https://assets.shop.loblaws.ca/products/20757203/b3/en/front/20757203_front_a06_@2.png",
+        "image_alt": "Old Mill Original English Muffins 684 g, $0.48/100g",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 31,
+        "name": "Croissant Cocktail",
+        "price": "370x370.0 g, $1.29/100g",
+        "brand": "LA PETITE BRETONNE",
+        "image_url": "https://assets.shop.loblaws.ca/products/21298096/b3/en/front/21298096_front_a06_@2.png",
+        "image_alt": "LA PETITE BRETONNE Croissant Cocktail  370x370.0 g, $1.29/100g",
+        "price_product_tile": "$4.79$4.79"
+    },
+    {
+        "id": 32,
+        "name": "Sprouted Power Bagels Cinnamon Raisin Organic 5 Bagels",
+        "price": "400 g, $1.67/100g",
+        "brand": "Silver Hills",
+        "image_url": "https://assets.shop.loblaws.ca/products/21100351/b3/en/front/21100351_front_a06_@2.png",
+        "image_alt": "Silver Hills Sprouted Power Bagels Cinnamon Raisin Organic 5 Bagels 400 g, $1.67/100g",
+        "price_product_tile": "$6.69$6.69"
+    },
+    {
+        "id": 33,
+        "name": "Gusto! Everything & Herbs 6 Bagels",
+        "price": "540 g, $0.83/100g",
+        "brand": "D'Italiano",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577054/b3/en/front/21577054_front_a06_@2.png",
+        "image_alt": "D'Italiano Gusto! Everything & Herbs 6 Bagels 540 g, $0.83/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 34,
+        "name": "Gusto! Original 6 Bagels",
+        "price": "540 g, $0.83/100g",
+        "brand": "D'Italiano",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577059/b3/en/front/21577059_front_a06_@2.png",
+        "image_alt": "D'Italiano Gusto! Original 6 Bagels 540 g, $0.83/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 35,
+        "name": "Raisin Cinnamon English Muffins",
+        "price": "342 g, $0.87/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20810726/b3/en/front/20810726_front_a06_@2.png",
+        "image_alt": "President's Choice Raisin Cinnamon English Muffins 342 g, $0.87/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 36,
+        "name": "Multigrain English Muffins",
+        "price": "342 g, $0.87/100g",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20810793/b3/en/front/20810793_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Multigrain English Muffins 342 g, $0.87/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 37,
+        "name": "Chocolatines",
+        "price": "260 g, $1.92/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/20967794/b3/en/front/20967794_front_a06_@2.png",
+        "image_alt": "Farmer's Market Chocolatines 260 g, $1.92/100g",
+        "price_product_tile": "$5.00$5.00"
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "name": "Hummus",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584097/b3/en/front/20584097_front_a06_@2.png",
+        "image_alt": "President's Choice Hummus  227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 2,
+        "name": "Roasted Garlic Hummus Chickpea Dip & Spread",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584212/b3/en/front/20584212_front_a06_@2.png",
+        "image_alt": "President's Choice Roasted Garlic Hummus Chickpea Dip & Spread 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 3,
+        "name": "Tzatziki Yogurt Dip",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20574522/b3/en/front/20574522_front_a06_@2.png",
+        "image_alt": "President's Choice Tzatziki Yogurt Dip\u00a0\u00a0 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 4,
+        "name": "Hummus Chickpea Dip And Spread",
+        "price": "454 g, $1.43/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584098/b3/en/front/20584098_front_a06_@2.png",
+        "image_alt": "President's Choice Hummus Chickpea Dip And Spread 454 g, $1.43/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 5,
+        "name": "Traditional Tzatziki Yogurt Dip",
+        "price": "454 g, $1.43/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584001/b3/en/front/20584001_front_a06_@2.png",
+        "image_alt": "President's Choice Traditional Tzatziki Yogurt Dip 454 g, $1.43/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 6,
+        "name": "Roasted Red Pepper Dip",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584005/b3/en/front/20584005_front_a06_@2.png",
+        "image_alt": "President's Choice Roasted Red Pepper Dip 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 7,
+        "name": "Artichoke & Asiago Dip",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584040/b3/en/front/20584040_front_a06_@2.png",
+        "image_alt": "President's Choice Artichoke & Asiago Dip 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 8,
+        "name": "Spinach Dip",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584012/b3/en/front/20584012_front_a06_@2.png",
+        "image_alt": "President's Choice Spinach Dip 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 9,
+        "name": "Everything Bagel Hummus",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21474403/b3/en/front/21474403_front_a06_@2.png",
+        "image_alt": "President's Choice Everything Bagel Hummus 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 10,
+        "name": "Garlic Toum Dip",
+        "price": "200 g, $2.25/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588774/b3/en/front/21588774_front_a06_@2.png",
+        "image_alt": "President's Choice Garlic Toum Dip 200 g, $2.25/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 11,
+        "name": "Pico De Gallo Mild Salsa",
+        "price": "300 g, $2.00/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20959575/b3/en/front/20959575_front_a06_@2.png",
+        "image_alt": "President's Choice Pico De Gallo Mild Salsa 300 g, $2.00/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 12,
+        "name": "Roasted Garlic Hummus",
+        "price": "454 g, $1.43/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584213/b3/en/front/20584213_front_a06_@2.png",
+        "image_alt": "President's Choice Roasted Garlic Hummus 454 g, $1.43/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 13,
+        "name": "Tzatziki",
+        "price": "227 g, $1.32/100g",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20583408/b3/en/front/20583408_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Tzatziki 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 14,
+        "name": "Classic hummus",
+        "price": "283 g, $1.76/100g",
+        "brand": "Sabra",
+        "image_url": "https://assets.shop.loblaws.ca/products/20005858/b3/en/front/20005858_front_a06_@2.png",
+        "image_alt": "Sabra Classic hummus      283 g, $1.76/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 15,
+        "name": "Olive Tapenade Hummus Chickpea Dip & Spread",
+        "price": "280 g, $1.60/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20811328/b3/en/front/20811328_front_a06_@2.png",
+        "image_alt": "President's Choice Olive Tapenade Hummus Chickpea Dip & Spread 280 g, $1.60/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 16,
+        "name": "Baba Ghanouj",
+        "price": "227 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20584033/b3/en/front/20584033_front_a06_@2.png",
+        "image_alt": "President's Choice Baba Ghanouj 227 g, $1.32/100g",
+        "price_product_tile": "$2.99$2.99$3.49$3.49SAVE $0.50"
+    },
+    {
+        "id": 17,
+        "name": "Chunky Guacamole",
+        "price": "227 g, $2.33/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21448079/b3/en/front/21448079_front_a06_@2.png",
+        "image_alt": "President's Choice Chunky Guacamole 227 g, $2.33/100g",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 18,
+        "name": "Spinach Dip",
+        "price": "454 g, $1.43/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20583725/b3/en/front/20583725_front_a06_@2.png",
+        "image_alt": "President's Choice Spinach Dip 454 g, $1.43/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 19,
+        "name": "Spicy Garlic Toum Dip",
+        "price": "200 g, $2.90/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589448/b3/en/front/21589448_front_a06_@2.png",
+        "image_alt": "President's Choice Spicy Garlic Toum Dip 200 g, $2.90/100g",
+        "price_product_tile": "$5.79$5.79"
+    },
+    {
+        "id": 20,
+        "name": "Chunky Guacamole",
+        "price": "425 g, $1.64/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21448102/b3/en/front/21448102_front_a06_@2.png",
+        "image_alt": "President's Choice Chunky Guacamole 425 g, $1.64/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 21,
+        "name": "Hummus, Mini",
+        "price": "228 g, $1.88/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20754856/b3/en/front/20754856_front_a06_@2.png",
+        "image_alt": "President's Choice Hummus, Mini 228 g, $1.88/100g",
+        "price_product_tile": "$4.29$4.29"
+    },
+    {
+        "id": 22,
+        "name": "Roasted Garlic, Red Pepper & Cumin Hummus Chickpea Dip And Spread",
+        "price": "280 g, $1.60/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20811384/b3/en/front/20811384_front_a06_@2.png",
+        "image_alt": "President's Choice Roasted Garlic, Red Pepper & Cumin Hummus Chickpea Dip And Spread 280 g, $1.60/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 23,
+        "name": "Hummus Roasted Garlic",
+        "price": "283 g, $1.76/100g",
+        "brand": "Sabra",
+        "image_url": "https://assets.shop.loblaws.ca/products/20103342/b3/en/front/20103342_front_a06_@2.png",
+        "image_alt": "Sabra Hummus Roasted Garlic 283 g, $1.76/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 24,
+        "name": "Mini Roasted Garlic Hummus Chickpea Dip And Spread",
+        "price": "228 g, $1.75/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20754859/b3/en/front/20754859_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Roasted Garlic Hummus Chickpea Dip And Spread 228 g, $1.75/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 25,
+        "name": "Fiesta 5-Layer Dip",
+        "price": "454 g, $1.76/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20590024/b3/en/front/20590024_front_a06_@2.png",
+        "image_alt": "President's Choice Fiesta 5-Layer Dip 454 g, $1.76/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 26,
+        "name": "Za'atar Hummus",
+        "price": "280 g, $1.60/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21446583/b3/en/front/21446583_front_a06_@2.png",
+        "image_alt": "President's Choice Za'atar Hummus 280 g, $1.60/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 27,
+        "name": "Organic Hummus Chickpea Dip & Spread",
+        "price": "190 g, $1.84/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/20944429/b3/en/front/20944429_front_a06_@2.png",
+        "image_alt": "PC Organics Organic Hummus Chickpea Dip & Spread 190 g, $1.84/100g",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 28,
+        "name": "Samosa Layered Dip",
+        "price": "350 g, $1.14/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588729/b3/en/front/21588729_front_a06_@2.png",
+        "image_alt": "President's Choice Samosa Layered Dip 350 g, $1.14/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 29,
+        "name": "Olive Medley",
+        "price": "500 ml, $1.20/100ml",
+        "brand": "Ziggy's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20501268/b3/en/front/20501268_front_a06_@2.png",
+        "image_alt": "Ziggy's Olive Medley 500 ml, $1.20/100ml",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 30,
+        "name": "Guacamole Classic",
+        "price": "198 g, $3.03/100g",
+        "brand": "Sabra",
+        "image_url": "https://assets.shop.loblaws.ca/products/21586063/b3/en/front/21586063_front_a06_@2.png",
+        "image_alt": "Sabra Guacamole Classic 198 g, $3.03/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 31,
+        "name": "Kalamata Olives",
+        "price": "500 ml, $1.20/100ml",
+        "brand": "Ziggy's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20501267/b3/en/front/20501267_front_a06_@2.png",
+        "image_alt": "Ziggy's Kalamata Olives 500 ml, $1.20/100ml",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 32,
+        "name": "Olives Kalamata",
+        "price": "1 l, $1.10/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/21176866/b3/en/front/21176866_front_a06_@2.png",
+        "image_alt": "Sardo Olives Kalamata      1 l, $1.10/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 33,
+        "name": "Pitted Kalamata Olives",
+        "price": "250 ml, $2.40/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20863239/b3/en/front/20863239_front_a06_@2.png",
+        "image_alt": "Sardo Pitted Kalamata Olives 250 ml, $2.40/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 34,
+        "name": "Stuffed Mammoth Green Olives",
+        "price": "250 ml, $2.40/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20596428/b3/en/front/20596428_front_a06_@2.png",
+        "image_alt": "Sardo Stuffed Mammoth Green Olives 250 ml, $2.40/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 35,
+        "name": "Garlic Stuffed Green Olives",
+        "price": "250 ml, $2.20/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20276224/b3/en/front/20276224_front_a06_@2.png",
+        "image_alt": "Sardo Garlic Stuffed Green Olives 250 ml, $2.20/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 36,
+        "name": "Jumbo Pitted Green Olives",
+        "price": "250 ml, $2.40/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20596426/b3/en/front/20596426_front_a06_@2.png",
+        "image_alt": "Sardo Jumbo Pitted Green Olives 250 ml, $2.40/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 37,
+        "name": "Mini Roasted Garlic Hummus Chickpea Dip And Spread",
+        "price": "12x57.0 g, $1.46/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20862991/b3/en/front/20862991_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Roasted Garlic Hummus Chickpea Dip And Spread 12x57.0 g, $1.46/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 38,
+        "name": "Basil Pesto",
+        "price": "190 ml, $2.89/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20734165/b3/en/front/20734165_front_a06_@2.png",
+        "image_alt": "Sardo Basil Pesto 190 ml, $2.89/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 39,
+        "name": "Party Mix Olives",
+        "price": "250 ml, $2.40/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20596554/b3/en/front/20596554_front_a06_@2.png",
+        "image_alt": "Sardo Party Mix Olives 250 ml, $2.40/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 40,
+        "name": "Olives Party Mix",
+        "price": "1 l, $1.10/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/21176852/b3/en/front/21176852_front_a06_@2.png",
+        "image_alt": "Sardo Olives Party Mix     1 l, $1.10/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 41,
+        "name": "Olives Stuffed Halkidiki",
+        "price": "1 l, $1.10/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/21176872/b3/en/front/21176872_front_a06_@2.png",
+        "image_alt": "Sardo Olives Stuffed Halkidiki     1 l, $1.10/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 42,
+        "name": "Garlic Stuffed Olives",
+        "price": "500 g, $1.80/100g",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20820656/b3/en/front/20820656_front_a06_@2.png",
+        "image_alt": "Sardo Garlic Stuffed Olives 500 g, $1.80/100g",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 43,
+        "name": "Plant Based Queso Style Cauliflower Dip",
+        "price": "200 g, $2.65/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21363840/b3/en/front/21363840_front_a06_@2.png",
+        "image_alt": "President's Choice Plant Based Queso Style Cauliflower Dip 200 g, $2.65/100g",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 44,
+        "name": "Kalamata Sliced Olives",
+        "price": "500 ml, $1.80/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20820658/b3/en/front/20820658_front_a06_@2.png",
+        "image_alt": "Sardo Kalamata Sliced Olives 500 ml, $1.80/100ml",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 45,
+        "name": "Stuffed Mammoth Olives",
+        "price": "500 ml, $1.20/100ml",
+        "brand": "Ziggy's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20501247/b3/en/front/20501247_front_a06_@2.png",
+        "image_alt": "Ziggy's Stuffed Mammoth Olives 500 ml, $1.20/100ml",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 46,
+        "name": "Mammoth Olives, Pitted",
+        "price": "500 ml, $1.20/100ml",
+        "brand": "Ziggy's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20501269/b3/en/front/20501269_front_a06_@2.png",
+        "image_alt": "Ziggy's Mammoth Olives, Pitted 500 ml, $1.20/100ml",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 47,
+        "name": "Olives",
+        "price": "250 ml, $2.40/100ml",
+        "brand": "Sardo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20596551/b3/en/front/20596551_front_a06_@2.png",
+        "image_alt": "Sardo Olives 250 ml, $2.40/100ml",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 48,
+        "name": "Mini Hummus Chickpea Dip And Spread",
+        "price": "12x57.0 g, $1.46/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20862992/b3/en/front/20862992_front_a06_@2.png",
+        "image_alt": "President's Choice Mini Hummus Chickpea Dip And Spread 12x57.0 g, $1.46/100g",
+        "price_product_tile": "$9.99$9.99"
+    }
+]

@@ -1,0 +1,1235 @@
+[
+    {
+        "id": 1,
+        "name": "Natural Spring Water",
+        "price": "24x500.0 ml, $0.02/100ml",
+        "brand": "Real Canadian",
+        "image_url": "https://assets.shop.loblaws.ca/products/20154975/b3/en/front/20154975_front_a06_@2.png",
+        "image_alt": "Real Canadian Natural Spring Water 24x500.0 ml, $0.02/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 2,
+        "name": "Lime Sparkling Water Beverage, 12 Pack",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21097177/b3/en/front/21097177_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Lime Sparkling Water Beverage, 12 Pack  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 3,
+        "name": "Lime Sparkling Water, 12-Pack",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20668034002/b3/en/front/20668034002_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Lime Sparkling Water, 12-Pack 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 4,
+        "name": "Raspberry",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21508926/b3/en/front/21508926_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Raspberry 12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 5,
+        "name": "Coconut Pineapple, 12 Cans",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21523792/b3/en/front/21523792_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Coconut Pineapple, 12 Cans 12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$6.79$6.79SAVE $1.80"
+    },
+    {
+        "id": 6,
+        "name": "Calamansi Citrus and Strawberry Sparkling Water",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518575/b3/en/front/21518575_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Calamansi Citrus and Strawberry Sparkling Water 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 7,
+        "name": "Orange Mango Sparkling Water",
+        "price": "503 ml, $0.20/100ml",
+        "brand": "Sparkling Ice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20885443/b3/en/front/20885443_front_a06_@2.png",
+        "image_alt": "Sparkling Ice Orange Mango Sparkling Water 503 ml, $0.20/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 8,
+        "name": "Sparkling Water Mango",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21443732/b3/en/front/21443732_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Sparkling Water Mango 12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 9,
+        "name": "Kiwi Strawberry Sparkling Water",
+        "price": "503 ml, $0.20/100ml",
+        "brand": "Sparkling Ice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20885450003/b3/en/front/20885450003_front_a06_@2.png",
+        "image_alt": "Sparkling Ice Kiwi Strawberry Sparkling Water 503 ml, $0.20/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 10,
+        "name": "Natural Spring Water 24 Pack",
+        "price": "24x500.0 ml, $0.02/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20137898/b3/en/front/20137898_front_a06_@2.png",
+        "image_alt": "President's Choice Natural Spring Water 24 Pack 24x500.0 ml, $0.02/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 11,
+        "name": "Coconut Pineapple Sparkling Water",
+        "price": "503 ml, $0.20/100ml",
+        "brand": "Sparkling Ice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20941051/b3/en/front/20941051_front_a06_@2.png",
+        "image_alt": "Sparkling Ice Coconut Pineapple Sparkling Water 503 ml, $0.20/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 12,
+        "name": "Blackberry Sparkling Water",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21243603/b3/en/front/21243603_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Blackberry Sparkling Water  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 13,
+        "name": "Natural Spring Water",
+        "price": "4 l, $0.05/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21185641/b3/en/front/21185641_front_a06_@2.png",
+        "image_alt": "President's Choice Natural Spring Water 4 l, $0.05/100ml",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 14,
+        "name": "Black Raspberry Sparkling Water",
+        "price": "503 ml, $0.20/100ml",
+        "brand": "Sparkling Ice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20885450001/b3/en/front/20885450001_front_a06_@2.png",
+        "image_alt": "Sparkling Ice Black Raspberry Sparkling Water 503 ml, $0.20/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 15,
+        "name": "Pineapple Sparkling Water",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21356954/b3/en/front/21356954_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Pineapple Sparkling Water  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 16,
+        "name": "Cherry Limeade Sparkling Water",
+        "price": "503 ml, $0.20/100ml",
+        "brand": "Sparkling Ice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20941016/b3/en/front/20941016_front_a06_@2.png",
+        "image_alt": "Sparkling Ice Cherry Limeade Sparkling Water 503 ml, $0.20/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 17,
+        "name": "Pink Grapefruit Sparkling Water",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20668034005/b3/en/front/20668034005_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Pink Grapefruit Sparkling Water  12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 18,
+        "name": "Lemon Sparkling Water, 12-Pack",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20668034001/b3/en/front/20668034001_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Lemon Sparkling Water, 12-Pack 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 19,
+        "name": "Blueberry Pomegranate Sparkling Water",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20668034004/b3/en/front/20668034004_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Blueberry Pomegranate Sparkling Water  12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 20,
+        "name": "Grapefruit Bubly",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21097158/b3/en/front/21097158_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Grapefruit Bubly  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 21,
+        "name": "Peach Sparkling Water",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21356947/b3/en/front/21356947_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Peach Sparkling Water  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 22,
+        "name": "Sparkling Water Cherry",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21174519/b3/en/front/21174519_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Sparkling Water Cherry  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 23,
+        "name": "Sparkling Water Apple",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21443731/b3/en/front/21443731_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Sparkling Water Apple 12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 24,
+        "name": "Mandarin Orange Sparkling Water With Natural Flavour (Case)",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20668034003/b3/en/front/20668034003_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Mandarin Orange Sparkling Water With Natural Flavour (Case) 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 25,
+        "name": "Distilled Water",
+        "price": "4 l, $0.03/100ml",
+        "brand": "Ice River Springs",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313061001/b3/en/front/20313061001_front_a06_@2.png",
+        "image_alt": "Ice River Springs Distilled Water 4 l, $0.03/100ml",
+        "price_product_tile": "$1.29$1.29"
+    },
+    {
+        "id": 26,
+        "name": "Orange Bubly",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21097171/b3/en/front/21097171_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Orange Bubly  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 27,
+        "name": "Black Cherry Sparkling Water",
+        "price": "503 ml, $0.20/100ml",
+        "brand": "Sparkling Ice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21581371/b3/en/front/21581371_front_a06_@2.png",
+        "image_alt": "Sparkling Ice Black Cherry Sparkling Water 503 ml, $0.20/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 28,
+        "name": "Free and Clear Golden Peach Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20162061002/b3/en/front/20162061002_front_a06_@2.png",
+        "image_alt": "President's Choice Free and Clear Golden Peach Sparkling Water 1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 29,
+        "name": "Lemon Lime Sparkling Water",
+        "price": "503 ml, $0.20/100ml",
+        "brand": "Sparkling Ice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20885450002/b3/en/front/20885450002_front_a06_@2.png",
+        "image_alt": "Sparkling Ice Lemon Lime Sparkling Water 503 ml, $0.20/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 30,
+        "name": "Free and Clear Black Cherry Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20162061003/b3/en/front/20162061003_front_a06_@2.png",
+        "image_alt": "President's Choice Free and Clear Black Cherry Sparkling Water 1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 31,
+        "name": "Sparkling Water, case",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/21194356/b3/en/front/21194356_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Sparkling Water, case 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 32,
+        "name": "Limited Edition Watermelon",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21459527/b3/en/front/21459527_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Limited Edition Watermelon 12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 33,
+        "name": "Water Bottle",
+        "price": "591 ml, $0.42/100ml",
+        "brand": "Dasani",
+        "image_url": "https://assets.shop.loblaws.ca/products/20013993001/b3/en/front/20013993001_front_a06_@2.png",
+        "image_alt": "Dasani Water Bottle 591 ml, $0.42/100ml",
+        "price_product_tile": "$2.50$2.50"
+    },
+    {
+        "id": 34,
+        "name": "Free & Clear Tangerine-Lime Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20162061007/b3/en/front/20162061007_front_a06_@2.png",
+        "image_alt": "President's Choice Free & Clear Tangerine-Lime Sparkling Water  1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 35,
+        "name": "Natural Spring Water",
+        "price": "1.5 l, $0.07/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20076312/b3/en/front/20076312_front_a06_@2.png",
+        "image_alt": "President's Choice Natural Spring Water 1.5 l, $0.07/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 36,
+        "name": "Orange Cream Soda Flavour Sparkling Water",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518573/b3/en/front/21518573_front_a06_@2.png",
+        "image_alt": "President's Choice Orange Cream Soda Flavour Sparkling Water 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 37,
+        "name": "Lime Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20320832004/b3/en/front/20320832004_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Lime Sparkling Water 1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 38,
+        "name": "Free & Clear Key Lime Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20162061004/b3/en/front/20162061004_front_a06_@2.png",
+        "image_alt": "President's Choice Free & Clear Key Lime Sparkling Water  1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 39,
+        "name": "Peach Mango Sparkling Flavoured Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/21371170/b3/en/front/21371170_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Peach Mango Sparkling Flavoured Water 1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 40,
+        "name": "Natural Spring Water",
+        "price": "24x500.0 ml, $0.03/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20060696/b3/en/front/20060696_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Natural Spring Water 24x500.0 ml, $0.03/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 41,
+        "name": "Mineral Water",
+        "price": "750 ml, $0.53/100ml",
+        "brand": "Gerolsteiner",
+        "image_url": "https://assets.shop.loblaws.ca/products/20771154/b3/en/front/20771154_front_a06_@2.png",
+        "image_alt": "Gerolsteiner Mineral Water 750 ml, $0.53/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 42,
+        "name": "Blood Orange Carbonated Natural Spring Water",
+        "price": "1 l, $0.15/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21434314/b3/en/front/21434314_front_a06_@2.png",
+        "image_alt": "President's Choice Blood Orange Carbonated Natural Spring Water 1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 43,
+        "name": "Forever Lime, Sparkling Water Beverage, Natural Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577878/b3/en/front/21577878_front_a06_@2.png",
+        "image_alt": "Perrier Forever Lime, Sparkling Water Beverage, Natural Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00$2.29$2.29SAVE $0.29"
+    },
+    {
+        "id": 44,
+        "name": "Forever Lemon, Sparkling Water Beverage, Natural Lemon Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "6x1.0 l, $0.18/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577902/b3/en/front/21577902_front_a06_@2.png",
+        "image_alt": "Perrier Forever Lemon, Sparkling Water Beverage, Natural Lemon Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 6x1.0 l, $0.18/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 45,
+        "name": "Forever Lemon, Sparkling Water Beverage, Natural Lemon Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577807/b3/en/front/21577807_front_a06_@2.png",
+        "image_alt": "Perrier Forever Lemon, Sparkling Water Beverage, Natural Lemon Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00$2.29$2.29SAVE $0.29"
+    },
+    {
+        "id": 46,
+        "name": "Natural Spring Water",
+        "price": "1 l, $0.30/100ml",
+        "brand": "Evian",
+        "image_url": "https://assets.shop.loblaws.ca/products/20159147/b3/en/front/20159147_front_a06_@2.png",
+        "image_alt": "Evian Natural Spring Water 1 l, $0.30/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 47,
+        "name": "Carbonated Natural Mineral Water",
+        "price": "1 l, $0.20/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21012469/b3/en/front/21012469_front_a06_@2.png",
+        "image_alt": "San Pellegrino Carbonated Natural Mineral Water 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00$2.25$2.25SAVE $0.25"
+    },
+    {
+        "id": 48,
+        "name": "Naturali Aranciata Rossa Sparkling Orange & Blood Orange Beverage",
+        "price": "6x330.0 ml, $0.38/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21433206/b3/en/front/21433206_front_a06_@2.png",
+        "image_alt": "San Pellegrino Naturali Aranciata Rossa Sparkling Orange & Blood Orange Beverage 6x330.0 ml, $0.38/100ml",
+        "price_product_tile": "$7.49$7.49$7.79$7.79SAVE $0.30"
+    },
+    {
+        "id": 49,
+        "name": "Smart Water",
+        "price": "6x1.0 l, $0.28/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/21099117/b3/en/front/21099117_front_a06_@2.png",
+        "image_alt": "Glaceau Smart Water  6x1.0 l, $0.28/100ml",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 50,
+        "name": "Light Lemon, Sparkling Fruit Beverage",
+        "price": "6x330.0 ml, $0.35/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21590856/b3/en/front/21590856_front_a06_@2.png",
+        "image_alt": "San Pellegrino Light Lemon, Sparkling Fruit Beverage 6x330.0 ml, $0.35/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 51,
+        "name": "Orange + Grapefruit Sparkling Water, 12 pack",
+        "price": "12x355.0 ml, $0.13/100ml",
+        "brand": "AHA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361901/b3/en/front/21361901_front_a06_@2.png",
+        "image_alt": "AHA Orange + Grapefruit Sparkling Water, 12 pack 12x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 52,
+        "name": "Cranberry Raspberry",
+        "price": "8x355.0 ml, $0.22/100ml",
+        "brand": "Lacroix Beverage",
+        "image_url": "https://assets.shop.loblaws.ca/products/21300994/b3/en/front/21300994_front_a06_@2.png",
+        "image_alt": "Lacroix Beverage Cranberry Raspberry      8x355.0 ml, $0.22/100ml",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 53,
+        "name": "Sparkling Water Lemon",
+        "price": "1 l, $0.10/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307836002/b3/en/front/20307836002_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Sparkling Water Lemon 1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 54,
+        "name": "Carbonated Water Lemon",
+        "price": "1 l, $0.15/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/20958264/b3/en/front/20958264_front_a06_@2.png",
+        "image_alt": "Montellier Carbonated Water Lemon     1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 55,
+        "name": "M'AQUA Mojito Cocktail Flavoured Sparkling Water",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21590669/b3/en/front/21590669_front_a06_@2.png",
+        "image_alt": "President's Choice M'AQUA Mojito Cocktail Flavoured Sparkling Water 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 56,
+        "name": "Forever Raspberry, Sparkling Water Beverage, Natural Raspberry Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "8x330.0 ml, $0.30/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21576147/b3/en/front/21576147_front_a06_@2.png",
+        "image_alt": "Perrier Forever Raspberry, Sparkling Water Beverage, Natural Raspberry Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 8x330.0 ml, $0.30/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 57,
+        "name": "Natural Spring Water",
+        "price": "6x500.0 ml, $0.33/100ml",
+        "brand": "Evian",
+        "image_url": "https://assets.shop.loblaws.ca/products/21031549/b3/en/front/21031549_front_a06_@2.png",
+        "image_alt": "Evian Natural Spring Water  6x500.0 ml, $0.33/100ml",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 58,
+        "name": "Fortified Oat Beverage Original",
+        "price": "946 ml, $0.32/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/21435998/b3/en/front/21435998_front_a06_@2.png",
+        "image_alt": "Silk Fortified Oat Beverage Original 946 ml, $0.32/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 59,
+        "name": "Remineralized Water",
+        "price": "12x355.0 ml, $0.15/100ml",
+        "brand": "Dasani",
+        "image_url": "https://assets.shop.loblaws.ca/products/21445731/b3/en/front/21445731_front_a06_@2.png",
+        "image_alt": "Dasani Remineralized Water 12x355.0 ml, $0.15/100ml",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 60,
+        "name": "Spring Water (Case)",
+        "price": "6x500.0 ml, $0.27/100ml",
+        "brand": "Flow Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21033026/b3/en/front/21033026_front_a06_@2.png",
+        "image_alt": "Flow Water Spring Water (Case) 6x500.0 ml, $0.27/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 61,
+        "name": "Carbonated Water, Lemon",
+        "price": "10x355.0 ml, $0.14/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21096709/b3/en/front/21096709_front_a06_@2.png",
+        "image_alt": "Montellier Carbonated Water, Lemon  10x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 62,
+        "name": "Carbonated Natural Mineral Water",
+        "price": "1.5 l, $0.13/100ml",
+        "brand": "Jordanka",
+        "image_url": "https://assets.shop.loblaws.ca/products/20027260/b3/en/front/20027260_front_a06_@2.png",
+        "image_alt": "Jordanka Carbonated Natural Mineral Water 1.5 l, $0.13/100ml",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 63,
+        "name": "All Natural Coconut Water",
+        "price": "1 l, $0.58/100ml",
+        "brand": "Thirsty Buddha",
+        "image_url": "https://assets.shop.loblaws.ca/products/20689784/b3/en/front/20689784_front_a06_@2.png",
+        "image_alt": "Thirsty Buddha All Natural Coconut Water 1 l, $0.58/100ml",
+        "price_product_tile": "$5.79$5.79"
+    },
+    {
+        "id": 64,
+        "name": "Ice River Natural Spring Water",
+        "price": "15 l, $0.03/100ml",
+        "brand": "Ice River Springs",
+        "image_url": "https://assets.shop.loblaws.ca/products/21204887/b3/en/front/21204887_front_a06_@2.png",
+        "image_alt": "Ice River Springs Ice River Natural Spring Water 15 l, $0.03/100ml",
+        "price_product_tile": "$4.79$4.79"
+    },
+    {
+        "id": 65,
+        "name": "Pineapple Passion Fruit Sparkling Water",
+        "price": "12x355.0 ml, $0.13/100ml",
+        "brand": "AHA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21438902/b3/en/front/21438902_front_a06_@2.png",
+        "image_alt": "AHA Pineapple Passion Fruit Sparkling Water 12x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 66,
+        "name": "Forever Ginger Lime, Sparkling Water Beverage, Natural Ginger Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "8x330.0 ml, $0.30/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21575927/b3/en/front/21575927_front_a06_@2.png",
+        "image_alt": "Perrier Forever Ginger Lime, Sparkling Water Beverage, Natural Ginger Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 8x330.0 ml, $0.30/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 67,
+        "name": "Kiwi Strawberry Enhanced Water with Gatorade Electrolytes, 6 Pack",
+        "price": "6x500.0 ml, $0.23/100ml",
+        "brand": "Propel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21367830/b3/en/front/21367830_front_a06_@2.png",
+        "image_alt": "Propel Kiwi Strawberry Enhanced Water with Gatorade Electrolytes, 6 Pack 6x500.0 ml, $0.23/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 68,
+        "name": "Natural Mineral Water Sparkling",
+        "price": "1.5 l, $0.20/100ml",
+        "brand": "Radenska",
+        "image_url": "https://assets.shop.loblaws.ca/products/20122391/b3/en/front/20122391_front_a06_@2.png",
+        "image_alt": "Radenska Natural Mineral Water Sparkling    1.5 l, $0.20/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 69,
+        "name": "Carbonated Natural Mineral Water",
+        "price": "750 ml, $0.36/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/20183964001/b3/en/front/20183964001_front_a06_@2.png",
+        "image_alt": "San Pellegrino Carbonated Natural Mineral Water 750 ml, $0.36/100ml",
+        "price_product_tile": "$2.69$2.69"
+    },
+    {
+        "id": 70,
+        "name": "Smartwater Alkaline with Antioxidant",
+        "price": "1 l, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/21520451/b3/en/front/21520451_front_a06_@2.png",
+        "image_alt": "Glaceau Smartwater Alkaline with Antioxidant 1 l, $0.34/100ml",
+        "price_product_tile": "$3.39$3.39"
+    },
+    {
+        "id": 71,
+        "name": "Vanilla Cherry Soda Flavour Sparkling Water",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21306049/b3/en/front/21306049_front_a06_@2.png",
+        "image_alt": "President's Choice Vanilla Cherry Soda Flavour Sparkling Water 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 72,
+        "name": "Naturali Limonata Sparkling Lemon Beverage",
+        "price": "6x330.0 ml, $0.38/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21433198/b3/en/front/21433198_front_a06_@2.png",
+        "image_alt": "San Pellegrino Naturali Limonata Sparkling Lemon Beverage 6x330.0 ml, $0.38/100ml",
+        "price_product_tile": "$7.49$7.49$7.79$7.79SAVE $0.30"
+    },
+    {
+        "id": 73,
+        "name": "Organic 100% Coconut Water",
+        "price": "1 l, $0.50/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21092373/b3/en/front/21092373_front_a06_@2.png",
+        "image_alt": "PC Organics Organic 100% Coconut Water 1 l, $0.50/100ml",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 74,
+        "name": "Natural Artesian Water",
+        "price": "1.5 l, $0.17/100ml",
+        "brand": "Fiji",
+        "image_url": "https://assets.shop.loblaws.ca/products/20122176/b3/en/front/20122176_front_a06_@2.png",
+        "image_alt": "Fiji Natural Artesian Water 1.5 l, $0.17/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 75,
+        "name": "Water",
+        "price": "6x710.0 ml, $0.14/100ml",
+        "brand": "AQUAFINA",
+        "image_url": "https://assets.shop.loblaws.ca/products/20504575/b3/en/front/20504575_front_a06_@2.png",
+        "image_alt": "AQUAFINA Water 6x710.0 ml, $0.14/100ml",
+        "price_product_tile": "$5.79$5.79"
+    },
+    {
+        "id": 76,
+        "name": "Carbonated Water, Lime",
+        "price": "1 l, $0.15/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21096643/b3/en/front/21096643_front_a06_@2.png",
+        "image_alt": "Montellier Carbonated Water, Lime 1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 77,
+        "name": "Water Bottle",
+        "price": "1.5 l, $0.13/100ml",
+        "brand": "Dasani",
+        "image_url": "https://assets.shop.loblaws.ca/products/20111450/b3/en/front/20111450_front_a06_@2.png",
+        "image_alt": "Dasani Water Bottle 1.5 l, $0.13/100ml",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 78,
+        "name": "Sparkling Water Original",
+        "price": "1 l, $0.10/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20307836001/b3/en/front/20307836001_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Sparkling Water Original  1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 79,
+        "name": "Sparkling Drinks, Blood Orange & Orange Blossom",
+        "price": "6x330.0 ml, $0.35/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21509114/b3/en/front/21509114_front_a06_@2.png",
+        "image_alt": "San Pellegrino Sparkling Drinks, Blood Orange & Orange Blossom 6x330.0 ml, $0.35/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 80,
+        "name": "Forever Lemon, Sparkling Water Beverage, Natural Lemon Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "8x330.0 ml, $0.30/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21575556/b3/en/front/21575556_front_a06_@2.png",
+        "image_alt": "Perrier Forever Lemon, Sparkling Water Beverage, Natural Lemon Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 8x330.0 ml, $0.30/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 81,
+        "name": "vitaminwater Focus Nutrient Enhanced Water, Bottle",
+        "price": "591 ml, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/20333194003/b3/en/front/20333194003_front_a06_@2.png",
+        "image_alt": "Glaceau vitaminwater Focus Nutrient Enhanced Water, Bottle 591 ml, $0.34/100ml",
+        "price_product_tile": "$1.99$1.99$2.29$2.29SAVE $0.30"
+    },
+    {
+        "id": 82,
+        "name": "Lime Watermelon",
+        "price": "12x355.0 ml, $0.13/100ml",
+        "brand": "AHA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21240794/b3/en/front/21240794_front_a06_@2.png",
+        "image_alt": "AHA Lime Watermelon 12x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 83,
+        "name": "Natural Spring Water",
+        "price": "15x500.0 ml, $0.02/100ml",
+        "brand": "Real Canadian",
+        "image_url": "https://assets.shop.loblaws.ca/products/20143114/b3/en/front/20143114_front_a06_@2.png",
+        "image_alt": "Real Canadian Natural Spring Water  15x500.0 ml, $0.02/100ml",
+        "price_product_tile": "$1.25$1.25"
+    },
+    {
+        "id": 84,
+        "name": "M'AQUA Mule Cocktail Flavoured Sparkling Water",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21590689/b3/en/front/21590689_front_a06_@2.png",
+        "image_alt": "President's Choice M'AQUA Mule Cocktail Flavoured Sparkling Water 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 85,
+        "name": "M'AQUA Tequila Sunrise Cocktail Flavoured Sparkling Water",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21590813/b3/en/front/21590813_front_a06_@2.png",
+        "image_alt": "President's Choice M'AQUA Tequila Sunrise Cocktail Flavoured Sparkling Water 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 86,
+        "name": "Lemon Mist Naturally Fruit-Flavoured Water Beverage",
+        "price": "6x500.0 ml, $0.11/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20302565001/b3/en/front/20302565001_front_a06_@2.png",
+        "image_alt": "President's Choice Lemon Mist Naturally Fruit-Flavoured Water Beverage 6x500.0 ml, $0.11/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 87,
+        "name": "Raspberry Acai Sparkling Water",
+        "price": "12x355.0 ml, $0.13/100ml",
+        "brand": "AHA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21435674/b3/en/front/21435674_front_a06_@2.png",
+        "image_alt": "AHA Raspberry Acai Sparkling Water 12x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 88,
+        "name": "Vitaminwater Zero Nutrient  Water Beverage B-Unfiltered Blackcurrant",
+        "price": "591 ml, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361949/b3/en/front/21361949_front_a06_@2.png",
+        "image_alt": "Glaceau Vitaminwater Zero Nutrient  Water Beverage B-Unfiltered Blackcurrant  591 ml, $0.34/100ml",
+        "price_product_tile": "$1.99$1.99$2.49$2.49SAVE $0.50"
+    },
+    {
+        "id": 89,
+        "name": "Forever Strawberry, Sparkling Water Beverage, Natural Strawberry Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577738/b3/en/front/21577738_front_a06_@2.png",
+        "image_alt": "Perrier Forever Strawberry, Sparkling Water Beverage, Natural Strawberry Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00$2.29$2.29SAVE $0.29"
+    },
+    {
+        "id": 90,
+        "name": "Light Blood Orange, Sparkling Fruit Beverage",
+        "price": "6x330.0 ml, $0.35/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21590961/b3/en/front/21590961_front_a06_@2.png",
+        "image_alt": "San Pellegrino Light Blood Orange, Sparkling Fruit Beverage 6x330.0 ml, $0.35/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 91,
+        "name": "Original Carbonated Natural Spring Water, No Calories, No Sweeteners, No Sodium, Can",
+        "price": "8x330.0 ml, $0.30/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21509060/b3/en/front/21509060_front_a06_@2.png",
+        "image_alt": "Perrier Original Carbonated Natural Spring Water, No Calories, No Sweeteners, No Sodium, Can 8x330.0 ml, $0.30/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 92,
+        "name": "Forever Orange, Sparkling Water Beverage, Natural Orange Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "8x330.0 ml, $0.30/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21576328/b3/en/front/21576328_front_a06_@2.png",
+        "image_alt": "Perrier Forever Orange, Sparkling Water Beverage, Natural Orange Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 8x330.0 ml, $0.30/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 93,
+        "name": "Spring Water, Bottle",
+        "price": "1.5 l, $0.19/100ml",
+        "brand": "Evian",
+        "image_url": "https://assets.shop.loblaws.ca/products/20008522/b3/en/front/20008522_front_a06_@2.png",
+        "image_alt": "Evian Spring Water, Bottle 1.5 l, $0.19/100ml",
+        "price_product_tile": "$2.79$2.79"
+    },
+    {
+        "id": 94,
+        "name": "Forever Grapefruit, Sparkling Water Beverage",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577866/b3/en/front/21577866_front_a06_@2.png",
+        "image_alt": "Perrier Forever Grapefruit, Sparkling Water Beverage 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00$2.29$2.29SAVE $0.29"
+    },
+    {
+        "id": 95,
+        "name": "Lime Carbonated Natural Spring Water",
+        "price": "1 l, $0.15/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21434315/b3/en/front/21434315_front_a06_@2.png",
+        "image_alt": "President's Choice Lime Carbonated Natural Spring Water 1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 96,
+        "name": "Smartwater, Bottle",
+        "price": "1.5 l, $0.30/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/21103742/b3/en/front/21103742_front_a06_@2.png",
+        "image_alt": "Glaceau Smartwater, Bottle 1.5 l, $0.30/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 97,
+        "name": "Lemon Carbonated Natural Spring Water",
+        "price": "1 l, $0.15/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21434316/b3/en/front/21434316_front_a06_@2.png",
+        "image_alt": "President's Choice Lemon Carbonated Natural Spring Water 1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 98,
+        "name": "Forever Pineapple, Sparkling Water Beverage, Natural Pineapple Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577788/b3/en/front/21577788_front_a06_@2.png",
+        "image_alt": "Perrier Forever Pineapple, Sparkling Water Beverage, Natural Pineapple Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00$2.29$2.29SAVE $0.29"
+    },
+    {
+        "id": 99,
+        "name": "Alkaline Spring Water",
+        "price": "1000 ml, $0.30/100ml",
+        "brand": "Flow Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/20987454/b3/en/front/20987454_front_a06_@2.png",
+        "image_alt": "Flow Water Alkaline Spring Water 1000 ml, $0.30/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 100,
+        "name": "Sparkling Lite Cranberry",
+        "price": "6x340.0 ml, $0.32/100ml",
+        "brand": "Ocean Spray",
+        "image_url": "https://assets.shop.loblaws.ca/products/21474383/b3/en/front/21474383_front_a06_@2.png",
+        "image_alt": "Ocean Spray Sparkling Lite Cranberry 6x340.0 ml, $0.32/100ml",
+        "price_product_tile": "$6.49$6.49$7.49$7.49SAVE $1.00"
+    },
+    {
+        "id": 101,
+        "name": "Mandarin Orange Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20714946/b3/en/front/20714946_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Mandarin Orange Sparkling Water 1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 102,
+        "name": "Peach + Honey Sparkling Water, 12 pack",
+        "price": "12x355.0 ml, $0.13/100ml",
+        "brand": "AHA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21240797/b3/en/front/21240797_front_a06_@2.png",
+        "image_alt": "AHA Peach + Honey Sparkling Water, 12 pack 12x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 103,
+        "name": "Grapefruit Sparkling Water",
+        "price": "1 l, $0.15/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21242819/b3/en/front/21242819_front_a06_@2.png",
+        "image_alt": "Montellier Grapefruit Sparkling Water 1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 104,
+        "name": "Light Pomegranate & Orange, Sparkling Fruit Beverage",
+        "price": "6x330.0 ml, $0.35/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21590983/b3/en/front/21590983_front_a06_@2.png",
+        "image_alt": "San Pellegrino Light Pomegranate & Orange, Sparkling Fruit Beverage 6x330.0 ml, $0.35/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 105,
+        "name": "Carbonated Natural Spring Water, 10 Pack",
+        "price": "10x355.0 ml, $0.14/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21096722/b3/en/front/21096722_front_a06_@2.png",
+        "image_alt": "Montellier Carbonated Natural Spring Water, 10 Pack 10x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 106,
+        "name": "Natural Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20320832002/b3/en/front/20320832002_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Natural Sparkling Water  1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 107,
+        "name": "vitaminwater Multi-V Nutrient Enhanced Water, Bottle",
+        "price": "591 ml, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/20333194004/b3/en/front/20333194004_front_a06_@2.png",
+        "image_alt": "Glaceau vitaminwater Multi-V Nutrient Enhanced Water, Bottle 591 ml, $0.34/100ml",
+        "price_product_tile": "$1.99$1.99$2.29$2.29SAVE $0.30"
+    },
+    {
+        "id": 108,
+        "name": "Lemon Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20320832003/b3/en/front/20320832003_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Lemon Sparkling Water 1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 109,
+        "name": "Raspberry Mist Naturally Fruit-Flavoured Water Beverage",
+        "price": "6x500.0 ml, $0.11/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20302565003/b3/en/front/20302565003_front_a06_@2.png",
+        "image_alt": "President's Choice Raspberry Mist Naturally Fruit-Flavoured Water Beverage 6x500.0 ml, $0.11/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 110,
+        "name": "Carbonated Natural Spring Water",
+        "price": "1 l, $0.15/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/20662284/b3/en/front/20662284_front_a06_@2.png",
+        "image_alt": "Montellier Carbonated Natural Spring Water 1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 111,
+        "name": "Carbonated Water, Lime",
+        "price": "10x355.0 ml, $0.14/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21096704/b3/en/front/21096704_front_a06_@2.png",
+        "image_alt": "Montellier Carbonated Water, Lime  10x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 112,
+        "name": "Naturali Aranciata Sparkling Orange Beverage",
+        "price": "6x330.0 ml, $0.38/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21433205/b3/en/front/21433205_front_a06_@2.png",
+        "image_alt": "San Pellegrino Naturali Aranciata Sparkling Orange Beverage 6x330.0 ml, $0.38/100ml",
+        "price_product_tile": "$7.49$7.49$7.79$7.79SAVE $0.30"
+    },
+    {
+        "id": 113,
+        "name": "vitaminwater Pineapple + Coconut Nutrient Enhanced Water Beverage",
+        "price": "591 ml, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/21292153/b3/en/front/21292153_front_a06_@2.png",
+        "image_alt": "Glaceau vitaminwater Pineapple + Coconut Nutrient Enhanced Water Beverage 591 ml, $0.34/100ml",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 114,
+        "name": "Strawberry Bubly",
+        "price": "12x355.0 ml, $0.12/100ml",
+        "brand": "Bubly Sparkling Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21097174/b3/en/front/21097174_front_a06_@2.png",
+        "image_alt": "Bubly Sparkling Water Strawberry Bubly  12x355.0 ml, $0.12/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 115,
+        "name": "Sparkling Water, Cola Flavoured, 12 Pack",
+        "price": "12x355.0 ml, $1.26/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21523674/b3/en/front/21523674_front_a06_@2.png",
+        "image_alt": "President's Choice Sparkling Water, Cola Flavoured, 12 Pack 12x355.0 ml, $1.26/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 116,
+        "name": "Forever Lime, Sparkling Water Beverage, Natural Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "6x1.0 l, $0.18/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21577556/b3/en/front/21577556_front_a06_@2.png",
+        "image_alt": "Perrier Forever Lime, Sparkling Water Beverage, Natural Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 6x1.0 l, $0.18/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 117,
+        "name": "Green Bottle Water",
+        "price": "32x500.0 ml, $1.00/100ml",
+        "brand": "Ice River Springs",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361952/b3/en/front/21361952_front_a06_@2.png",
+        "image_alt": "Ice River Springs Green Bottle Water 32x500.0 ml, $1.00/100ml",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 118,
+        "name": "Original Carbonated Natural Spring Water",
+        "price": "1 l, $0.15/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21434317/b3/en/front/21434317_front_a06_@2.png",
+        "image_alt": "President's Choice Original Carbonated Natural Spring Water 1 l, $0.15/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 119,
+        "name": "Natural Spring Water",
+        "price": "1.5 l, $0.09/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20703564/b3/en/front/20703564_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Natural Spring Water 1.5 l, $0.09/100ml",
+        "price_product_tile": "$1.39$1.39"
+    },
+    {
+        "id": 120,
+        "name": "Smartwater, Bottle",
+        "price": "1 l, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/20154181/b3/en/front/20154181_front_a06_@2.png",
+        "image_alt": "Glaceau Smartwater, Bottle 1 l, $0.34/100ml",
+        "price_product_tile": "$3.39$3.39"
+    },
+    {
+        "id": 121,
+        "name": "vitaminwater Nutrient Enhanced  Beverage, Blueberry Strawberry",
+        "price": "591 ml, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/21279927/b3/en/front/21279927_front_a06_@2.png",
+        "image_alt": "Glaceau vitaminwater Nutrient Enhanced  Beverage, Blueberry Strawberry 591 ml, $0.34/100ml",
+        "price_product_tile": "$1.99$1.99$2.29$2.29SAVE $0.30"
+    },
+    {
+        "id": 122,
+        "name": "Sparkling Drink Lemon & Raspberry",
+        "price": "6x330.0 ml, $0.35/100ml",
+        "brand": "San Pellegrino",
+        "image_url": "https://assets.shop.loblaws.ca/products/21241013/b3/en/front/21241013_front_a06_@2.png",
+        "image_alt": "San Pellegrino Sparkling Drink Lemon & Raspberry 6x330.0 ml, $0.35/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 123,
+        "name": "Montellier Clementine",
+        "price": "10x355.0 ml, $0.14/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21523784/b3/en/front/21523784_front_a06_@2.png",
+        "image_alt": "Montellier Montellier Clementine 10x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 124,
+        "name": "Ginger Ale Flavour Sparkling Water",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21306051/b3/en/front/21306051_front_a06_@2.png",
+        "image_alt": "President's Choice Ginger Ale Flavour Sparkling Water 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 125,
+        "name": "Forever Grapefruit, Sparkling Water Beverage, Natural Grapefruit Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "8x330.0 ml, $0.30/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21576430/b3/en/front/21576430_front_a06_@2.png",
+        "image_alt": "Perrier Forever Grapefruit, Sparkling Water Beverage, Natural Grapefruit Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 8x330.0 ml, $0.30/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 126,
+        "name": "Cranberry Ginger Ale Flavour Sparkling Water",
+        "price": "12x355.0 ml, $0.11/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518579/b3/en/front/21518579_front_a06_@2.png",
+        "image_alt": "President's Choice Cranberry Ginger Ale Flavour Sparkling Water 12x355.0 ml, $0.11/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 127,
+        "name": "100% Pure Coconut Water",
+        "price": "1 l, $0.53/100ml",
+        "brand": "Vita Coco",
+        "image_url": "https://assets.shop.loblaws.ca/products/20332922/b3/en/front/20332922_front_a06_@2.png",
+        "image_alt": "Vita Coco 100% Pure Coconut Water 1 l, $0.53/100ml",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 128,
+        "name": "Sparkling Carbonated Water Plastic Bottle",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21581095/b3/en/front/21581095_front_a06_@2.png",
+        "image_alt": "Perrier Sparkling Carbonated Water Plastic Bottle 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00$2.29$2.29SAVE $0.29"
+    },
+    {
+        "id": 129,
+        "name": "vitaminwater Acai-Blueberry-Pomegranate Nutrient Enhanced Water, Bottle",
+        "price": "591 ml, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/20333194006/b3/en/front/20333194006_front_a06_@2.png",
+        "image_alt": "Glaceau vitaminwater Acai-Blueberry-Pomegranate Nutrient Enhanced Water, Bottle 591 ml, $0.34/100ml",
+        "price_product_tile": "$1.99$1.99$2.29$2.29SAVE $0.30"
+    },
+    {
+        "id": 130,
+        "name": "Forever Lime, Sparkling Water Beverage, Natural Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France",
+        "price": "8x330.0 ml, $0.30/100ml",
+        "brand": "Perrier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21576465/b3/en/front/21576465_front_a06_@2.png",
+        "image_alt": "Perrier Forever Lime, Sparkling Water Beverage, Natural Lime Flavour, No Calories, No Sweeteners, No Sodium, Sourced & Bottled In France 8x330.0 ml, $0.30/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 131,
+        "name": "Grape Enhanced Water with Gatorade Electrolytes, 6 Pack",
+        "price": "6x500.0 ml, $0.20/100ml",
+        "brand": "Propel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21367827/b3/en/front/21367827_front_a06_@2.png",
+        "image_alt": "Propel Grape Enhanced Water with Gatorade Electrolytes, 6 Pack 6x500.0 ml, $0.20/100ml",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 132,
+        "name": "Blueberry + Pomegranate Sparkling Water, 12 pack",
+        "price": "12x355.0 ml, $0.13/100ml",
+        "brand": "AHA",
+        "image_url": "https://assets.shop.loblaws.ca/products/21240762/b3/en/front/21240762_front_a06_@2.png",
+        "image_alt": "AHA Blueberry + Pomegranate Sparkling Water, 12 pack 12x355.0 ml, $0.13/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 133,
+        "name": "vitaminwater Nutrient Enhanced Water Beverage Zero Calorie Xoxox Acai Blueberry Pomegranate",
+        "price": "591 ml, $0.34/100ml",
+        "brand": "Glaceau",
+        "image_url": "https://assets.shop.loblaws.ca/products/20562362003/b3/en/front/20562362003_front_a06_@2.png",
+        "image_alt": "Glaceau vitaminwater Nutrient Enhanced Water Beverage Zero Calorie Xoxox Acai Blueberry Pomegranate 591 ml, $0.34/100ml",
+        "price_product_tile": "$1.99$1.99$2.29$2.29SAVE $0.30"
+    },
+    {
+        "id": 134,
+        "name": "Watermelon Sparkling Water",
+        "price": "1 l, $0.10/100ml",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20998285/b3/en/front/20998285_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Watermelon Sparkling Water  1 l, $0.10/100ml",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 135,
+        "name": "Sparkling Cranberry Beverage",
+        "price": "6x340.0 ml, $0.32/100ml",
+        "brand": "Ocean Spray",
+        "image_url": "https://assets.shop.loblaws.ca/products/21474384/b3/en/front/21474384_front_a06_@2.png",
+        "image_alt": "Ocean Spray Sparkling Cranberry Beverage 6x340.0 ml, $0.32/100ml",
+        "price_product_tile": "$6.49$6.49$7.49$7.49SAVE $1.00"
+    },
+    {
+        "id": 136,
+        "name": "Carbonated Natural Spring Water with Grapefruit Flavour, 10 Pack",
+        "price": "10x355.0 ml, $0.14/100ml",
+        "brand": "Montellier",
+        "image_url": "https://assets.shop.loblaws.ca/products/21363111/b3/en/front/21363111_front_a06_@2.png",
+        "image_alt": "Montellier Carbonated Natural Spring Water with Grapefruit Flavour, 10 Pack 10x355.0 ml, $0.14/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 137,
+        "name": "Variety Pack",
+        "price": "24x500.0 ml, $0.08/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20983762/b3/en/front/20983762_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Variety Pack  24x500.0 ml, $0.08/100ml",
+        "price_product_tile": "$9.99$9.99"
+    }
+]

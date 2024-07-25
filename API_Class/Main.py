@@ -10,25 +10,16 @@ If the Items you want to retreive have a brand associated with them then use the
 If the Items you want to retreive DO NOT have a brand associated with them then use the Unbranded_Products Function.
 """
 
+from TestNew_Automation import Accordion_Scraper
 
-from NoFrills import Branded_products, Unbranded_products, create_base_and_sub_folders, create_folders_and_files
-from Scrape_HTML import Scrape_ALL, Scrape_DIV
 
 # CHANGE PATHS TO SUIT THE NEEDS.
 
-output_file = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Bakery\Bagels, Croissants & English Muffins\HTML_Bagels, Croissants & English Muffins.txt'
+Link = "https://www.nofrills.ca/food/drinks/c/28004"
+Section_Title="Water"
+Html_file_path=r"C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Drinks\Water\HTML_Water.txt"
+Json_file_path=r"C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\JSON_FILES\Drinks\Water\JSON_Water.json"
+retries = 3
 
-html_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Fruits & Vegetables\Fresh Vegetables\HTML_Fresh Vegetables.txt'
-
-list_file_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\Text Files\Snacks, Chips & Candy.txt'
-
-base_path = r'C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\API_Class\HTML_FILES\Snacks, Chips & Candy'
-
-Link = r'https://www.nofrills.ca/food/bakery/bagels-croissants-english-muffins/c/28149'
-
-Scrape_DIV(Link, output_file)
-# Scrape_ALL(Link, output_file)
-# Branded_products(html_file_path, output_file)
-# Unbranded_products(html_file_path, output_file)
-# create_folders_and_files(base_path, list_file_path)
-# create_base_and_sub_folders(list_file_path)
+# Accordion_Scraper(Link, Section_Title, Html_file_path, retries)
+Accordion_Scraper(Link, Section_Title, Html_file_path, Json_file_path, retries)

@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Crescents Original Dough, 8 Pieces",
+        "price": "226 g, $1.10/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/21505340/b3/en/front/21505340_front_a06_@2.png",
+        "image_alt": "Pillsbury Crescents Original Dough, 8 Pieces 226 g, $1.10/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 2,
+        "name": "Chocolatey Chip Cookie Dough, Ready to Bake",
+        "price": "468 g, $0.64/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20318034001/b3/en/front/20318034001_front_a06_@2.png",
+        "image_alt": "Pillsbury Chocolatey Chip Cookie Dough, Ready to Bake 468 g, $0.64/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 3,
+        "name": "Cinnamon Rolls with Icing, Ready to Bake 8 ct",
+        "price": "351 g, $0.85/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20320962002/b3/en/front/20320962002_front_a06_@2.png",
+        "image_alt": "Pillsbury Cinnamon Rolls with Icing, Ready to Bake 8 ct 351 g, $0.85/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 4,
+        "name": "Chub Chocolatey Chunk Cookie",
+        "price": "468 g, $0.64/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20318034002/b3/en/front/20318034002_front_a06_@2.png",
+        "image_alt": "Pillsbury Chub Chocolatey Chunk Cookie 468 g, $0.64/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 5,
+        "name": "Butter Puff Pastry",
+        "price": "450 g, $1.55/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21288850/b3/en/front/21288850_front_a06_@2.png",
+        "image_alt": "President's Choice Butter Puff Pastry 450 g, $1.55/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 6,
+        "name": "Country Biscuits, Ready to Bake Dough, 10 ct",
+        "price": "340 g, $0.88/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20317832003/b3/en/front/20317832003_front_a06_@2.png",
+        "image_alt": "Pillsbury Country Biscuits, Ready to Bake Dough, 10 ct 340 g, $0.88/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 7,
+        "name": "Pie Crusts, Refrigerated Pre-Made Dough",
+        "price": "400 g, $0.75/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20187585/b3/en/front/20187585_front_a06_@2.png",
+        "image_alt": "Pillsbury Pie Crusts, Refrigerated Pre-Made Dough 400 g, $0.75/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 8,
+        "name": "Chocolate Chip Cookie Dough, Ready to Bake, 24 ct",
+        "price": "454 g, $0.99/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20301101005/b3/en/front/20301101005_front_a06_@2.png",
+        "image_alt": "Pillsbury Chocolate Chip Cookie Dough, Ready to Bake, 24 ct 454 g, $0.99/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 9,
+        "name": "Wiener Wraps, Refrigerated Dough, Ready to Bake, 6 ct",
+        "price": "200 g, $1.25/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20305424002/b3/en/front/20305424002_front_a06_@2.png",
+        "image_alt": "Pillsbury Wiener Wraps, Refrigerated Dough, Ready to Bake, 6 ct 200 g, $1.25/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 10,
+        "name": "Crescents - Reduced Fat",
+        "price": "227 g, $1.10/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20305424001/b3/en/front/20305424001_front_a06_@2.png",
+        "image_alt": "Pillsbury Crescents - Reduced Fat 227 g, $1.10/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 11,
+        "name": "Grands! Cinnamon Rolls with Icing, Cinnabon Cinnamon, 5 ct",
+        "price": "496 g, $0.91/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20301101001/b3/en/front/20301101001_front_a06_@2.png",
+        "image_alt": "Pillsbury Grands! Cinnamon Rolls with Icing, Cinnabon Cinnamon, 5 ct 496 g, $0.91/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 12,
+        "name": "Deep Dish Pie Shells",
+        "price": "380 g, $1.05/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20671251/b3/en/front/20671251_front_a06_@2.png",
+        "image_alt": "No Name Deep Dish Pie Shells 380 g, $1.05/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 13,
+        "name": "Pizza Crust, Refrigerated Pre-Made Dough, 1 ct",
+        "price": "391 g, $0.76/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20317832002/b3/en/front/20317832002_front_a06_@2.png",
+        "image_alt": "Pillsbury Pizza Crust, Refrigerated Pre-Made Dough, 1 ct 391 g, $0.76/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 14,
+        "name": "Tart Shells",
+        "price": "30 ea, $1.05/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296118001/b3/en/front/20296118001_front_a06_@2.png",
+        "image_alt": "No Name Tart Shells 30 ea, $1.05/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 15,
+        "name": "Phyllo Pastry",
+        "price": "454 g, $1.32/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21288853/b3/en/front/21288853_front_a06_@2.png",
+        "image_alt": "President's Choice Phyllo Pastry 454 g, $1.32/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 16,
+        "name": "Grands! Crescents, Croissant Rolls, Ready to Bake, 4 ct",
+        "price": "318 g, $0.94/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20317832001/b3/en/front/20317832001_front_a06_@2.png",
+        "image_alt": "Pillsbury Grands! Crescents, Croissant Rolls, Ready to Bake, 4 ct 318 g, $0.94/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 17,
+        "name": "Ready to Bake Cookie Dough Reese Peanut Butter",
+        "price": "454 g, $0.99/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/21477773/b3/en/front/21477773_front_a06_@2.png",
+        "image_alt": "Pillsbury Ready to Bake Cookie Dough Reese Peanut Butter 454 g, $0.99/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 18,
+        "name": "Sugar Cookies",
+        "price": "468 g, $0.64/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/21193674/b3/en/front/21193674_front_a06_@2.png",
+        "image_alt": "Pillsbury Sugar Cookies 468 g, $0.64/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 19,
+        "name": "Sweetened Tart Shells",
+        "price": "30 ea, $1.05/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296118002/b3/en/front/20296118002_front_a06_@2.png",
+        "image_alt": "No Name Sweetened Tart Shells 30 ea, $1.05/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 20,
+        "name": "Pie Shells",
+        "price": "350 g, $1.14/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20153259/b3/en/front/20153259_front_a06_@2.png",
+        "image_alt": "No Name Pie Shells 350 g, $1.14/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 21,
+        "name": "Flaky Real Apple Turnovers",
+        "price": "383 g, $0.91/100g",
+        "brand": "Pillsbury",
+        "image_url": "https://assets.shop.loblaws.ca/products/20121195001/b3/en/front/20121195001_front_a06_@2.png",
+        "image_alt": "Pillsbury Flaky Real Apple Turnovers 383 g, $0.91/100g",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 22,
+        "name": "Raw Cookie Dough Chocolate Chunk",
+        "price": "400 g, $1.25/100g",
+        "brand": "Yummy Doh",
+        "image_url": "https://assets.shop.loblaws.ca/products/21464969/b3/en/front/21464969_front_a06_@2.png",
+        "image_alt": "Yummy Doh Raw Cookie Dough Chocolate Chunk 400 g, $1.25/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 23,
+        "name": "Gluten Free Pie Crust",
+        "price": "380 g, $2.23/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21311742/b3/en/front/21311742_front_a06_@2.png",
+        "image_alt": "President's Choice Gluten Free Pie Crust 380 g, $2.23/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 24,
+        "name": "Raw Cookie Dough Strawberry Confetti",
+        "price": "400 g, $1.25/100g",
+        "brand": "Yummy Doh",
+        "image_url": "https://assets.shop.loblaws.ca/products/21464785/b3/en/front/21464785_front_a06_@2.png",
+        "image_alt": "Yummy Doh Raw Cookie Dough Strawberry Confetti 400 g, $1.25/100g",
+        "price_product_tile": "$5.00$5.00"
+    }
+]

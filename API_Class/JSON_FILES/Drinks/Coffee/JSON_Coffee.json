@@ -1,0 +1,1226 @@
+[
+    {
+        "id": 1,
+        "name": "Gourmet West Coast Dark Roast Fine Grind Coffee",
+        "price": "875 g, $1.71/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393374/b3/en/front/21393374_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet West Coast Dark Roast Fine Grind Coffee 875 g, $1.71/100g",
+        "price_product_tile": "$14.99$14.99$15.99$15.99SAVE $1.00"
+    },
+    {
+        "id": 2,
+        "name": "Original Roast Instant Coffee",
+        "price": "150 g, $3.66/100g",
+        "brand": "Maxwell House",
+        "image_url": "https://assets.shop.loblaws.ca/products/21026608/b3/en/front/21026608_front_a06_@2.png",
+        "image_alt": "Maxwell House Original Roast Instant Coffee 150 g, $3.66/100g",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 3,
+        "name": "The Great Canadian Light to Medium Roast Fine Grind Coffee",
+        "price": "930 g, $1.61/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393573/b3/en/front/21393573_front_a06_@2.png",
+        "image_alt": "President's Choice The Great Canadian Light to Medium Roast Fine Grind Coffee 930 g, $1.61/100g",
+        "price_product_tile": "$14.99$14.99$15.99$15.99SAVE $1.00"
+    },
+    {
+        "id": 4,
+        "name": "Rich Instant Coffee",
+        "price": "170 g, $3.99/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/20873036/b3/en/front/20873036_front_a06_@2.png",
+        "image_alt": "Nescafe Rich Instant Coffee 170 g, $3.99/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 5,
+        "name": "Classic Roast Ground Coffee",
+        "price": "816 g, $1.22/100g",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/21478183/b3/en/front/21478183_front_a06_@2.png",
+        "image_alt": "Folgers Classic Roast Ground Coffee 816 g, $1.22/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 6,
+        "name": "Gourmet Medium Roast Extra Fine Grind Coffee",
+        "price": "930 g, $1.61/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393574/b3/en/front/21393574_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet Medium Roast Extra Fine Grind Coffee 930 g, $1.61/100g",
+        "price_product_tile": "$14.99$14.99$15.99$15.99SAVE $1.00"
+    },
+    {
+        "id": 7,
+        "name": "Gourmet Medium Roast Regular Grind Coffee",
+        "price": "930 g, $1.61/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393556/b3/en/front/21393556_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet Medium Roast Regular Grind Coffee  930 g, $1.61/100g",
+        "price_product_tile": "$14.99$14.99$15.99$15.99SAVE $1.00"
+    },
+    {
+        "id": 8,
+        "name": "GOLD Espresso Instant Coffee",
+        "price": "100 g, $8.49/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21074565/b3/en/front/21074565_front_a06_@2.png",
+        "image_alt": "Nescafe GOLD Espresso Instant Coffee 100 g, $8.49/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 9,
+        "name": "Pure Ground Coffee Rich Dark Roast",
+        "price": "900 g, $1.22/100g",
+        "brand": "Maxwell House",
+        "image_url": "https://assets.shop.loblaws.ca/products/21479234/b3/en/front/21479234_front_a06_@2.png",
+        "image_alt": "Maxwell House Pure Ground Coffee Rich Dark Roast 900 g, $1.22/100g",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 10,
+        "name": "Original Fine Grind Coffee",
+        "price": "930 g, $2.15/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/20875767/b3/en/front/20875767_front_a06_@2.png",
+        "image_alt": "Tim Hortons Original Fine Grind Coffee 930 g, $2.15/100g",
+        "price_product_tile": "$19.99$19.99$24.99$24.99SAVE $5.00"
+    },
+    {
+        "id": 11,
+        "name": "Crema e Gusto Ground Coffee, Classico",
+        "price": "250 g, $2.00/100g",
+        "brand": "Lavazza",
+        "image_url": "https://assets.shop.loblaws.ca/products/21553695/b3/en/front/21553695_front_a06_@2.png",
+        "image_alt": "Lavazza Crema e Gusto Ground Coffee, Classico 250 g, $2.00/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 12,
+        "name": "Tasters Choice Classic Instant Coffee",
+        "price": "100 g, $7.99/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/20661811001/b3/en/front/20661811001_front_a06_@2.png",
+        "image_alt": "Nescafe Tasters Choice Classic Instant Coffee 100 g, $7.99/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 13,
+        "name": "Gourmet West Coast Dark Roast\u2122 Whole Bean Coffee",
+        "price": "907 g, $1.87/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393334/b3/en/front/21393334_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet West Coast Dark Roast\u2122 Whole Bean Coffee 907 g, $1.87/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 14,
+        "name": "Rossa Ground Coffee",
+        "price": "250 g, $2.00/100g",
+        "brand": "Lavazza",
+        "image_url": "https://assets.shop.loblaws.ca/products/21553714/b3/en/front/21553714_front_a06_@2.png",
+        "image_alt": "Lavazza Rossa Ground Coffee 250 g, $2.00/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 15,
+        "name": "Original K-Cup Coffee Pods",
+        "price": "30 ea, $0.70/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21166682/b3/en/front/21166682_front_a06_@2.png",
+        "image_alt": "Tim Hortons Original K-Cup Coffee Pods 30 ea, $0.70/1ea",
+        "price_product_tile": "$20.99$20.99$24.99$24.99SAVE $4.00"
+    },
+    {
+        "id": 16,
+        "name": "Medium Roast Ground Coffee",
+        "price": "925 g, $1.08/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21380616/b3/en/front/21380616_front_a06_@2.png",
+        "image_alt": "No Name Medium Roast Ground Coffee 925 g, $1.08/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 17,
+        "name": "Gourmet Swiss Water Process Decaffeinated Medium Roast Fine Grind Coffee",
+        "price": "875 g, $1.71/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393552/b3/en/front/21393552_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet Swiss Water Process Decaffeinated Medium Roast Fine Grind Coffee 875 g, $1.71/100g",
+        "price_product_tile": "$14.99$14.99$15.99$15.99SAVE $1.00"
+    },
+    {
+        "id": 18,
+        "name": "Sweet And Creamy Original Instant Coffee Mix",
+        "price": "351 g, $2.28/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21363371/b3/en/front/21363371_front_a06_@2.png",
+        "image_alt": "Nescafe Sweet And Creamy Original Instant Coffee Mix 351 g, $2.28/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 19,
+        "name": "Premium Medium Dark Roast, Ground Coffee",
+        "price": "950 g, $2.63/100g",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21238559/b3/en/front/21238559_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast, Ground Coffee 950 g, $2.63/100g",
+        "price_product_tile": "$24.99$24.99"
+    },
+    {
+        "id": 20,
+        "name": "Rich Instant Coffee, Tin",
+        "price": "95 g, $3.15/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589014/b3/en/front/21589014_front_a06_@2.png",
+        "image_alt": "Nescafe Rich Instant Coffee, Tin 95 g, $3.15/100g",
+        "price_product_tile": "$2.99$2.99$5.99$5.99SAVE $3.00"
+    },
+    {
+        "id": 21,
+        "name": "Gourmet Medium Roast Fine Grind Coffee",
+        "price": "930 g, $1.61/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393372/b3/en/front/21393372_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet Medium Roast Fine Grind Coffee  930 g, $1.61/100g",
+        "price_product_tile": "$14.99$14.99$15.99$15.99SAVE $1.00"
+    },
+    {
+        "id": 22,
+        "name": "Original Coffee",
+        "price": "300 g, $3.50/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/20902294/b3/en/front/20902294_front_a06_@2.png",
+        "image_alt": "Tim Hortons Original Coffee 300 g, $3.50/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 23,
+        "name": "Ground Coffee Pike Place Roast, Nespresso Vertuo",
+        "price": "100 g, $11.49/100g",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398289/b3/en/front/21398289_front_a06_@2.png",
+        "image_alt": "Starbucks Ground Coffee Pike Place Roast, Nespresso Vertuo 100 g, $11.49/100g",
+        "price_product_tile": "$11.49$11.49"
+    },
+    {
+        "id": 24,
+        "name": "Sweet And Creamy French Vanilla Instant Coffee Mix",
+        "price": "351 g, $2.28/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21363370/b3/en/front/21363370_front_a06_@2.png",
+        "image_alt": "Nescafe Sweet And Creamy French Vanilla Instant Coffee Mix 351 g, $2.28/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 25,
+        "name": "Rich Decaf Instant Coffee",
+        "price": "100 g, $6.79/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/20950415/b3/en/front/20950415_front_a06_@2.png",
+        "image_alt": "Nescafe Rich Decaf Instant Coffee 100 g, $6.79/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 26,
+        "name": "Caff\u00e8 Verona Ground Coffee",
+        "price": "340 g, $2.94/100g",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/20548682005/b3/en/front/20548682005_front_a06_@2.png",
+        "image_alt": "Starbucks Caff\u00e8 Verona Ground Coffee 340 g, $2.94/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 27,
+        "name": "Single Serve Coffee Pods, Original 12 Pods",
+        "price": "126 g, $10.71/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/20902453/b3/en/front/20902453_front_a06_@2.png",
+        "image_alt": "Tim Hortons Single Serve Coffee Pods, Original 12 Pods 126 g, $10.71/100g",
+        "price_product_tile": "$13.49$13.49"
+    },
+    {
+        "id": 28,
+        "name": "Ground 100% Arabica Coffee Pike Place Medium Roast",
+        "price": "340 g, $2.94/100g",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/20548682004/b3/en/front/20548682004_front_a06_@2.png",
+        "image_alt": "Starbucks Ground 100% Arabica Coffee Pike Place Medium Roast 340 g, $2.94/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 29,
+        "name": "Espresso Instant Coffee",
+        "price": "80 g, $7.49/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21499826/b3/en/front/21499826_front_a06_@2.png",
+        "image_alt": "President's Choice Espresso Instant Coffee  80 g, $7.49/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 30,
+        "name": "Rich Intense Instant Coffee",
+        "price": "160 g, $4.24/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21363386/b3/en/front/21363386_front_a06_@2.png",
+        "image_alt": "Nescafe Rich Intense Instant Coffee 160 g, $4.24/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 31,
+        "name": "Premium Medium Dark Roast K-Cup Coffee Pods, 30 Count",
+        "price": "30 ea, $0.83/1ea",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21240975/b3/en/front/21240975_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast K-Cup Coffee Pods, 30 Count 30 ea, $0.83/1ea",
+        "price_product_tile": "$24.99$24.99"
+    },
+    {
+        "id": 32,
+        "name": "Rich Hazelnut Instant Coffee Canister",
+        "price": "100 g, $6.79/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/20949814/b3/en/front/20949814_front_a06_@2.png",
+        "image_alt": "Nescafe Rich Hazelnut Instant Coffee Canister 100 g, $6.79/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 33,
+        "name": "Rich French Vanilla Flavoured Instant Coffee Mix, Makes 50 Servings",
+        "price": "100 g, $6.79/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/20949839/b3/en/front/20949839_front_a06_@2.png",
+        "image_alt": "Nescafe Rich French Vanilla Flavoured Instant Coffee Mix, Makes 50 Servings 100 g, $6.79/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 34,
+        "name": "Gourmet West Coast Dark Roast Single Serve Coffee Pods",
+        "price": "30 ea, $0.57/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21038762/b3/en/front/21038762_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet West Coast Dark Roast Single Serve Coffee Pods 30 ea, $0.57/1ea",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 35,
+        "name": "Dark Roast Ground Coffee",
+        "price": "925 g, $1.08/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21380631/b3/en/front/21380631_front_a06_@2.png",
+        "image_alt": "No Name Dark Roast Ground Coffee 925 g, $1.08/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 36,
+        "name": "Classic Decaf Coffee",
+        "price": "100 g, $7.99/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21309165/b3/en/front/21309165_front_a06_@2.png",
+        "image_alt": "Nescafe Classic Decaf Coffee 100 g, $7.99/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 37,
+        "name": "Gourmet West Coast Dark Roast Single Serve Coffee Pods",
+        "price": "72 ea, $0.49/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21111235/b3/en/front/21111235_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet West Coast Dark Roast Single Serve Coffee Pods 72 ea, $0.49/1ea",
+        "price_product_tile": "$34.99$34.99"
+    },
+    {
+        "id": 38,
+        "name": "Instant Coffee Club Size",
+        "price": "340 g, $2.59/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20057497/b3/en/front/20057497_front_a06_@2.png",
+        "image_alt": "No Name Instant Coffee Club Size 340 g, $2.59/100g",
+        "price_product_tile": "$8.79$8.79"
+    },
+    {
+        "id": 39,
+        "name": "GOLD Instant and Roast & Ground Medium Coffee",
+        "price": "100 g, $8.49/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21074532/b3/en/front/21074532_front_a06_@2.png",
+        "image_alt": "Nescafe GOLD Instant and Roast & Ground Medium Coffee 100 g, $8.49/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 40,
+        "name": "Original Coffee",
+        "price": "48 ea, $0.77/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21240799/b3/en/front/21240799_front_a06_@2.png",
+        "image_alt": "Tim Hortons Original Coffee 48 ea, $0.77/1ea",
+        "price_product_tile": "$36.99$36.99"
+    },
+    {
+        "id": 41,
+        "name": "RICH Instant Coffee",
+        "price": "475 g, $2.95/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/20145032/b3/en/front/20145032_front_a06_@2.png",
+        "image_alt": "Nescafe RICH Instant Coffee 475 g, $2.95/100g",
+        "price_product_tile": "$13.99$13.99$15.99$15.99SAVE $2.00"
+    },
+    {
+        "id": 42,
+        "name": "Nabob Espresso Single Serve T-Discs",
+        "price": "14 ea, $0.50/1ea",
+        "brand": "Tassimo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20552968/b3/en/front/20552968_front_a06_@2.png",
+        "image_alt": "Tassimo Nabob Espresso Single Serve T-Discs 14 ea, $0.50/1ea",
+        "price_product_tile": "$6.99$6.99$7.99$7.99SAVE $1.00"
+    },
+    {
+        "id": 43,
+        "name": "Ground 100% Arabica Coffee True North Blend Blonde Roast",
+        "price": "340 g, $2.94/100g",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/20548682002/b3/en/front/20548682002_front_a06_@2.png",
+        "image_alt": "Starbucks Ground 100% Arabica Coffee True North Blend Blonde Roast 340 g, $2.94/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 44,
+        "name": "Caff\u00e8 Verona Capsules, Ground Coffee For Nespresso Vurtuo",
+        "price": "100 g, $11.49/100g",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398286/b3/en/front/21398286_front_a06_@2.png",
+        "image_alt": "Starbucks Caff\u00e8 Verona Capsules, Ground Coffee For Nespresso Vurtuo 100 g, $11.49/100g",
+        "price_product_tile": "$11.49$11.49"
+    },
+    {
+        "id": 45,
+        "name": "Espresso Coffee",
+        "price": "250 g, $1.52/100g",
+        "brand": "Barzula",
+        "image_url": "https://assets.shop.loblaws.ca/products/20025953/b3/en/front/20025953_front_a06_@2.png",
+        "image_alt": "Barzula Espresso Coffee 250 g, $1.52/100g",
+        "price_product_tile": "$3.79$3.79"
+    },
+    {
+        "id": 46,
+        "name": "Bar Extra Ground Coffee Espresso Medium",
+        "price": "250 g, $1.60/100g",
+        "brand": "Excelsior",
+        "image_url": "https://assets.shop.loblaws.ca/products/20075381/b3/en/front/20075381_front_a06_@2.png",
+        "image_alt": "Excelsior Bar Extra Ground Coffee Espresso Medium  250 g, $1.60/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 47,
+        "name": "Premium Ground Brazilian Coffee",
+        "price": "450 g, $1.78/100g",
+        "brand": "Al Rifai",
+        "image_url": "https://assets.shop.loblaws.ca/products/20830650/b3/en/front/20830650_front_a06_@2.png",
+        "image_alt": "Al Rifai Premium Ground Brazilian Coffee 450 g, $1.78/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 48,
+        "name": "Whole Bean Arabica Coffee",
+        "price": "907 g, $2.04/100g",
+        "brand": "Pride Of Arabia",
+        "image_url": "https://assets.shop.loblaws.ca/products/20081005/b3/en/front/20081005_front_a06_@2.png",
+        "image_alt": "Pride Of Arabia Whole Bean Arabica Coffee 907 g, $2.04/100g",
+        "price_product_tile": "$18.49$18.49"
+    },
+    {
+        "id": 49,
+        "name": "Premium Medium Dark Roast, Ground Coffee, Decaf",
+        "price": "640 g, $3.90/100g",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21521455/b3/en/front/21521455_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast, Ground Coffee, Decaf 640 g, $3.90/100g",
+        "price_product_tile": "$24.99$24.99"
+    },
+    {
+        "id": 50,
+        "name": "Ground Coffee Bold Espresso",
+        "price": "10 ea, $0.65/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21499074/b3/en/front/21499074_front_a06_@2.png",
+        "image_alt": "Tim Hortons Ground Coffee Bold Espresso 10 ea, $0.65/1ea",
+        "price_product_tile": "$6.49$6.49$7.99$7.99SAVE $1.50"
+    },
+    {
+        "id": 51,
+        "name": "Vanilla Biscotti K-Cup Coffee Pods 12 Count",
+        "price": "12 ea, $0.87/1ea",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/20416619003/b3/en/front/20416619003_front_a06_@2.png",
+        "image_alt": "Folgers Vanilla Biscotti K-Cup Coffee Pods 12 Count 12 ea, $0.87/1ea",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 52,
+        "name": "Espresso Perfetto Espresso Grind Coffee",
+        "price": "250 g, $2.52/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21414074/b3/en/front/21414074_front_a06_@2.png",
+        "image_alt": "President's Choice Espresso Perfetto Espresso Grind Coffee 250 g, $2.52/100g",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 53,
+        "name": "The Great Canadian Light to Medium Roast Single Serve Coffee Pods",
+        "price": "72 ea, $0.49/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21111217/b3/en/front/21111217_front_a06_@2.png",
+        "image_alt": "President's Choice The Great Canadian Light to Medium Roast Single Serve Coffee Pods 72 ea, $0.49/1ea",
+        "price_product_tile": "$34.99$34.99"
+    },
+    {
+        "id": 54,
+        "name": "Dark Roast Coffee",
+        "price": "300 g, $3.50/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/20902305/b3/en/front/20902305_front_a06_@2.png",
+        "image_alt": "Tim Hortons Dark Roast Coffee 300 g, $3.50/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 55,
+        "name": "Crema e Gusto Whole Coffee Beans, Classico",
+        "price": "1 kg, $1.70/100g",
+        "brand": "Lavazza",
+        "image_url": "https://assets.shop.loblaws.ca/products/21556201/b3/en/front/21556201_front_a06_@2.png",
+        "image_alt": "Lavazza Crema e Gusto Whole Coffee Beans, Classico 1 kg, $1.70/100g",
+        "price_product_tile": "$16.99$16.99$22.49$22.49SAVE $5.50"
+    },
+    {
+        "id": 56,
+        "name": "Variety Pack K-Cup Coffee Pods",
+        "price": "30 ea, $0.70/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21239018/b3/en/front/21239018_front_a06_@2.png",
+        "image_alt": "Tim Hortons Variety Pack K-Cup Coffee Pods 30 ea, $0.70/1ea",
+        "price_product_tile": "$20.99$20.99$24.99$24.99SAVE $4.00"
+    },
+    {
+        "id": 57,
+        "name": "Rich Caramel Instant Coffee",
+        "price": "100 g, $6.79/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21540390/b3/en/front/21540390_front_a06_@2.png",
+        "image_alt": "Nescafe Rich Caramel Instant Coffee 100 g, $6.79/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 58,
+        "name": "By Nespresso Espresso Roast Nespresso Coffee Capsules 10 Nespresso Coffee Pods",
+        "price": "57 g, $14.89/100g",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/21240796/b3/en/front/21240796_front_a06_@2.png",
+        "image_alt": "Starbucks By Nespresso Espresso Roast Nespresso Coffee Capsules 10 Nespresso Coffee Pods 57 g, $14.89/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 59,
+        "name": "PC\u00ae Costa Rica Single Origin Medium Roast Fine Grind Coffee",
+        "price": "340 g, $2.64/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21380541/b3/en/front/21380541_front_a06_@2.png",
+        "image_alt": "President's Choice PC\u00ae Costa Rica Single Origin Medium Roast Fine Grind Coffee 340 g, $2.64/100g",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 60,
+        "name": "PC\u00ae Colombian Supremo Single Origin Medium Roast Fine Grind Coffee",
+        "price": "340 g, $2.64/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21380579/b3/en/front/21380579_front_a06_@2.png",
+        "image_alt": "President's Choice PC\u00ae Colombian Supremo Single Origin Medium Roast Fine Grind Coffee 340 g, $2.64/100g",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 61,
+        "name": "Rossa Roasted Coffee Beans",
+        "price": "1 kg, $1.70/100g",
+        "brand": "Lavazza",
+        "image_url": "https://assets.shop.loblaws.ca/products/21556082/b3/en/front/21556082_front_a06_@2.png",
+        "image_alt": "Lavazza Rossa Roasted Coffee Beans 1 kg, $1.70/100g",
+        "price_product_tile": "$16.99$16.99$22.49$22.49SAVE $5.50"
+    },
+    {
+        "id": 62,
+        "name": "Sweet & Creamy Iced Original Instant Coffee Mix",
+        "price": "256 g, $3.12/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21431370/b3/en/front/21431370_front_a06_@2.png",
+        "image_alt": "Nescafe Sweet & Creamy Iced Original Instant Coffee Mix 256 g, $3.12/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 63,
+        "name": "Black Silk Ground Coffee Dark",
+        "price": "641 g, $1.56/100g",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/21478257/b3/en/front/21478257_front_a06_@2.png",
+        "image_alt": "Folgers Black Silk Ground Coffee Dark 641 g, $1.56/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 64,
+        "name": "Decaffeinated Hazelnut Vanilla Naturally Flavoured Fine Grind Coffee",
+        "price": "250 g, $2.72/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21478006/b3/en/front/21478006_front_a06_@2.png",
+        "image_alt": "President's Choice Decaffeinated Hazelnut Vanilla Naturally Flavoured Fine Grind Coffee 250 g, $2.72/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 65,
+        "name": "Roasted Ground Coffee Qualit\u00e0 Oro Perfect Symphony",
+        "price": "250 g, $2.80/100g",
+        "brand": "Lavazza",
+        "image_url": "https://assets.shop.loblaws.ca/products/20145899/b3/en/front/20145899_front_a06_@2.png",
+        "image_alt": "Lavazza Roasted Ground Coffee Qualit\u00e0 Oro Perfect Symphony 250 g, $2.80/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 66,
+        "name": "Espresso Forte Espresso Grind Coffee",
+        "price": "250 g, $2.52/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21410147/b3/en/front/21410147_front_a06_@2.png",
+        "image_alt": "President's Choice Espresso Forte Espresso Grind Coffee 250 g, $2.52/100g",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 67,
+        "name": "Medium Roast Decaf Coffee",
+        "price": "925 g, $1.08/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21380594/b3/en/front/21380594_front_a06_@2.png",
+        "image_alt": "No Name Medium Roast Decaf Coffee 925 g, $1.08/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 68,
+        "name": "Black Silk K-Cup Coffee Pods 30 Count",
+        "price": "30 ea, $8.75/100g",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/21080657/b3/en/front/21080657_front_a06_@2.png",
+        "image_alt": "Folgers Black Silk K-Cup Coffee Pods 30 Count 30 ea, $8.75/100g",
+        "price_product_tile": "$20.99$20.99"
+    },
+    {
+        "id": 69,
+        "name": "Original Roast Coffee 100% Compostable K Cup Coffee Pods",
+        "price": "114 g, $9.20/100g",
+        "brand": "Maxwell House",
+        "image_url": "https://assets.shop.loblaws.ca/products/20975424/b3/en/front/20975424_front_a06_@2.png",
+        "image_alt": "Maxwell House Original Roast Coffee 100% Compostable K Cup Coffee Pods 114 g, $9.20/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 70,
+        "name": "Instant Coffee, Light",
+        "price": "100 g, $5.99/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21167590/b3/en/front/21167590_front_a06_@2.png",
+        "image_alt": "Tim Hortons Instant Coffee, Light 100 g, $5.99/100g",
+        "price_product_tile": "$5.99$5.99$8.99$8.99SAVE $3.00"
+    },
+    {
+        "id": 71,
+        "name": "Dark Roast Coffee Pods",
+        "price": "114 g, $5.96/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393594/b3/en/front/21393594_front_a06_@2.png",
+        "image_alt": "No Name Dark Roast Coffee Pods 114 g, $5.96/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 72,
+        "name": "Qualit\u00e0 Rossa Whole Bean Coffee",
+        "price": "340 g, $3.53/100g",
+        "brand": "Lavazza",
+        "image_url": "https://assets.shop.loblaws.ca/products/21520472/b3/en/front/21520472_front_a06_@2.png",
+        "image_alt": "Lavazza Qualit\u00e0 Rossa Whole Bean Coffee 340 g, $3.53/100g",
+        "price_product_tile": "$11.99$11.99"
+    },
+    {
+        "id": 73,
+        "name": "Lively Colombian K-Cup Coffee Pods 30 Count",
+        "price": "30 ea, $0.70/1ea",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/20811386/b3/en/front/20811386_front_a06_@2.png",
+        "image_alt": "Folgers Lively Colombian K-Cup Coffee Pods 30 Count 30 ea, $0.70/1ea",
+        "price_product_tile": "$20.99$20.99"
+    },
+    {
+        "id": 74,
+        "name": "Decaffeinated Ground Coffee Classic Decaf",
+        "price": "544 g, $1.84/100g",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/21478187/b3/en/front/21478187_front_a06_@2.png",
+        "image_alt": "Folgers Decaffeinated Ground Coffee Classic Decaf 544 g, $1.84/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 75,
+        "name": "Premium Medium Dark Roast, Decaf, K-Cup Coffee Pods, 30 Count",
+        "price": "30 ea, $0.83/1ea",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21363985/b3/en/front/21363985_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast, Decaf, K-Cup Coffee Pods, 30 Count 30 ea, $0.83/1ea",
+        "price_product_tile": "$24.99$24.99"
+    },
+    {
+        "id": 76,
+        "name": "Colombian Coffee",
+        "price": "300 g, $3.50/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21013366/b3/en/front/21013366_front_a06_@2.png",
+        "image_alt": "Tim Hortons Colombian Coffee 300 g, $3.50/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 77,
+        "name": "Hazelnut Coffee",
+        "price": "300 g, $3.50/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21013369/b3/en/front/21013369_front_a06_@2.png",
+        "image_alt": "Tim Hortons Hazelnut Coffee 300 g, $3.50/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 78,
+        "name": "Colombian Dark, Dark Roast, K-Cup Coffee Pods",
+        "price": "30 ea, $0.83/1ea",
+        "brand": "Van Houtte",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588231/b3/en/front/21588231_front_a06_@2.png",
+        "image_alt": "Van Houtte Colombian Dark, Dark Roast, K-Cup Coffee Pods 30 ea, $0.83/1ea",
+        "price_product_tile": "$24.99$24.99"
+    },
+    {
+        "id": 79,
+        "name": "The Great Canadian Light to Medium Roast Single Serve Coffee Pods",
+        "price": "30 ea, $0.57/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21038677/b3/en/front/21038677_front_a06_@2.png",
+        "image_alt": "President's Choice The Great Canadian Light to Medium Roast Single Serve Coffee Pods 30 ea, $0.57/1ea",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 80,
+        "name": "PC\u00ae Espresso Aromatico Lungo Single Serve Coffee Capsules",
+        "price": "10 ea, $69.90/100ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21213472/b3/en/front/21213472_front_a06_@2.png",
+        "image_alt": "President's Choice PC\u00ae Espresso Aromatico Lungo Single Serve Coffee Capsules 10 ea, $69.90/100ea",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 81,
+        "name": "Rainforest Espresso, Extra Dark Roast, K-Cup Coffee Pods, 30 Count",
+        "price": "30 ea, $0.53/1ea",
+        "brand": "Timothy's",
+        "image_url": "https://assets.shop.loblaws.ca/products/21433503/b3/en/front/21433503_front_a06_@2.png",
+        "image_alt": "Timothy's Rainforest Espresso, Extra Dark Roast, K-Cup Coffee Pods, 30 Count 30 ea, $0.53/1ea",
+        "price_product_tile": "$15.99$15.99$18.99$18.99SAVE $3.00"
+    },
+    {
+        "id": 82,
+        "name": "Premium Medium Dark Roast, K-Cup Coffee Pods, 12 Count",
+        "price": "12 ea, $1.08/1ea",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21238598/b3/en/front/21238598_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast, K-Cup Coffee Pods, 12 Count 12 ea, $1.08/1ea",
+        "price_product_tile": "$12.99$12.99"
+    },
+    {
+        "id": 83,
+        "name": "PC\u00ae Ethiopia Single Origin Medium Roast Fine Grind Coffee",
+        "price": "340 g, $2.64/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21380492/b3/en/front/21380492_front_a06_@2.png",
+        "image_alt": "President's Choice PC\u00ae Ethiopia Single Origin Medium Roast Fine Grind Coffee 340 g, $2.64/100g",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 84,
+        "name": "House Blend Coffee 100% Compostable K Cup Coffee Pods",
+        "price": "292 g, $4.79/100g",
+        "brand": "Maxwell House",
+        "image_url": "https://assets.shop.loblaws.ca/products/21308107/b3/en/front/21308107_front_a06_@2.png",
+        "image_alt": "Maxwell House House Blend Coffee 100% Compostable K Cup Coffee Pods 292 g, $4.79/100g",
+        "price_product_tile": "$13.99$13.99$16.99$16.99SAVE $3.00"
+    },
+    {
+        "id": 85,
+        "name": "Gold Dark Roast Instant and Roast & Ground Coffee",
+        "price": "100 g, $8.49/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21074552/b3/en/front/21074552_front_a06_@2.png",
+        "image_alt": "Nescafe Gold Dark Roast Instant and Roast & Ground Coffee 100 g, $8.49/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 86,
+        "name": "Coffee Beans",
+        "price": "1 kg, $1.75/100g",
+        "brand": "Barzula",
+        "image_url": "https://assets.shop.loblaws.ca/products/20028651/b3/en/front/20028651_front_a06_@2.png",
+        "image_alt": "Barzula Coffee Beans      1 kg, $1.75/100g",
+        "price_product_tile": "$17.49$17.49"
+    },
+    {
+        "id": 87,
+        "name": "Ground Coffee Intensely Dark",
+        "price": "641 g, $1.56/100g",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/21478258/b3/en/front/21478258_front_a06_@2.png",
+        "image_alt": "Folgers Ground Coffee Intensely Dark 641 g, $1.56/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 88,
+        "name": "Medium Roast Decaffeinated Coffee Pods",
+        "price": "114 g, $5.96/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393583/b3/en/front/21393583_front_a06_@2.png",
+        "image_alt": "No Name Medium Roast Decaffeinated Coffee Pods 114 g, $5.96/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 89,
+        "name": "Instant Coffee, Medium",
+        "price": "100 g, $5.99/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21167584/b3/en/front/21167584_front_a06_@2.png",
+        "image_alt": "Tim Hortons Instant Coffee, Medium 100 g, $5.99/100g",
+        "price_product_tile": "$5.99$5.99$8.99$8.99SAVE $3.00"
+    },
+    {
+        "id": 90,
+        "name": "Premium Medium Dark Roast, Ground Coffee",
+        "price": "340 g, $4.11/100g",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21238495/b3/en/front/21238495_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast, Ground Coffee 340 g, $4.11/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 91,
+        "name": "Premium Medium Dark Roast, Whole Bean Coffee",
+        "price": "900 g, $2.67/100g",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21238547/b3/en/front/21238547_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast, Whole Bean Coffee 900 g, $2.67/100g",
+        "price_product_tile": "$23.99$23.99"
+    },
+    {
+        "id": 92,
+        "name": "Columbian K-Cup Coffee Pods",
+        "price": "30 ea, $0.70/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21166714/b3/en/front/21166714_front_a06_@2.png",
+        "image_alt": "Tim Hortons Columbian K-Cup Coffee Pods 30 ea, $0.70/1ea",
+        "price_product_tile": "$20.99$20.99$24.99$24.99SAVE $4.00"
+    },
+    {
+        "id": 93,
+        "name": "Gold Smooth Instant Coffee",
+        "price": "100 g, $8.49/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21521456/b3/en/front/21521456_front_a06_@2.png",
+        "image_alt": "Nescafe Gold Smooth Instant Coffee 100 g, $8.49/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 94,
+        "name": "Gourmet West Coast Dark Roast Single Serve Coffee Pods",
+        "price": "12 ea, $0.65/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20585365/b3/en/front/20585365_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet West Coast Dark Roast Single Serve Coffee Pods 12 ea, $0.65/1ea",
+        "price_product_tile": "$7.79$7.79"
+    },
+    {
+        "id": 95,
+        "name": "The Great Canadian Light to Medium Roast Single Serve Coffee Pods",
+        "price": "12 ea, $0.65/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20585545/b3/en/front/20585545_front_a06_@2.png",
+        "image_alt": "President's Choice The Great Canadian Light to Medium Roast Single Serve Coffee Pods 12 ea, $0.65/1ea",
+        "price_product_tile": "$7.79$7.79"
+    },
+    {
+        "id": 96,
+        "name": "Maxwell House House Blend Coffee Single Serve T-Discs",
+        "price": "16 ea, $0.44/1ea",
+        "brand": "Tassimo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20026954001/b3/en/front/20026954001_front_a06_@2.png",
+        "image_alt": "Tassimo Maxwell House House Blend Coffee Single Serve T-Discs 16 ea, $0.44/1ea",
+        "price_product_tile": "$6.99$6.99$7.99$7.99SAVE $1.00"
+    },
+    {
+        "id": 97,
+        "name": "Gold Smooth Instant Coffee",
+        "price": "100 g, $8.49/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21521456/b3/en/front/21521456_front_a06_@2.png",
+        "image_alt": "Nescafe Gold Smooth Instant Coffee 100 g, $8.49/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 98,
+        "name": "Dark Coffee",
+        "price": "48 ea, $0.77/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21239208/b3/en/front/21239208_front_a06_@2.png",
+        "image_alt": "Tim Hortons Dark Coffee 48 ea, $0.77/1ea",
+        "price_product_tile": "$36.99$36.99"
+    },
+    {
+        "id": 99,
+        "name": "Columbian K-Cup Coffee Pods",
+        "price": "30 ea, $0.70/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21166714/b3/en/front/21166714_front_a06_@2.png",
+        "image_alt": "Tim Hortons Columbian K-Cup Coffee Pods 30 ea, $0.70/1ea",
+        "price_product_tile": "$20.99$20.99$24.99$24.99SAVE $4.00"
+    },
+    {
+        "id": 100,
+        "name": "By Nespresso Pike Place Roast Coffee Pods",
+        "price": "53 g, $16.02/100g",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/21241271/b3/en/front/21241271_front_a06_@2.png",
+        "image_alt": "Starbucks By Nespresso Pike Place Roast Coffee Pods 53 g, $16.02/100g",
+        "price_product_tile": "$8.49$8.49"
+    },
+    {
+        "id": 101,
+        "name": "Original House Blend, Medium Roast, K-Cup Coffee Pods",
+        "price": "30 ea, $0.83/1ea",
+        "brand": "Van Houtte",
+        "image_url": "https://assets.shop.loblaws.ca/products/20743469/b3/en/front/20743469_front_a06_@2.png",
+        "image_alt": "Van Houtte Original House Blend, Medium Roast, K-Cup Coffee Pods 30 ea, $0.83/1ea",
+        "price_product_tile": "$24.99$24.99"
+    },
+    {
+        "id": 102,
+        "name": "Greek Coffee",
+        "price": "194 g, $5.15/100g",
+        "brand": "Papagalos",
+        "image_url": "https://assets.shop.loblaws.ca/products/20994222/b3/en/front/20994222_front_a06_@2.png",
+        "image_alt": "Papagalos Greek Coffee      194 g, $5.15/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 103,
+        "name": "Espresso Coffee",
+        "price": "250 g, $1.80/100g",
+        "brand": "Gioia",
+        "image_url": "https://assets.shop.loblaws.ca/products/20011981/b3/en/front/20011981_front_a06_@2.png",
+        "image_alt": "Gioia Espresso Coffee 250 g, $1.80/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 104,
+        "name": "Medium Roast Instant and Microground Coffee",
+        "price": "100 g, $5.99/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21500188/b3/en/front/21500188_front_a06_@2.png",
+        "image_alt": "President's Choice Medium Roast Instant and Microground Coffee 100 g, $5.99/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 105,
+        "name": "Dark Roast Coffee 100% Compostable Pods",
+        "price": "117 g, $8.97/100g",
+        "brand": "Maxwell House",
+        "image_url": "https://assets.shop.loblaws.ca/products/20975425/b3/en/front/20975425_front_a06_@2.png",
+        "image_alt": "Maxwell House Dark Roast Coffee 100% Compostable Pods 117 g, $8.97/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 106,
+        "name": "Regular Coffee, K-Cup",
+        "price": "30 ea, $0.53/1ea",
+        "brand": "Donut House",
+        "image_url": "https://assets.shop.loblaws.ca/products/20899892/b3/en/front/20899892_front_a06_@2.png",
+        "image_alt": "Donut House Regular Coffee, K-Cup 30 ea, $0.53/1ea",
+        "price_product_tile": "$15.99$15.99$18.99$18.99SAVE $3.00"
+    },
+    {
+        "id": 107,
+        "name": "French Vanilla Naturally Flavoured Fine Grind Coffee",
+        "price": "250 g, $2.72/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21478010/b3/en/front/21478010_front_a06_@2.png",
+        "image_alt": "President's Choice French Vanilla Naturally Flavoured Fine Grind Coffee 250 g, $2.72/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 108,
+        "name": "Medium Roast Coffee Pods",
+        "price": "114 g, $5.96/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393587/b3/en/front/21393587_front_a06_@2.png",
+        "image_alt": "No Name Medium Roast Coffee Pods 114 g, $5.96/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 109,
+        "name": "Cappuccino TASSIMO T DISCs",
+        "price": "8 ea, $0.87/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21010129/b3/en/front/21010129_front_a06_@2.png",
+        "image_alt": "President's Choice Cappuccino TASSIMO T DISCs 8 ea, $0.87/1ea",
+        "price_product_tile": "$6.99$6.99$7.99$7.99SAVE $1.00"
+    },
+    {
+        "id": 110,
+        "name": "French Vanilla Coffee",
+        "price": "300 g, $3.50/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21008933/b3/en/front/21008933_front_a06_@2.png",
+        "image_alt": "Tim Hortons French Vanilla Coffee 300 g, $3.50/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 111,
+        "name": "Breakfast Blend, Light Roast, K-Cup Coffee Pods, 30 Count",
+        "price": "30 ea, $0.53/1ea",
+        "brand": "Timothy's",
+        "image_url": "https://assets.shop.loblaws.ca/products/21433555/b3/en/front/21433555_front_a06_@2.png",
+        "image_alt": "Timothy's Breakfast Blend, Light Roast, K-Cup Coffee Pods, 30 Count 30 ea, $0.53/1ea",
+        "price_product_tile": "$15.99$15.99$18.99$18.99SAVE $3.00"
+    },
+    {
+        "id": 112,
+        "name": "Dark Roast K-Cup Compatible",
+        "price": "30 ea, $0.70/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21166700/b3/en/front/21166700_front_a06_@2.png",
+        "image_alt": "Tim Hortons Dark Roast K-Cup Compatible 30 ea, $0.70/1ea",
+        "price_product_tile": "$20.99$20.99$24.99$24.99SAVE $4.00"
+    },
+    {
+        "id": 113,
+        "name": "Gourmet Swiss Water Process Decaffeinated Medium Roast Single Serve Coffee Pods",
+        "price": "30 ea, $0.57/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21035959/b3/en/front/21035959_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet Swiss Water Process Decaffeinated Medium Roast Single Serve Coffee Pods 30 ea, $0.57/1ea",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 114,
+        "name": "PC\u00ae Espresso Forte Whole Bean Coffee",
+        "price": "907 g, $1.87/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21393271/b3/en/front/21393271_front_a06_@2.png",
+        "image_alt": "President's Choice PC\u00ae Espresso Forte Whole Bean Coffee 907 g, $1.87/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 115,
+        "name": "K-Cup, French Vanilla",
+        "price": "126 g, $11.24/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21004843/b3/en/front/21004843_front_a06_@2.png",
+        "image_alt": "Tim Hortons K-Cup, French Vanilla 126 g, $11.24/100g",
+        "price_product_tile": "$13.49$13.49"
+    },
+    {
+        "id": 116,
+        "name": "Coffee, Dark Roast",
+        "price": "875 g, $2.28/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/20986028/b3/en/front/20986028_front_a06_@2.png",
+        "image_alt": "Tim Hortons Coffee, Dark Roast 875 g, $2.28/100g",
+        "price_product_tile": "$19.99$19.99$24.99$24.99SAVE $5.00"
+    },
+    {
+        "id": 117,
+        "name": "PC\u00ae Gourmet Medium Roast Single Serve Coffee Pods",
+        "price": "72 ea, $0.49/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21406937/b3/en/front/21406937_front_a06_@2.png",
+        "image_alt": "President's Choice PC\u00ae Gourmet Medium Roast Single Serve Coffee Pods 72 ea, $0.49/1ea",
+        "price_product_tile": "$34.99$34.99"
+    },
+    {
+        "id": 118,
+        "name": "Decaffeinated Coffee Espresso Ground",
+        "price": "200 g, $2.25/100g",
+        "brand": "Excelsior",
+        "image_url": "https://assets.shop.loblaws.ca/products/20031853/b3/en/front/20031853_front_a06_@2.png",
+        "image_alt": "Excelsior Decaffeinated Coffee Espresso Ground 200 g, $2.25/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 119,
+        "name": "Rich Original Coffee Capsules",
+        "price": "477 g, $4.40/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21168528/b3/en/front/21168528_front_a06_@2.png",
+        "image_alt": "Nescafe Rich Original Coffee Capsules 477 g, $4.40/100g",
+        "price_product_tile": "$20.99$20.99"
+    },
+    {
+        "id": 120,
+        "name": "Light Roast Instant Coffee",
+        "price": "100 g, $5.99/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21501032/b3/en/front/21501032_front_a06_@2.png",
+        "image_alt": "President's Choice Light Roast Instant Coffee 100 g, $5.99/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 121,
+        "name": "Ground Coffee Bright Espresso",
+        "price": "10 ea, $0.65/1ea",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/21498998/b3/en/front/21498998_front_a06_@2.png",
+        "image_alt": "Tim Hortons Ground Coffee Bright Espresso 10 ea, $0.65/1ea",
+        "price_product_tile": "$6.49$6.49$7.99$7.99SAVE $1.50"
+    },
+    {
+        "id": 122,
+        "name": "Premium Medium Dark Roast, Decaf, Ground Coffee",
+        "price": "340 g, $4.11/100g",
+        "brand": "McCafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21238498/b3/en/front/21238498_front_a06_@2.png",
+        "image_alt": "McCafe Premium Medium Dark Roast, Decaf, Ground Coffee 340 g, $4.11/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 123,
+        "name": "Doughnuts Value Pack Light Roast Coffee 30 K-Cup Pods",
+        "price": "30 ea, $0.53/1ea",
+        "brand": "Krispy Kreme",
+        "image_url": "https://assets.shop.loblaws.ca/products/21007380/b3/en/front/21007380_front_a06_@2.png",
+        "image_alt": "Krispy Kreme Doughnuts Value Pack Light Roast Coffee 30 K-Cup Pods 30 ea, $0.53/1ea",
+        "price_product_tile": "$15.99$15.99$18.99$18.99SAVE $3.00"
+    },
+    {
+        "id": 124,
+        "name": "Dark Roast Instant & Microground Coffee",
+        "price": "100 g, $5.99/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21501027/b3/en/front/21501027_front_a06_@2.png",
+        "image_alt": "President's Choice Dark Roast Instant & Microground Coffee 100 g, $5.99/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 125,
+        "name": "Instant Coffee",
+        "price": "150 g, $3.33/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21180125/b3/en/front/21180125_front_a06_@2.png",
+        "image_alt": "No Name Instant Coffee 150 g, $3.33/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 126,
+        "name": "Classic Roast K-Cup Coffee Pods 12 Count",
+        "price": "12 ea, $0.87/1ea",
+        "brand": "Folgers",
+        "image_url": "https://assets.shop.loblaws.ca/products/20416619005/b3/en/front/20416619005_front_a06_@2.png",
+        "image_alt": "Folgers Classic Roast K-Cup Coffee Pods 12 Count 12 ea, $0.87/1ea",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 127,
+        "name": "Gourmet Medium Roast Single Serve Coffee Pods",
+        "price": "30 ea, $0.57/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21033681/b3/en/front/21033681_front_a06_@2.png",
+        "image_alt": "President's Choice Gourmet Medium Roast Single Serve Coffee Pods 30 ea, $0.57/1ea",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 128,
+        "name": "Original Roast Coffee 100% Compostable K Cup Coffee Pods",
+        "price": "285 g, $4.91/100g",
+        "brand": "Maxwell House",
+        "image_url": "https://assets.shop.loblaws.ca/products/21308076/b3/en/front/21308076_front_a06_@2.png",
+        "image_alt": "Maxwell House Original Roast Coffee 100% Compostable K Cup Coffee Pods 285 g, $4.91/100g",
+        "price_product_tile": "$13.99$13.99$16.99$16.99SAVE $3.00"
+    },
+    {
+        "id": 129,
+        "name": "Nabob Caf\u00e9 Crema Coffee Single Serve T-Discs",
+        "price": "14 ea, $6.35/100g",
+        "brand": "Tassimo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20306771/b3/en/front/20306771_front_a06_@2.png",
+        "image_alt": "Tassimo Nabob Caf\u00e9 Crema Coffee Single Serve T-Discs 14 ea, $6.35/100g",
+        "price_product_tile": "$6.99$6.99$7.99$7.99SAVE $1.00"
+    },
+    {
+        "id": 130,
+        "name": "Pure Ground Coffee Breakfast Blend",
+        "price": "900 g, $1.22/100g",
+        "brand": "Maxwell House",
+        "image_url": "https://assets.shop.loblaws.ca/products/21479230/b3/en/front/21479230_front_a06_@2.png",
+        "image_alt": "Maxwell House Pure Ground Coffee Breakfast Blend 900 g, $1.22/100g",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 131,
+        "name": "True North Blend Blonde Roast Ground Coffee K-Cup Pods",
+        "price": "24 ea, $0.96/1ea",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/21013199/b3/en/front/21013199_front_a06_@2.png",
+        "image_alt": "Starbucks True North Blend Blonde Roast Ground Coffee K-Cup Pods 24 ea, $0.96/1ea",
+        "price_product_tile": "$22.99$22.99"
+    },
+    {
+        "id": 132,
+        "name": "Premium Ground Brazilian Coffee",
+        "price": "450 g, $1.78/100g",
+        "brand": "Al Rifai",
+        "image_url": "https://assets.shop.loblaws.ca/products/20830271/b3/en/front/20830271_front_a06_@2.png",
+        "image_alt": "Al Rifai Premium Ground Brazilian Coffee 450 g, $1.78/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 133,
+        "name": "Cold Brew Coffee Concentrate, Signature Black",
+        "price": "946 ml, $1.06/100ml",
+        "brand": "Starbucks",
+        "image_url": "https://assets.shop.loblaws.ca/products/21295438/b3/en/front/21295438_front_a06_@2.png",
+        "image_alt": "Starbucks Cold Brew Coffee Concentrate, Signature Black 946 ml, $1.06/100ml",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 134,
+        "name": "Nabob 100% Colombian Coffee Single Serve T-Discs",
+        "price": "14 ea, $6.35/100g",
+        "brand": "Tassimo",
+        "image_url": "https://assets.shop.loblaws.ca/products/20317830/b3/en/front/20317830_front_a06_@2.png",
+        "image_alt": "Tassimo Nabob 100% Colombian Coffee Single Serve T-Discs 14 ea, $6.35/100g",
+        "price_product_tile": "$6.99$6.99$7.99$7.99SAVE $1.00"
+    },
+    {
+        "id": 135,
+        "name": "Fine Grain Coffee, Decaffeinated",
+        "price": "300 g, $3.50/100g",
+        "brand": "Tim Hortons",
+        "image_url": "https://assets.shop.loblaws.ca/products/20902304/b3/en/front/20902304_front_a06_@2.png",
+        "image_alt": "Tim Hortons Fine Grain Coffee, Decaffeinated 300 g, $3.50/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 136,
+        "name": "Origins Colombia Coffee",
+        "price": "95 g, $8.94/100g",
+        "brand": "Nescafe",
+        "image_url": "https://assets.shop.loblaws.ca/products/21237266/b3/en/front/21237266_front_a06_@2.png",
+        "image_alt": "Nescafe Origins Colombia Coffee 95 g, $8.94/100g",
+        "price_product_tile": "$8.49$8.49"
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "name": "Tofu, Extra Firm",
+        "price": "350 g, $0.85/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20570507/b3/en/front/20570507_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu, Extra Firm 350 g, $0.85/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 2,
+        "name": "Organic Tofu Extra Firm",
+        "price": "350 g, $1.14/100g",
+        "brand": "Soyganic",
+        "image_url": "https://assets.shop.loblaws.ca/products/21023474/b3/en/front/21023474_front_a06_@2.png",
+        "image_alt": "Soyganic Organic Tofu Extra Firm 350 g, $1.14/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 3,
+        "name": "Tofu, Medium Firm",
+        "price": "454 g, $0.55/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20022239/b3/en/front/20022239_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu, Medium Firm 454 g, $0.55/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 4,
+        "name": "Extra Firm Tofu",
+        "price": "454 g, $0.55/100g",
+        "brand": "Rooster",
+        "image_url": "https://assets.shop.loblaws.ca/products/21474765/b3/en/front/21474765_front_a06_@2.png",
+        "image_alt": "Rooster Extra Firm Tofu 454 g, $0.55/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 5,
+        "name": "Firm Tofu",
+        "price": "454 g, $0.55/100g",
+        "brand": "Rooster",
+        "image_url": "https://assets.shop.loblaws.ca/products/21474719/b3/en/front/21474719_front_a06_@2.png",
+        "image_alt": "Rooster Firm Tofu 454 g, $0.55/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 6,
+        "name": "Tofu, Soft",
+        "price": "300 g, $0.66/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20135704/b3/en/front/20135704_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu, Soft 300 g, $0.66/100g",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 7,
+        "name": "Tofu Dessert, Peach Mango",
+        "price": "2x150.0 g, $0.66/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20569354/b3/en/front/20569354_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu Dessert, Peach Mango  2x150.0 g, $0.66/100g",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 8,
+        "name": "Veggie Hot Dogs, Family Pack",
+        "price": "450 g, $1.55/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20032594/b3/en/front/20032594_front_a06_@2.png",
+        "image_alt": "Yves Veggie Hot Dogs, Family Pack 450 g, $1.55/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 9,
+        "name": "Tofu Smoked, Original",
+        "price": "180 g, $2.49/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361775/b3/en/front/21361775_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu Smoked, Original 180 g, $2.49/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 10,
+        "name": "Tofu Extra Firm Plain",
+        "price": "400 g, $0.82/100g",
+        "brand": "Fontaine Sante",
+        "image_url": "https://assets.shop.loblaws.ca/products/21290707/b3/en/front/21290707_front_a06_@2.png",
+        "image_alt": "Fontaine Sante Tofu Extra Firm Plain    400 g, $0.82/100g",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 11,
+        "name": "Tofu Dessert, Almond Flavoured",
+        "price": "2x150.0 g, $0.66/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20569353/b3/en/front/20569353_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu Dessert, Almond Flavoured 2x150.0 g, $0.66/100g",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 12,
+        "name": "Veggie Turkey Slices",
+        "price": "155 g, $3.22/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20597352/b3/en/front/20597352_front_a06_@2.png",
+        "image_alt": "Yves Veggie Turkey Slices 155 g, $3.22/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 13,
+        "name": "Veggie Ham Slices",
+        "price": "155 g, $3.22/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20597353/b3/en/front/20597353_front_a06_@2.png",
+        "image_alt": "Yves Veggie Ham Slices 155 g, $3.22/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 14,
+        "name": "Silken Tofu",
+        "price": "454 g, $0.55/100g",
+        "brand": "Rooster",
+        "image_url": "https://assets.shop.loblaws.ca/products/21476068/b3/en/front/21476068_front_a06_@2.png",
+        "image_alt": "Rooster Silken Tofu 454 g, $0.55/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 15,
+        "name": "Medium Firm Tofu",
+        "price": "454 g, $0.55/100g",
+        "brand": "Rooster",
+        "image_url": "https://assets.shop.loblaws.ca/products/21474492/b3/en/front/21474492_front_a06_@2.png",
+        "image_alt": "Rooster Medium Firm Tofu 454 g, $0.55/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 16,
+        "name": "Veggie Ground Round, Original",
+        "price": "340 g, $1.91/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20507159/b3/en/front/20507159_front_a06_@2.png",
+        "image_alt": "Yves Veggie Ground Round, Original 340 g, $1.91/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 17,
+        "name": "Tofu Firm Organic 500 g",
+        "price": "500 g, $0.80/100g",
+        "brand": "Soyganic",
+        "image_url": "https://assets.shop.loblaws.ca/products/21371229/b3/en/front/21371229_front_a06_@2.png",
+        "image_alt": "Soyganic Tofu Firm Organic 500 g 500 g, $0.80/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 18,
+        "name": "Dairy Free Mozzarella Cheese Shreds",
+        "price": "200 g, $3.00/100g",
+        "brand": "Daiya",
+        "image_url": "https://assets.shop.loblaws.ca/products/21207740/b3/en/front/21207740_front_a06_@2.png",
+        "image_alt": "Daiya Dairy Free Mozzarella Cheese Shreds 200 g, $3.00/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 19,
+        "name": "Smart Dogs Plant-Based Vegan Hot Dogs",
+        "price": "340 g, $1.47/100g",
+        "brand": "Lightlife",
+        "image_url": "https://assets.shop.loblaws.ca/products/21188678/b3/en/front/21188678_front_a06_@2.png",
+        "image_alt": "Lightlife Smart Dogs Plant-Based Vegan Hot Dogs 340 g, $1.47/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 20,
+        "name": "Dairy Free Cheese",
+        "price": "170 g, $4.58/100g",
+        "brand": "Boursin",
+        "image_url": "https://assets.shop.loblaws.ca/products/21359049/b3/en/front/21359049_front_a06_@2.png",
+        "image_alt": "Boursin Dairy Free Cheese 170 g, $4.58/100g",
+        "price_product_tile": "$7.79$7.79"
+    },
+    {
+        "id": 21,
+        "name": "Good Veggie Burger",
+        "price": "300 g, $2.33/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20563191/b3/en/front/20563191_front_a06_@2.png",
+        "image_alt": "Yves Good Veggie Burger 300 g, $2.33/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 22,
+        "name": "Tofu, Firm",
+        "price": "500 g, $0.70/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589828/b3/en/front/21589828_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu, Firm 500 g, $0.70/100g",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 23,
+        "name": "Dairy Free Cheddar Cheese Shreds",
+        "price": "200 g, $3.00/100g",
+        "brand": "Daiya",
+        "image_url": "https://assets.shop.loblaws.ca/products/21070311/b3/en/front/21070311_front_a06_@2.png",
+        "image_alt": "Daiya Dairy Free Cheddar Cheese Shreds 200 g, $3.00/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 24,
+        "name": "Ground Round, Club Pack",
+        "price": "1248 g, $1.20/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20089678/b3/en/front/20089678_front_a06_@2.png",
+        "image_alt": "Yves Ground Round, Club Pack 1248 g, $1.20/100g",
+        "price_product_tile": "$14.99$14.99"
+    },
+    {
+        "id": 25,
+        "name": "Veggie Ground Round, Mexican",
+        "price": "340 g, $1.91/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20507161/b3/en/front/20507161_front_a06_@2.png",
+        "image_alt": "Yves Veggie Ground Round, Mexican 340 g, $1.91/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 26,
+        "name": "Veggie Bologna",
+        "price": "155 g, $3.22/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20596883/b3/en/front/20596883_front_a06_@2.png",
+        "image_alt": "Yves Veggie Bologna 155 g, $3.22/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 27,
+        "name": "Cheese, Plant Based",
+        "price": "100 g, $5.99/100g",
+        "brand": "Babybel",
+        "image_url": "https://assets.shop.loblaws.ca/products/21469509/b3/en/front/21469509_front_a06_@2.png",
+        "image_alt": "Babybel Cheese, Plant Based 100 g, $5.99/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 28,
+        "name": "Plant -Based Egg",
+        "price": "500 g, $2.10/100g",
+        "brand": "JUST Egg",
+        "image_url": "https://assets.shop.loblaws.ca/products/21595685/b3/en/front/21595685_front_a06_@2.png",
+        "image_alt": "JUST Egg Plant -Based Egg 500 g, $2.10/100g",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 29,
+        "name": "Plant-Based Spread Plant-Based Garlic & Herbs",
+        "price": "128 g, $4.68/100g",
+        "brand": "The Laughing Cow",
+        "image_url": "https://assets.shop.loblaws.ca/products/21574222/b3/en/front/21574222_front_a06_@2.png",
+        "image_alt": "The Laughing Cow Plant-Based Spread Plant-Based Garlic & Herbs 128 g, $4.68/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 30,
+        "name": "Medium Firm Organic Tofu",
+        "price": "454 g, $0.88/100g",
+        "brand": "Soyganic",
+        "image_url": "https://assets.shop.loblaws.ca/products/21359781/b3/en/front/21359781_front_a06_@2.png",
+        "image_alt": "Soyganic Medium Firm Organic Tofu 454 g, $0.88/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 31,
+        "name": "Original Organic Plant-Based Tempeh",
+        "price": "227 g, $2.42/100g",
+        "brand": "Lightlife",
+        "image_url": "https://assets.shop.loblaws.ca/products/20975498/b3/en/front/20975498_front_a06_@2.png",
+        "image_alt": "Lightlife Original Organic Plant-Based Tempeh 227 g, $2.42/100g",
+        "price_product_tile": "$5.49$5.49$5.99$5.99SAVE $0.50"
+    },
+    {
+        "id": 32,
+        "name": "Veggie Bacon Strips",
+        "price": "156 g, $3.84/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20573903/b3/en/front/20573903_front_a06_@2.png",
+        "image_alt": "Yves Veggie Bacon Strips 156 g, $3.84/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 33,
+        "name": "Premium Extra Firm Tofu",
+        "price": "340 g, $1.17/100g",
+        "brand": "House Foods",
+        "image_url": "https://assets.shop.loblaws.ca/products/21315429/b3/en/front/21315429_front_a06_@2.png",
+        "image_alt": "House Foods Premium Extra Firm Tofu 340 g, $1.17/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 34,
+        "name": "Tempeh",
+        "price": "198 g, $3.03/100g",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/21042733/b3/en/front/21042733_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Tempeh 198 g, $3.03/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 35,
+        "name": "Tofu Dessert, Original",
+        "price": "2x150.0 g, $0.66/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20569352/b3/en/front/20569352_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu Dessert, Original 2x150.0 g, $0.66/100g",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 36,
+        "name": "Original Veggie Patty",
+        "price": "400 g, $1.75/100g",
+        "brand": "Big Mountain",
+        "image_url": "https://assets.shop.loblaws.ca/products/21310525/b3/en/front/21310525_front_a06_@2.png",
+        "image_alt": "Big Mountain Original Veggie Patty 400 g, $1.75/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 37,
+        "name": "Cheddar & Mozzarella Style Shreds",
+        "price": "200 g, $3.25/100g",
+        "brand": "nurishh",
+        "image_url": "https://assets.shop.loblaws.ca/products/21574247/b3/en/front/21574247_front_a06_@2.png",
+        "image_alt": "nurishh Cheddar & Mozzarella Style Shreds 200 g, $3.25/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 38,
+        "name": "Mozzarella Flavoured Cheese Loaf",
+        "price": "250 g, $2.60/100g",
+        "brand": "Okanagan",
+        "image_url": "https://assets.shop.loblaws.ca/products/20571003/b3/en/front/20571003_front_a06_@2.png",
+        "image_alt": "Okanagan Mozzarella Flavoured Cheese Loaf 250 g, $2.60/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 39,
+        "name": "Dairy Free Cheddar Cheese Block",
+        "price": "200 g, $3.25/100g",
+        "brand": "Daiya",
+        "image_url": "https://assets.shop.loblaws.ca/products/21070683/b3/en/front/21070683_front_a06_@2.png",
+        "image_alt": "Daiya Dairy Free Cheddar Cheese Block 200 g, $3.25/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 40,
+        "name": "Caulicrumble Veg Grounds",
+        "price": "340 g, $2.06/100g",
+        "brand": "Big Mountain",
+        "image_url": "https://assets.shop.loblaws.ca/products/21310529/b3/en/front/21310529_front_a06_@2.png",
+        "image_alt": "Big Mountain Caulicrumble Veg Grounds 340 g, $2.06/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 41,
+        "name": "Veggie Ground Round, Italian",
+        "price": "340 g, $1.91/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/20507160/b3/en/front/20507160_front_a06_@2.png",
+        "image_alt": "Yves Veggie Ground Round, Italian 340 g, $1.91/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 42,
+        "name": "Cheddar Flavoured Cheese Loaf",
+        "price": "250 g, $2.60/100g",
+        "brand": "Okanagan",
+        "image_url": "https://assets.shop.loblaws.ca/products/20571001/b3/en/front/20571001_front_a06_@2.png",
+        "image_alt": "Okanagan Cheddar Flavoured Cheese Loaf 250 g, $2.60/100g",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 43,
+        "name": "Mighty Mushroom Bites",
+        "price": "300 g, $2.33/100g",
+        "brand": "Big Mountain",
+        "image_url": "https://assets.shop.loblaws.ca/products/21310605/b3/en/front/21310605_front_a06_@2.png",
+        "image_alt": "Big Mountain Mighty Mushroom Bites 300 g, $2.33/100g",
+        "price_product_tile": "$6.99$6.99"
+    },
+    {
+        "id": 44,
+        "name": "Premium Medium Firm Tofu",
+        "price": "396 g, $1.01/100g",
+        "brand": "House Foods",
+        "image_url": "https://assets.shop.loblaws.ca/products/21315432/b3/en/front/21315432_front_a06_@2.png",
+        "image_alt": "House Foods Premium Medium Firm Tofu 396 g, $1.01/100g",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 45,
+        "name": "Plant-based Feta Flavour Block",
+        "price": "185 g, $3.24/100g",
+        "brand": "Daiya",
+        "image_url": "https://assets.shop.loblaws.ca/products/21456939/b3/en/front/21456939_front_a06_@2.png",
+        "image_alt": "Daiya Plant-based Feta Flavour Block 185 g, $3.24/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 46,
+        "name": "Tofu Dessert, Coconut Flavoured",
+        "price": "2x150.0 g, $0.66/100g",
+        "brand": "Sunrise",
+        "image_url": "https://assets.shop.loblaws.ca/products/20569357/b3/en/front/20569357_front_a06_@2.png",
+        "image_alt": "Sunrise Tofu Dessert, Coconut Flavoured 2x150.0 g, $0.66/100g",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 47,
+        "name": "Veggie Chicken Nuggets",
+        "price": "200 g, $3.40/100g",
+        "brand": "Yves",
+        "image_url": "https://assets.shop.loblaws.ca/products/21216317/b3/en/front/21216317_front_a06_@2.png",
+        "image_alt": "Yves Veggie Chicken Nuggets 200 g, $3.40/100g",
+        "price_product_tile": "$6.79$6.79"
+    },
+    {
+        "id": 48,
+        "name": "Premium Firm Tofu",
+        "price": "396 g, $1.01/100g",
+        "brand": "House Foods",
+        "image_url": "https://assets.shop.loblaws.ca/products/21315424/b3/en/front/21315424_front_a06_@2.png",
+        "image_alt": "House Foods Premium Firm Tofu 396 g, $1.01/100g",
+        "price_product_tile": "$3.99$3.99"
+    }
+]

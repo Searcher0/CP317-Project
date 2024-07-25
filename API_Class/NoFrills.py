@@ -3,11 +3,13 @@ import json
 import os
 
 def Branded_products(html_file_path, output_file):
+# The following Code for Products that don't have Brands
     with open(html_file_path, 'r', encoding='utf-8') as file:
         html_content = file.read()
 
     soup = BeautifulSoup(html_content, 'html.parser')
 
+# # Extract product information
     products = []
     product_divs = soup.find_all('div', class_='css-0')
     product_id = 1
@@ -18,6 +20,8 @@ def Branded_products(html_file_path, output_file):
         price_tag = product_div.find('p', {'data-testid': 'product-package-size'})
         brand_tag = product_div.find('p', {'data-testid': 'product-brand'})
         image_tag = product_div.find('img')
+        price_product_tile_tag = product_div.find('div', {'data-testid': 'price-product-tile'})
+        price_product_tile = price_product_tile_tag.get_text(strip=True) if price_product_tile_tag else "No price product tile"
 
         if name_tag and price_tag and image_tag:
             name = name_tag.get_text(strip=True)
@@ -34,10 +38,12 @@ def Branded_products(html_file_path, output_file):
                     'price': price,
                     'brand': brand,
                     'image_url': image_url,
-                    'image_alt': image_alt
+                    'image_alt': image_alt,
+                    'price_product_tile': price_product_tile
                 })
                 product_id += 1
-    
+
+    # Write the extracted product details to a JSON file
     with open(output_file, 'w') as json_file:
         json.dump(products, json_file, indent=4)
 
@@ -61,6 +67,8 @@ def Unbranded_products(html_file_path, output_file):
         price_tag = product_div.find('p', {'data-testid': 'product-package-size'})
         brand_tag = product_div.find('p', {'data-testid': 'product-brand'})
         image_tag = product_div.find('img')
+        price_product_tile_tag = product_div.find('div', {'data-testid': 'price-product-tile'})
+        price_product_tile = price_product_tile_tag.get_text(strip=True) if price_product_tile_tag else "No price product tile"
 
         if name_tag and price_tag and image_tag:
             name = name_tag.get_text(strip=True)
@@ -69,7 +77,8 @@ def Unbranded_products(html_file_path, output_file):
             image_url = image_tag['src'] if image_tag and 'src' in image_tag.attrs else None
             image_alt = image_tag['alt'] if 'alt' in image_tag.attrs else "No alt text"
 
-            if (name, price) not in unique_products:
+            product_key = (name, price)
+            if product_key not in unique_products:
                 unique_products.add((name, price, brand))
                 products.append({
                     'id': product_id,
@@ -77,10 +86,10 @@ def Unbranded_products(html_file_path, output_file):
                     'price': price,
                     'brand': brand,
                     'image_url': image_url,
-                    'image_alt': image_alt
+                    'image_alt': image_alt,
+                    'price_product_tile': price_product_tile
                 })
                 product_id += 1
-
 
     # Write the extracted product details to a JSON file
     with open(output_file, 'w') as json_file:
@@ -131,4 +140,43 @@ def create_folders_and_files(base_path, list_file_path):
         with open(file_path, 'w') as file:
             file.write('')  # Create an empty file
 
+def OG_products(html_file_path, output_file):
+    with open(html_file_path, 'r', encoding='utf-8') as file:
+        html_content = file.read()
 
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    products = []
+    product_divs = soup.find_all('div', class_='css-0')
+    product_id = 1
+    unique_products = set()
+
+    for product_div in product_divs:
+        name_tag = product_div.find('h3', {'data-testid': 'product-title'})
+        price_tag = product_div.find('p', {'data-testid': 'product-package-size'})
+        brand_tag = product_div.find('p', {'data-testid': 'product-brand'})
+        image_tag = product_div.find('img')
+
+        if name_tag and price_tag and image_tag:
+            name = name_tag.get_text(strip=True)
+            price = price_tag.get_text(strip=True)
+            brand = brand_tag.get_text(strip=True) if brand_tag else "No brand"
+            image_url = image_tag['src'] if image_tag and 'src' in image_tag.attrs else None
+            image_alt = image_tag['alt'] if 'alt' in image_tag.attrs else "No alt text"
+
+            if (name, price) not in unique_products:
+                unique_products.add((name, price, brand))
+                products.append({
+                    'id': product_id,
+                    'name': name,
+                    'price': price,
+                    'brand': brand,
+                    'image_url': image_url,
+                    'image_alt': image_alt
+                })
+                product_id += 1
+    
+    with open(output_file, 'w') as json_file:
+        json.dump(products, json_file, indent=4)
+
+    print("Products have been written to the following JSON file: ", output_file)

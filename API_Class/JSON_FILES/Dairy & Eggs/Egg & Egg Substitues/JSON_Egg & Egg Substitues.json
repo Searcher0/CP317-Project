@@ -1,0 +1,263 @@
+[
+    {
+        "id": 1,
+        "name": "Large Grade A Eggs",
+        "price": "12 ea, $0.32/1ea",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20812144001/b3/en/front/20812144001_front_a06_@2.png",
+        "image_alt": "No Name Large Grade A Eggs 12 ea, $0.32/1ea",
+        "price_product_tile": "$3.88$3.88"
+    },
+    {
+        "id": 2,
+        "name": "Large Size Eggs",
+        "price": "30 ea, $0.32/1ea",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21435777001/b3/en/front/21435777001_front_a06_@2.png",
+        "image_alt": "No Name Large Size Eggs 30 ea, $0.32/1ea",
+        "price_product_tile": "$9.52$9.52"
+    },
+    {
+        "id": 3,
+        "name": "Grade A Extra Large Eggs",
+        "price": "12 eggs, $0.38/1ea",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20812726001/b3/en/front/20812726001_front_a06_@2.png",
+        "image_alt": "No Name Grade A Extra Large Eggs 12 eggs, $0.38/1ea",
+        "price_product_tile": "$4.58$4.58"
+    },
+    {
+        "id": 4,
+        "name": "Free Run Brown Eggs Large",
+        "price": "12 eggs, $0.59/1ea",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20813628001/b3/en/front/20813628001_front_a06_@2.png",
+        "image_alt": "President's Choice Free Run Brown Eggs Large 12 eggs, $0.59/1ea",
+        "price_product_tile": "$7.08$7.08"
+    },
+    {
+        "id": 5,
+        "name": "Grade A Large Eggs",
+        "price": "18 eggs, $0.38/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20814294001/b3/en/front/20814294001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Grade A Large Eggs 18 eggs, $0.38/1ea",
+        "price_product_tile": "$6.83$6.83"
+    },
+    {
+        "id": 6,
+        "name": "Egg Whites",
+        "price": "1 kg, $0.80/100g",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20821364001/b3/en/front/20821364001_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Egg Whites 1 kg, $0.80/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 7,
+        "name": "Grade A Large Brown Eggs",
+        "price": "12 eggs, $0.51/1ea",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20813936001/b3/en/front/20813936001_front_a06_@2.png",
+        "image_alt": "No Name Grade A Large Brown Eggs 12 eggs, $0.51/1ea",
+        "price_product_tile": "$6.08$6.08"
+    },
+    {
+        "id": 8,
+        "name": "Medium Grade A White Eggs",
+        "price": "12 eggs, $0.31/1ea",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20813386001/b3/en/front/20813386001_front_a06_@2.png",
+        "image_alt": "No Name Medium Grade A White Eggs 12 eggs, $0.31/1ea",
+        "price_product_tile": "$3.68$3.68"
+    },
+    {
+        "id": 9,
+        "name": "Free Range Large Brown Eggs",
+        "price": "12 eggs, $0.65/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/20813711001/b3/en/front/20813711001_front_a06_@2.png",
+        "image_alt": "PC Organics Free Range Large Brown Eggs 12 eggs, $0.65/1ea",
+        "price_product_tile": "$7.79$7.79"
+    },
+    {
+        "id": 10,
+        "name": "Free-Range Large Brown Eggs, Club Pack (30 Count)",
+        "price": "30 ea, $0.56/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21205224001/b3/en/front/21205224001_front_a06_@2.png",
+        "image_alt": "PC Organics Free-Range Large Brown Eggs, Club Pack (30 Count) 30 ea, $0.56/1ea",
+        "price_product_tile": "$16.72$16.72"
+    },
+    {
+        "id": 11,
+        "name": "Naturegg Omega 3 White Eggs, Large",
+        "price": "12 eggs, $0.51/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20815563001/b3/en/front/20815563001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Naturegg Omega 3 White Eggs, Large 12 eggs, $0.51/1ea",
+        "price_product_tile": "$6.08$6.08"
+    },
+    {
+        "id": 12,
+        "name": "Naturegg Nest Laid White Eggs, Large",
+        "price": "12 eggs, $0.51/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20816075001/b3/en/front/20816075001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Naturegg Nest Laid White Eggs, Large 12 eggs, $0.51/1ea",
+        "price_product_tile": "$6.08$6.08"
+    },
+    {
+        "id": 13,
+        "name": "Blue Menu Free Run Large White Eggs 12 Pack",
+        "price": "12 ea, $0.62/1ea",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20992723001/b3/en/front/20992723001_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Blue Menu Free Run Large White Eggs 12 Pack 12 ea, $0.62/1ea",
+        "price_product_tile": "$7.38$7.38"
+    },
+    {
+        "id": 14,
+        "name": "Free Run Egg Whites",
+        "price": "1 g, $1.00/100g",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/20821366001/b3/en/front/20821366001_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Free Run Egg Whites 1 g, $1.00/100g",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 15,
+        "name": "Nature's Best White Eggs, Large",
+        "price": "12 eggs, $0.47/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20814983001/b3/en/front/20814983001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Nature's Best White Eggs, Large 12 eggs, $0.47/1ea",
+        "price_product_tile": "$5.58$5.58"
+    },
+    {
+        "id": 16,
+        "name": "Naturegg NestlaidOmega 3 Large Size 12 Eggs",
+        "price": "12 ea, $6.38/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/21069384001/b3/en/front/21069384001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Naturegg NestlaidOmega 3 Large Size 12 Eggs 12 ea, $6.38/1ea",
+        "price_product_tile": "$6.38$6.38"
+    },
+    {
+        "id": 17,
+        "name": "Brown Eggs Free Run Omega-3 Size: Large",
+        "price": "18 ea, $0.58/1ea",
+        "brand": "Conestoga Eggs",
+        "image_url": "https://assets.shop.loblaws.ca/products/21542380001/b3/en/front/21542380001_front_a06_@2.png",
+        "image_alt": "Conestoga Eggs Brown Eggs Free Run Omega-3 Size: Large 18 ea, $0.58/1ea",
+        "price_product_tile": "$10.49$10.49"
+    },
+    {
+        "id": 18,
+        "name": "Free Run Omega-3 Hard-Boiled Peeled Eggs, 3x2 packs",
+        "price": "3x88.0 g, $3.74/100g",
+        "brand": "PC Blue Menu",
+        "image_url": "https://assets.shop.loblaws.ca/products/21048196001/b3/en/front/21048196001_front_a06_@2.png",
+        "image_alt": "PC Blue Menu Free Run Omega-3 Hard-Boiled Peeled Eggs, 3x2 packs 3x88.0 g, $3.74/100g",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 19,
+        "name": "Extra Large Size Free-Range Brown Eggs",
+        "price": "12 eggs, $0.67/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/20813389001/b3/en/front/20813389001_front_a06_@2.png",
+        "image_alt": "PC Organics Extra Large Size Free-Range Brown Eggs 12 eggs, $0.67/1ea",
+        "price_product_tile": "$8.08$8.08"
+    },
+    {
+        "id": 20,
+        "name": "Super Bon-Ee Grade A White Eggs, Super Extra Large",
+        "price": "12 eggs, $0.45/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20814693001/b3/en/front/20814693001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Super Bon-Ee Grade A White Eggs, Super Extra Large 12 eggs, $0.45/1ea",
+        "price_product_tile": "$5.38$5.38"
+    },
+    {
+        "id": 21,
+        "name": "Naturegg Free Run Egg Whites",
+        "price": "1 eggs, $1.10/100g",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20820130001/b3/en/front/20820130001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Naturegg Free Run Egg Whites 1 eggs, $1.10/100g",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 22,
+        "name": "Yorkshire Valley Farms Organic Grade A Eggs, Large",
+        "price": "12 ea, $0.67/1ea",
+        "brand": "No brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/20982570001/b3/en/front/20982570001_front_a06_@2.png",
+        "image_alt": "null Yorkshire Valley Farms Organic Grade A Eggs, Large 12 ea, $0.67/1ea",
+        "price_product_tile": "$8.09$8.09"
+    },
+    {
+        "id": 23,
+        "name": "Scramble Kit, Protein Packed",
+        "price": "57 g, $5.77/100g",
+        "brand": "Crave",
+        "image_url": "https://assets.shop.loblaws.ca/products/21567105001/b3/en/front/21567105001_front_a06_@2.png",
+        "image_alt": "Crave Scramble Kit, Protein Packed 57 g, $5.77/100g",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 24,
+        "name": "Egg Creations, Original",
+        "price": "500 g, $1.20/100g",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20820690001/b3/en/front/20820690001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Egg Creations, Original 500 g, $1.20/100g",
+        "price_product_tile": "$5.99$5.99"
+    },
+    {
+        "id": 25,
+        "name": "Grade A White Eggs, Large",
+        "price": "6 eggs, $0.49/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/20814818001/b3/en/front/20814818001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Grade A White Eggs, Large 6 eggs, $0.49/1ea",
+        "price_product_tile": "$2.94$2.94"
+    },
+    {
+        "id": 26,
+        "name": "Medium Size Free-Range Brown Eggs",
+        "price": "12 eggs, $0.64/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/20818960001/b3/en/front/20818960001_front_a06_@2.png",
+        "image_alt": "PC Organics Medium Size Free-Range Brown Eggs  12 eggs, $0.64/1ea",
+        "price_product_tile": "$7.68$7.68"
+    },
+    {
+        "id": 27,
+        "name": "Naturegg Solar Free Range Eggs, Large",
+        "price": "12 ea, $0.67/1ea",
+        "brand": "Burnbrae Farms",
+        "image_url": "https://assets.shop.loblaws.ca/products/21565857001/b3/en/front/21565857001_front_a06_@2.png",
+        "image_alt": "Burnbrae Farms Naturegg Solar Free Range Eggs, Large 12 ea, $0.67/1ea",
+        "price_product_tile": "$8.08$8.08"
+    },
+    {
+        "id": 28,
+        "name": "Scramble Kit, Classic",
+        "price": "79 g, $4.16/100g",
+        "brand": "Crave",
+        "image_url": "https://assets.shop.loblaws.ca/products/21566900001/b3/en/front/21566900001_front_a06_@2.png",
+        "image_alt": "Crave Scramble Kit, Classic 79 g, $4.16/100g",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 29,
+        "name": "Scramble Kit, Ultimate",
+        "price": "85 g, $3.87/100g",
+        "brand": "Crave",
+        "image_url": "https://assets.shop.loblaws.ca/products/21567083001/b3/en/front/21567083001_front_a06_@2.png",
+        "image_alt": "Crave Scramble Kit, Ultimate 85 g, $3.87/100g",
+        "price_product_tile": "$3.29$3.29"
+    }
+]

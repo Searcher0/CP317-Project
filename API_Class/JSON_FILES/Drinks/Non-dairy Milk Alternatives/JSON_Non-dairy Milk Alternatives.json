@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Oat Beverage, Original",
+        "price": "1.75 l, $0.26/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/21037796/b3/en/front/21037796_front_a06_@2.png",
+        "image_alt": "Earths Own Oat Beverage, Original 1.75 l, $0.26/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 2,
+        "name": "Almond Beverage, Unsweetened Original",
+        "price": "1.89 l, $0.21/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/20327647/b3/en/front/20327647_front_a06_@2.png",
+        "image_alt": "Earths Own Almond Beverage, Unsweetened Original  1.89 l, $0.21/100ml",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 3,
+        "name": "Oat Zero Sugar Beverage, Unsweetened Original",
+        "price": "1.75 l, $0.26/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/21517729/b3/en/front/21517729_front_a06_@2.png",
+        "image_alt": "Earths Own  Oat Zero Sugar Beverage, Unsweetened Original 1.75 l, $0.26/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 4,
+        "name": "Oat Beverage, Vanilla",
+        "price": "1.75 l, $0.26/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/21037799/b3/en/front/21037799_front_a06_@2.png",
+        "image_alt": "Earths Own Oat Beverage, Vanilla 1.75 l, $0.26/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 5,
+        "name": "Almond Beverage, Unsweetened Vanilla",
+        "price": "1.89 l, $0.21/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/20913872/b3/en/front/20913872_front_a06_@2.png",
+        "image_alt": "Earths Own Almond Beverage, Unsweetened Vanilla 1.89 l, $0.21/100ml",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 6,
+        "name": "Almond Beverage, Original",
+        "price": "1.89 l, $0.21/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299698001/b3/en/front/20299698001_front_a06_@2.png",
+        "image_alt": "Earths Own Almond Beverage, Original  1.89 l, $0.21/100ml",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 7,
+        "name": "Almond Beverage, Vanilla",
+        "price": "1.89 l, $0.21/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299698002/b3/en/front/20299698002_front_a06_@2.png",
+        "image_alt": "Earths Own Almond Beverage, Vanilla 1.89 l, $0.21/100ml",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 8,
+        "name": "Oat Beverage, Chocolate",
+        "price": "1.75 l, $0.26/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/21179354/b3/en/front/21179354_front_a06_@2.png",
+        "image_alt": "Earths Own Oat Beverage, Chocolate 1.75 l, $0.26/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 9,
+        "name": "Organic Soy Beverage, Vanilla Flavour, Dairy-Free",
+        "price": "1.89 l, $0.25/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/20124384002/b3/en/front/20124384002_front_a06_@2.png",
+        "image_alt": "Silk Organic Soy Beverage, Vanilla Flavour, Dairy-Free 1.89 l, $0.25/100ml",
+        "price_product_tile": "$4.79$4.79"
+    },
+    {
+        "id": 10,
+        "name": "Creamy Cashew Beverage, Unsweetened, Vanilla Flavour",
+        "price": "1.89 l, $0.25/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/20914285/b3/en/front/20914285_front_a06_@2.png",
+        "image_alt": "Silk Creamy Cashew Beverage, Unsweetened, Vanilla Flavour 1.89 l, $0.25/100ml",
+        "price_product_tile": "$4.79$4.79"
+    },
+    {
+        "id": 11,
+        "name": "Almond Beverage, Chocolate",
+        "price": "1.89 l, $0.21/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299698003/b3/en/front/20299698003_front_a06_@2.png",
+        "image_alt": "Earths Own Almond Beverage, Chocolate 1.89 l, $0.21/100ml",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 12,
+        "name": "Oat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable",
+        "price": "946 ml, $0.32/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/21357595/b3/en/front/21357595_front_a06_@2.png",
+        "image_alt": "Silk Oat Beverage, Plain, Unsweetened, Dairy-Free, Shelf Stable  946 ml, $0.32/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 13,
+        "name": "NextMilk Whole Plant-Based Beverage",
+        "price": "1.74 l, $0.28/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/21518871/b3/en/front/21518871_front_a06_@2.png",
+        "image_alt": "Silk NextMilk Whole Plant-Based Beverage 1.74 l, $0.28/100ml",
+        "price_product_tile": "$4.79$4.79"
+    },
+    {
+        "id": 14,
+        "name": "Oat Beverage, Vanilla, Unsweetened, Dairy-Free, Shelf Stable",
+        "price": "946 ml, $0.32/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/21357596/b3/en/front/21357596_front_a06_@2.png",
+        "image_alt": "Silk Oat Beverage, Vanilla, Unsweetened, Dairy-Free, Shelf Stable 946 ml, $0.32/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 15,
+        "name": "Fortified Gluten-Free Oat Beverage Zero Sugar Unsweetened Vanilla",
+        "price": "1.75 l, $0.26/100ml",
+        "brand": "Earths Own",
+        "image_url": "https://assets.shop.loblaws.ca/products/21546544/b3/en/front/21546544_front_a06_@2.png",
+        "image_alt": "Earths Own Fortified Gluten-Free Oat Beverage Zero Sugar Unsweetened Vanilla 1.75 l, $0.26/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 16,
+        "name": "Soy Beverage, Chocolate Flavour, Dairy-Free",
+        "price": "1.89 l, $0.25/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/20124384003/b3/en/front/20124384003_front_a06_@2.png",
+        "image_alt": "Silk Soy Beverage, Chocolate Flavour, Dairy-Free 1.89 l, $0.25/100ml",
+        "price_product_tile": "$4.79$4.79"
+    }
+]

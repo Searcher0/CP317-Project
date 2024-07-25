@@ -1,0 +1,1253 @@
+[
+    {
+        "id": 1,
+        "name": "100% Coconut Water",
+        "price": "1 l, $0.30/100ml",
+        "brand": "UFC",
+        "image_url": "https://assets.shop.loblaws.ca/products/20570506/b3/en/front/20570506_front_a06_@2.png",
+        "image_alt": "UFC 100% Coconut Water 1 l, $0.30/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 2,
+        "name": "Aloe Vera drink",
+        "price": "1.5 l, $0.19/100ml",
+        "brand": "T&T",
+        "image_url": "https://assets.shop.loblaws.ca/products/20593585/b3/en/front/20593585_front_a06_@2.png",
+        "image_alt": "T&T Aloe Vera drink 1.5 l, $0.19/100ml",
+        "price_product_tile": "$2.79$2.79"
+    },
+    {
+        "id": 3,
+        "name": "Aloe Vera Drink, 50% Less Sugar",
+        "price": "1.5 l, $0.19/100ml",
+        "brand": "T&T",
+        "image_url": "https://assets.shop.loblaws.ca/products/21007399/b3/en/front/21007399_front_a06_@2.png",
+        "image_alt": "T&T Aloe Vera Drink, 50% Less Sugar 1.5 l, $0.19/100ml",
+        "price_product_tile": "$2.79$2.79"
+    },
+    {
+        "id": 4,
+        "name": "Mango Juice",
+        "price": "1000 ml, $0.25/100ml",
+        "brand": "Frooti",
+        "image_url": "https://assets.shop.loblaws.ca/products/20041155/b3/en/front/20041155_front_a06_@2.png",
+        "image_alt": "Frooti Mango Juice 1000 ml, $0.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 5,
+        "name": "Pineapple Coconut Exotic Juice Drink",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Suraj",
+        "image_url": "https://assets.shop.loblaws.ca/products/21001025/b3/en/front/21001025_front_a06_@2.png",
+        "image_alt": "Suraj Pineapple Coconut Exotic Juice Drink 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00"
+    },
+    {
+        "id": 6,
+        "name": "Mango Drink",
+        "price": "4x200.0 ml, $0.37/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20325890001/b3/en/front/20325890001_front_a06_@2.png",
+        "image_alt": "Rubicon Mango Drink 4x200.0 ml, $0.37/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 7,
+        "name": "Evaporated Milk",
+        "price": "354 ml, $0.42/100ml",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21040510/b3/en/front/21040510_front_a06_@2.png",
+        "image_alt": "No Name Evaporated Milk 354 ml, $0.42/100ml",
+        "price_product_tile": "$1.49$1.49$1.99$1.99SAVE $0.50"
+    },
+    {
+        "id": 8,
+        "name": "Mango Exotic Juice Drink",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Suraj",
+        "image_url": "https://assets.shop.loblaws.ca/products/21001004/b3/en/front/21001004_front_a06_@2.png",
+        "image_alt": "Suraj Mango Exotic Juice Drink 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00"
+    },
+    {
+        "id": 9,
+        "name": "Nectar Mango",
+        "price": "1 l, $0.25/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20029236001/b3/en/front/20029236001_front_a06_@2.png",
+        "image_alt": "Rubicon Nectar Mango 1 l, $0.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 10,
+        "name": "Passion Fruit Juice",
+        "price": "1 l, $0.25/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296770002/b3/en/front/20296770002_front_a06_@2.png",
+        "image_alt": "Rubicon Passion Fruit Juice 1 l, $0.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 11,
+        "name": "Sweetened Condensed Milk",
+        "price": "300 ml, $1.00/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20112979/b3/en/front/20112979_front_a06_@2.png",
+        "image_alt": "President's Choice Sweetened Condensed Milk 300 ml, $1.00/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 12,
+        "name": "Strawberry Yogurt",
+        "price": "400 ml, $0.57/100ml",
+        "brand": "Wahaha",
+        "image_url": "https://assets.shop.loblaws.ca/products/21382076/b3/en/front/21382076_front_a06_@2.png",
+        "image_alt": "Wahaha Strawberry Yogurt 400 ml, $0.57/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 13,
+        "name": "Jasmine Green Tea",
+        "price": "1.23 l, $0.20/100ml",
+        "brand": "T&T",
+        "image_url": "https://assets.shop.loblaws.ca/products/21340139/b3/en/front/21340139_front_a06_@2.png",
+        "image_alt": "T&T Jasmine Green Tea 1.23 l, $0.20/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 14,
+        "name": "Lychee Exotic Juice Drink",
+        "price": "1 l, $0.25/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20304561001/b3/en/front/20304561001_front_a06_@2.png",
+        "image_alt": "Rubicon Lychee Exotic Juice Drink 1 l, $0.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 15,
+        "name": "Guava Drink",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Suraj",
+        "image_url": "https://assets.shop.loblaws.ca/products/21378020/b3/en/front/21378020_front_a06_@2.png",
+        "image_alt": "Suraj Guava Drink 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00"
+    },
+    {
+        "id": 16,
+        "name": "100% Natural Organic Coconut Water",
+        "price": "1 l, $0.43/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/21383084/b3/en/front/21383084_front_a06_@2.png",
+        "image_alt": "Rubicon 100% Natural Organic Coconut Water  1 l, $0.43/100ml",
+        "price_product_tile": "$4.29$4.29"
+    },
+    {
+        "id": 17,
+        "name": "Lychee Drink",
+        "price": "1 l, $0.20/100ml",
+        "brand": "Suraj",
+        "image_url": "https://assets.shop.loblaws.ca/products/21378017/b3/en/front/21378017_front_a06_@2.png",
+        "image_alt": "Suraj Lychee Drink 1 l, $0.20/100ml",
+        "price_product_tile": "$2.00$2.00"
+    },
+    {
+        "id": 18,
+        "name": "Tomato Juice",
+        "price": "540 ml, $0.28/100ml",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20565353/b3/en/front/20565353_front_a06_@2.png",
+        "image_alt": "No Name Tomato Juice 540 ml, $0.28/100ml",
+        "price_product_tile": "$1.50$1.50"
+    },
+    {
+        "id": 19,
+        "name": "Guava Exotic Juice Drink",
+        "price": "1 l, $0.25/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20296770001/b3/en/front/20296770001_front_a06_@2.png",
+        "image_alt": "Rubicon Guava Exotic Juice Drink 1 l, $0.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 20,
+        "name": "Coconut Milk",
+        "price": "398 ml, $0.38/100ml",
+        "brand": "Rooster",
+        "image_url": "https://assets.shop.loblaws.ca/products/21378707/b3/en/front/21378707_front_a06_@2.png",
+        "image_alt": "Rooster Coconut Milk 398 ml, $0.38/100ml",
+        "price_product_tile": "$1.50$1.50"
+    },
+    {
+        "id": 21,
+        "name": "100% Coconut Water",
+        "price": "6x500.0 ml, $0.37/100ml",
+        "brand": "UFC",
+        "image_url": "https://assets.shop.loblaws.ca/products/21018405/b3/en/front/21018405_front_a06_@2.png",
+        "image_alt": "UFC 100% Coconut Water 6x500.0 ml, $0.37/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 22,
+        "name": "Mango Juice Drink",
+        "price": "1.5 l, $0.27/100ml",
+        "brand": "Frooti",
+        "image_url": "https://assets.shop.loblaws.ca/products/21422987/b3/en/front/21422987_front_a06_@2.png",
+        "image_alt": "Frooti Mango Juice Drink 1.5 l, $0.27/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 23,
+        "name": "Evaporated Milk",
+        "price": "354 ml, $0.70/100ml",
+        "brand": "Carnation",
+        "image_url": "https://assets.shop.loblaws.ca/products/20896887/b3/en/front/20896887_front_a06_@2.png",
+        "image_alt": "Carnation Evaporated Milk 354 ml, $0.70/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 24,
+        "name": "Coconut Milk",
+        "price": "400 ml, $0.37/100ml",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20047774/b3/en/front/20047774_front_a06_@2.png",
+        "image_alt": "Grace Coconut Milk 400 ml, $0.37/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 25,
+        "name": "Coconut Water with Jelly",
+        "price": "520 ml, $0.34/100ml",
+        "brand": "Chaokoh",
+        "image_url": "https://assets.shop.loblaws.ca/products/20023918002/b3/en/front/20023918002_front_a06_@2.png",
+        "image_alt": "Chaokoh Coconut Water with Jelly 520 ml, $0.34/100ml",
+        "price_product_tile": "$1.79$1.79"
+    },
+    {
+        "id": 26,
+        "name": "2% Milk",
+        "price": "1 l, $0.47/100ml",
+        "brand": "Grand Pre",
+        "image_url": "https://assets.shop.loblaws.ca/products/20085214/b3/en/front/20085214_front_a06_@2.png",
+        "image_alt": "Grand Pre 2% Milk 1 l, $0.47/100ml",
+        "price_product_tile": "$4.69$4.69"
+    },
+    {
+        "id": 27,
+        "name": "1 Coconut Water",
+        "price": "1000 ml, $0.35/100ml",
+        "brand": "Kosa",
+        "image_url": "https://assets.shop.loblaws.ca/products/21176899/b3/en/front/21176899_front_a06_@2.png",
+        "image_alt": "Kosa 1 Coconut Water     1000 ml, $0.35/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 28,
+        "name": "Guava Exotic Fruit Juice",
+        "price": "4x200.0 ml, $0.37/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20344100/b3/en/front/20344100_front_a06_@2.png",
+        "image_alt": "Rubicon Guava Exotic Fruit Juice 4x200.0 ml, $0.37/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 29,
+        "name": "Juice Drink Pineapple & Coconut",
+        "price": "1 l, $0.28/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/21456866/b3/en/front/21456866_front_a06_@2.png",
+        "image_alt": "Rubicon Juice Drink Pineapple & Coconut 1 l, $0.28/100ml",
+        "price_product_tile": "$2.79$2.79"
+    },
+    {
+        "id": 30,
+        "name": "Coconut Juice With Pulp",
+        "price": "500 ml, $0.40/100ml",
+        "brand": "Tasco Brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/20431227/b3/en/front/20431227_front_a06_@2.png",
+        "image_alt": "Tasco Brand Coconut Juice With Pulp 500 ml, $0.40/100ml",
+        "price_product_tile": "$1.99$1.99"
+    },
+    {
+        "id": 31,
+        "name": "Lemonade Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20663423/b3/en/front/20663423_front_a06_@2.png",
+        "image_alt": "MiO Lemonade Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 32,
+        "name": "Brand Sweetened Condensed Milk",
+        "price": "300 ml, $1.33/100ml",
+        "brand": "Eagle Brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/21012618/b3/en/front/21012618_front_a06_@2.png",
+        "image_alt": "Eagle Brand Brand Sweetened Condensed Milk 300 ml, $1.33/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 33,
+        "name": "Juice Drink Passion Fruit",
+        "price": "4x200.0 ml, $1.50/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/21456915/b3/en/front/21456915_front_a06_@2.png",
+        "image_alt": "Rubicon Juice Drink Passion Fruit 4x200.0 ml, $1.50/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 34,
+        "name": "2% Evaporated Partly Skimmed Milk",
+        "price": "354 ml, $0.42/100ml",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/21040543/b3/en/front/21040543_front_a06_@2.png",
+        "image_alt": "No Name 2% Evaporated Partly Skimmed Milk 354 ml, $0.42/100ml",
+        "price_product_tile": "$1.49$1.49$1.99$1.99SAVE $0.50"
+    },
+    {
+        "id": 35,
+        "name": "Alphonso Mango Drink",
+        "price": "180 ml, $0.83/100ml",
+        "brand": "Paper Boat",
+        "image_url": "https://assets.shop.loblaws.ca/products/21455131/b3/en/front/21455131_front_a06_@2.png",
+        "image_alt": "Paper Boat Alphonso Mango Drink 180 ml, $0.83/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 36,
+        "name": "Grape Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Kool-Aid",
+        "image_url": "https://assets.shop.loblaws.ca/products/20749494001/b3/en/front/20749494001_front_a06_@2.png",
+        "image_alt": "Kool-Aid Grape Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 37,
+        "name": "100% Juice Blend Mango",
+        "price": "1 l, $0.35/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20990655001/b3/en/front/20990655001_front_a06_@2.png",
+        "image_alt": "Rubicon 100% Juice Blend Mango 1 l, $0.35/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 38,
+        "name": "Mango Drink",
+        "price": "6x200.0 ml, $0.36/100ml",
+        "brand": "Frooti",
+        "image_url": "https://assets.shop.loblaws.ca/products/20009162/b3/en/front/20009162_front_a06_@2.png",
+        "image_alt": "Frooti Mango Drink      6x200.0 ml, $0.36/100ml",
+        "price_product_tile": "$4.29$4.29"
+    },
+    {
+        "id": 39,
+        "name": "Sport Electrolytes Berry Burst Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20662690/b3/en/front/20662690_front_a06_@2.png",
+        "image_alt": "MiO Sport Electrolytes Berry Burst Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 40,
+        "name": "Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20660972/b3/en/front/20660972_front_a06_@2.png",
+        "image_alt": "Crystal Light Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 41,
+        "name": "Powder Orange",
+        "price": "35 g, $22.83/100g",
+        "brand": "Gatorade",
+        "image_url": "https://assets.shop.loblaws.ca/products/21603312/b3/en/front/21603312_front_a06_@2.png",
+        "image_alt": "Gatorade Powder Orange 35 g, $22.83/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 42,
+        "name": "Pasteurized Instant Skim Milk Powder",
+        "price": "2.5 kg, $1.02/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20052038/b3/en/front/20052038_front_a06_@2.png",
+        "image_alt": "No Name Pasteurized Instant Skim Milk Powder 2.5 kg, $1.02/100g",
+        "price_product_tile": "$25.49$25.49"
+    },
+    {
+        "id": 43,
+        "name": "Zero Powder Fruit Punch",
+        "price": "35 g, $22.83/100g",
+        "brand": "Gatorade",
+        "image_url": "https://assets.shop.loblaws.ca/products/21603511/b3/en/front/21603511_front_a06_@2.png",
+        "image_alt": "Gatorade Zero Powder Fruit Punch 35 g, $22.83/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 44,
+        "name": "Zero Powder Grape",
+        "price": "30 g, $26.63/100g",
+        "brand": "Gatorade",
+        "image_url": "https://assets.shop.loblaws.ca/products/21603521/b3/en/front/21603521_front_a06_@2.png",
+        "image_alt": "Gatorade Zero Powder Grape 30 g, $26.63/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 45,
+        "name": "Cream Of Coconut Beverage Base",
+        "price": "425 g, $1.17/100g",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/21456471/b3/en/front/21456471_front_a06_@2.png",
+        "image_alt": "Grace Cream Of Coconut Beverage Base 425 g, $1.17/100g",
+        "price_product_tile": "$4.99$4.99$5.99$5.99SAVE $1.00"
+    },
+    {
+        "id": 46,
+        "name": "Chocolate Syrup",
+        "price": "2 l, $0.55/100ml",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20432372/b3/en/front/20432372_front_a06_@2.png",
+        "image_alt": "No Name Chocolate Syrup 2 l, $0.55/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 47,
+        "name": "Alphonso Mango Fruit Juice Nectar",
+        "price": "1 l, $0.43/100ml",
+        "brand": "Dabur",
+        "image_url": "https://assets.shop.loblaws.ca/products/21399828/b3/en/front/21399828_front_a06_@2.png",
+        "image_alt": "Dabur Alphonso Mango Fruit Juice Nectar 1 l, $0.43/100ml",
+        "price_product_tile": "$4.29$4.29"
+    },
+    {
+        "id": 48,
+        "name": "Singles, Lemon Lime",
+        "price": "36 g, $8.33/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20302952/b3/en/front/20302952_front_a06_@2.png",
+        "image_alt": "Crystal Light Singles, Lemon Lime 36 g, $8.33/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 49,
+        "name": "Nesquik Chocolate Syrup",
+        "price": "700 ml, $0.93/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20320167002/b3/en/front/20320167002_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Nesquik Chocolate Syrup 700 ml, $0.93/100ml",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 50,
+        "name": "Liquid Water Enhancer Grape",
+        "price": "48 ml, $7.27/100ml",
+        "brand": "Crush",
+        "image_url": "https://assets.shop.loblaws.ca/products/21237606/b3/en/front/21237606_front_a06_@2.png",
+        "image_alt": "Crush Liquid Water Enhancer Grape 48 ml, $7.27/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 51,
+        "name": "Guanabana Juice",
+        "price": "1 l, $0.25/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20304561002/b3/en/front/20304561002_front_a06_@2.png",
+        "image_alt": "Rubicon Guanabana Juice 1 l, $0.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 52,
+        "name": "Watermelon Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Kool-Aid",
+        "image_url": "https://assets.shop.loblaws.ca/products/20955645/b3/en/front/20955645_front_a06_@2.png",
+        "image_alt": "Kool-Aid Watermelon Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 53,
+        "name": "Pitcher Packs, Lemonade",
+        "price": "56.6 g, $5.30/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20324991/b3/en/front/20324991_front_a06_@2.png",
+        "image_alt": "Crystal Light Pitcher Packs, Lemonade 56.6 g, $5.30/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 54,
+        "name": "Nesquik Less Sugar Chocolate Syrup",
+        "price": "510 ml, $1.27/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20316320001/b3/en/front/20316320001_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Nesquik Less Sugar Chocolate Syrup 510 ml, $1.27/100ml",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 55,
+        "name": "+Vitamins Cherry Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/21081014/b3/en/front/21081014_front_a06_@2.png",
+        "image_alt": "MiO +Vitamins Cherry Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 56,
+        "name": "Berry Pomegranate Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20565119003/b3/en/front/20565119003_front_a06_@2.png",
+        "image_alt": "MiO Berry Pomegranate Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 57,
+        "name": "Fruit Punch Drink Mix",
+        "price": "26 g, $11.54/100g",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589291/b3/en/front/21589291_front_a06_@2.png",
+        "image_alt": "MiO Fruit Punch Drink Mix 26 g, $11.54/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 58,
+        "name": "Juice Blend No Sugar Added Lychee",
+        "price": "1 l, $0.35/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20990655002/b3/en/front/20990655002_front_a06_@2.png",
+        "image_alt": "Rubicon Juice Blend No Sugar Added Lychee  1 l, $0.35/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 59,
+        "name": "Fruit Punch Liquid Water Enhancer",
+        "price": "48 ml, $5.19/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21080969/b3/en/front/21080969_front_a06_@2.png",
+        "image_alt": "President's Choice Fruit Punch Liquid Water Enhancer 48 ml, $5.19/100ml",
+        "price_product_tile": "$2.49$2.49$2.69$2.69SAVE $0.20"
+    },
+    {
+        "id": 60,
+        "name": "Liquid Water Enhancer Orange",
+        "price": "48 ml, $7.27/100ml",
+        "brand": "Crush",
+        "image_url": "https://assets.shop.loblaws.ca/products/21237599/b3/en/front/21237599_front_a06_@2.png",
+        "image_alt": "Crush Liquid Water Enhancer Orange 48 ml, $7.27/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 61,
+        "name": "Tropical Punch Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Kool-Aid",
+        "image_url": "https://assets.shop.loblaws.ca/products/20749494003/b3/en/front/20749494003_front_a06_@2.png",
+        "image_alt": "Kool-Aid Tropical Punch Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 62,
+        "name": "Sport Lemon Lime Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20746192004/b3/en/front/20746192004_front_a06_@2.png",
+        "image_alt": "MiO Sport Lemon Lime Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 63,
+        "name": "Basil Seed Drink with Lychee Flavor",
+        "price": "290 ml, $0.51/100ml",
+        "brand": "Casablanca",
+        "image_url": "https://assets.shop.loblaws.ca/products/21193075/b3/en/front/21193075_front_a06_@2.png",
+        "image_alt": "Casablanca Basil Seed Drink with Lychee Flavor 290 ml, $0.51/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 64,
+        "name": "Sweetened Condensed Whitener",
+        "price": "297 ml, $0.67/100ml",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20877966/b3/en/front/20877966_front_a06_@2.png",
+        "image_alt": "Grace Sweetened Condensed Whitener 297 ml, $0.67/100ml",
+        "price_product_tile": "$1.99$1.99$2.29$2.29SAVE $0.30"
+    },
+    {
+        "id": 65,
+        "name": "Zero Powder Glacier Freeze",
+        "price": "30 g, $26.63/100g",
+        "brand": "Gatorade",
+        "image_url": "https://assets.shop.loblaws.ca/products/21603385/b3/en/front/21603385_front_a06_@2.png",
+        "image_alt": "Gatorade Zero Powder Glacier Freeze 30 g, $26.63/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 66,
+        "name": "Mango Nectar",
+        "price": "1 l, $0.43/100ml",
+        "brand": "Dabur",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398237/b3/en/front/21398237_front_a06_@2.png",
+        "image_alt": "Dabur Mango Nectar 1 l, $0.43/100ml",
+        "price_product_tile": "$4.29$4.29"
+    },
+    {
+        "id": 67,
+        "name": "Plant Based Evaporated Coconut Milk",
+        "price": "400 ml, $0.82/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21386703/b3/en/front/21386703_front_a06_@2.png",
+        "image_alt": "President's Choice Plant Based Evaporated Coconut Milk 400 ml, $0.82/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 68,
+        "name": "Coconut Milk, Powdered",
+        "price": "50 g, $2.00/100g",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20844097/b3/en/front/20844097_front_a06_@2.png",
+        "image_alt": "Grace Coconut Milk, Powdered 50 g, $2.00/100g",
+        "price_product_tile": "$1.00$1.00"
+    },
+    {
+        "id": 69,
+        "name": "Liquid Beverage Enhancer Pina Colada",
+        "price": "48 ml, $9.35/100ml",
+        "brand": "iiCiNG",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361739/b3/en/front/21361739_front_a06_@2.png",
+        "image_alt": "iiCiNG Liquid Beverage Enhancer Pina Colada 48 ml, $9.35/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 70,
+        "name": "Brand Low Fat Sweetened Condensed Milk",
+        "price": "300 ml, $1.33/100ml",
+        "brand": "Eagle Brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/21012967/b3/en/front/21012967_front_a06_@2.png",
+        "image_alt": "Eagle Brand Brand Low Fat Sweetened Condensed Milk 300 ml, $1.33/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 71,
+        "name": "Fat Free Evaporated Skim Milk",
+        "price": "354 ml, $0.70/100ml",
+        "brand": "Carnation",
+        "image_url": "https://assets.shop.loblaws.ca/products/20896741/b3/en/front/20896741_front_a06_@2.png",
+        "image_alt": "Carnation Fat Free Evaporated Skim Milk 354 ml, $0.70/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 72,
+        "name": "Pure Creamed Coconut",
+        "price": "141 g, $0.91/100g",
+        "brand": "Grace",
+        "image_url": "https://assets.shop.loblaws.ca/products/20822128/b3/en/front/20822128_front_a06_@2.png",
+        "image_alt": "Grace Pure Creamed Coconut 141 g, $0.91/100g",
+        "price_product_tile": "$1.29$1.29$1.49$1.49SAVE $0.20"
+    },
+    {
+        "id": 73,
+        "name": "Kreamsicle Liquid Beverage Enhancer",
+        "price": "48 ml, $9.35/100ml",
+        "brand": "iiCiNG",
+        "image_url": "https://assets.shop.loblaws.ca/products/21439355/b3/en/front/21439355_front_a06_@2.png",
+        "image_alt": "iiCiNG Kreamsicle Liquid Beverage Enhancer 48 ml, $9.35/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 74,
+        "name": "Fat Free Instant Skim Milk Powder",
+        "price": "500 g, $2.00/100g",
+        "brand": "Carnation",
+        "image_url": "https://assets.shop.loblaws.ca/products/20009555/b3/en/front/20009555_front_a06_@2.png",
+        "image_alt": "Carnation Fat Free Instant Skim Milk Powder 500 g, $2.00/100g",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 75,
+        "name": "Thickened Creamy Product",
+        "price": "160 g, $1.56/100g",
+        "brand": "Puck",
+        "image_url": "https://assets.shop.loblaws.ca/products/21449248/b3/en/front/21449248_front_a06_@2.png",
+        "image_alt": "Puck Thickened Creamy Product 160 g, $1.56/100g",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 76,
+        "name": "Coconut Juice",
+        "price": "520 ml, $0.34/100ml",
+        "brand": "Foco",
+        "image_url": "https://assets.shop.loblaws.ca/products/20180415/b3/en/front/20180415_front_a06_@2.png",
+        "image_alt": "Foco Coconut Juice 520 ml, $0.34/100ml",
+        "price_product_tile": "$1.79$1.79"
+    },
+    {
+        "id": 77,
+        "name": "Energy Wild Strawberry Energy Drink Mix",
+        "price": "31 g, $9.68/100g",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588001/b3/en/front/21588001_front_a06_@2.png",
+        "image_alt": "MiO Energy Wild Strawberry Energy Drink Mix 31 g, $9.68/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 78,
+        "name": "Nesquik Chocolate Powder",
+        "price": "540 g, $1.39/100g",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20139236002/b3/en/front/20139236002_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Nesquik Chocolate Powder 540 g, $1.39/100g",
+        "price_product_tile": "$7.49$7.49"
+    },
+    {
+        "id": 79,
+        "name": "Fruit Punch Flavoured Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20565119001/b3/en/front/20565119001_front_a06_@2.png",
+        "image_alt": "MiO Fruit Punch Flavoured Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 80,
+        "name": "Peach Mango Liquid Water Enhancer",
+        "price": "48 ml, $5.19/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20734123001/b3/en/front/20734123001_front_a06_@2.png",
+        "image_alt": "President's Choice Peach Mango Liquid Water Enhancer 48 ml, $5.19/100ml",
+        "price_product_tile": "$2.49$2.49$2.69$2.69SAVE $0.20"
+    },
+    {
+        "id": 81,
+        "name": "Singles, Raspberry Ice",
+        "price": "24 g, $12.50/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20304756/b3/en/front/20304756_front_a06_@2.png",
+        "image_alt": "Crystal Light Singles, Raspberry Ice 24 g, $12.50/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 82,
+        "name": "Orange Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Kool-Aid",
+        "image_url": "https://assets.shop.loblaws.ca/products/20749494004/b3/en/front/20749494004_front_a06_@2.png",
+        "image_alt": "Kool-Aid Orange Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 83,
+        "name": "+Vitamins Blackberry Raspberry Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/21081063/b3/en/front/21081063_front_a06_@2.png",
+        "image_alt": "MiO +Vitamins Blackberry Raspberry Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 84,
+        "name": "Sweetened Creamer",
+        "price": "374 ml, $0.93/100ml",
+        "brand": "T&T",
+        "image_url": "https://assets.shop.loblaws.ca/products/21448178/b3/en/front/21448178_front_a06_@2.png",
+        "image_alt": "T&T Sweetened Creamer 374 ml, $0.93/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 85,
+        "name": "Coconut Milk",
+        "price": "400 ml, $0.37/100ml",
+        "brand": "Cool Runnings",
+        "image_url": "https://assets.shop.loblaws.ca/products/20652757/b3/en/front/20652757_front_a06_@2.png",
+        "image_alt": "Cool Runnings Coconut Milk 400 ml, $0.37/100ml",
+        "price_product_tile": "$1.49$1.49$1.69$1.69SAVE $0.20"
+    },
+    {
+        "id": 86,
+        "name": "Light Coconut Milk",
+        "price": "398 ml, $0.38/100ml",
+        "brand": "Rooster",
+        "image_url": "https://assets.shop.loblaws.ca/products/21378715/b3/en/front/21378715_front_a06_@2.png",
+        "image_alt": "Rooster Light Coconut Milk 398 ml, $0.38/100ml",
+        "price_product_tile": "$1.50$1.50"
+    },
+    {
+        "id": 87,
+        "name": "Liquid Drink Mix, Blackberry Lemonbabe",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20746034001/b3/en/front/20746034001_front_a06_@2.png",
+        "image_alt": "Crystal Light Liquid Drink Mix, Blackberry Lemonbabe 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 88,
+        "name": "Liquid Drink Mix, Blueberry Razz",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20660835/b3/en/front/20660835_front_a06_@2.png",
+        "image_alt": "Crystal Light Liquid Drink Mix, Blueberry Razz 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 89,
+        "name": "Nesquik Strawberry Syrup",
+        "price": "510 ml, $1.27/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20320167004/b3/en/front/20320167004_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Nesquik Strawberry Syrup 510 ml, $1.27/100ml",
+        "price_product_tile": "$6.49$6.49"
+    },
+    {
+        "id": 90,
+        "name": "Cherry Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Kool-Aid",
+        "image_url": "https://assets.shop.loblaws.ca/products/20749494002/b3/en/front/20749494002_front_a06_@2.png",
+        "image_alt": "Kool-Aid Cherry Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 91,
+        "name": "Pomegranate Juice",
+        "price": "1 l, $0.25/100ml",
+        "brand": "Rubicon",
+        "image_url": "https://assets.shop.loblaws.ca/products/20029236002/b3/en/front/20029236002_front_a06_@2.png",
+        "image_alt": "Rubicon Pomegranate Juice 1 l, $0.25/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 92,
+        "name": "Flavoured Beverage Syrup Pineapple",
+        "price": "750 ml, $0.63/100ml",
+        "brand": "Cool Runnings",
+        "image_url": "https://assets.shop.loblaws.ca/products/21418144/b3/en/front/21418144_front_a06_@2.png",
+        "image_alt": "Cool Runnings Flavoured Beverage Syrup Pineapple 750 ml, $0.63/100ml",
+        "price_product_tile": "$4.69$4.69"
+    },
+    {
+        "id": 93,
+        "name": "Flavoured Beverage Syrup Kola Champagne",
+        "price": "750 ml, $0.63/100ml",
+        "brand": "Cool Runnings",
+        "image_url": "https://assets.shop.loblaws.ca/products/21418149/b3/en/front/21418149_front_a06_@2.png",
+        "image_alt": "Cool Runnings Flavoured Beverage Syrup Kola Champagne 750 ml, $0.63/100ml",
+        "price_product_tile": "$4.69$4.69"
+    },
+    {
+        "id": 94,
+        "name": "Powder Fruit Punch",
+        "price": "35 g, $22.83/100g",
+        "brand": "Gatorade",
+        "image_url": "https://assets.shop.loblaws.ca/products/21587473/b3/en/front/21587473_front_a06_@2.png",
+        "image_alt": "Gatorade Powder Fruit Punch 35 g, $22.83/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 95,
+        "name": "Nesquik Chocolate Syrup",
+        "price": "1.4 l, $0.93/100ml",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20998906/b3/en/front/20998906_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Nesquik Chocolate Syrup 1.4 l, $0.93/100ml",
+        "price_product_tile": "$12.99$12.99"
+    },
+    {
+        "id": 96,
+        "name": "Guava Fruit Nectar",
+        "price": "1 l, $0.43/100ml",
+        "brand": "Dabur",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398511/b3/en/front/21398511_front_a06_@2.png",
+        "image_alt": "Dabur Guava Fruit Nectar 1 l, $0.43/100ml",
+        "price_product_tile": "$4.29$4.29"
+    },
+    {
+        "id": 97,
+        "name": "Zero Powder Orange",
+        "price": "35 g, $22.83/100g",
+        "brand": "Gatorade",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589069/b3/en/front/21589069_front_a06_@2.png",
+        "image_alt": "Gatorade Zero Powder Orange 35 g, $22.83/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 98,
+        "name": "Lemonade Drink Mix",
+        "price": "2 kg, $0.71/100g",
+        "brand": "Country Time",
+        "image_url": "https://assets.shop.loblaws.ca/products/20040522/b3/en/front/20040522_front_a06_@2.png",
+        "image_alt": "Country Time Lemonade Drink Mix 2 kg, $0.71/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 99,
+        "name": "Juice, Green Mango",
+        "price": "1 l, $0.43/100ml",
+        "brand": "Dabur",
+        "image_url": "https://assets.shop.loblaws.ca/products/21399816/b3/en/front/21399816_front_a06_@2.png",
+        "image_alt": "Dabur Juice, Green Mango 1 l, $0.43/100ml",
+        "price_product_tile": "$4.29$4.29"
+    },
+    {
+        "id": 100,
+        "name": "Liquid Beverage Enhancer Root Beer",
+        "price": "48 ml, $9.35/100ml",
+        "brand": "iiCiNG",
+        "image_url": "https://assets.shop.loblaws.ca/products/21361749/b3/en/front/21361749_front_a06_@2.png",
+        "image_alt": "iiCiNG Liquid Beverage Enhancer Root Beer 48 ml, $9.35/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 101,
+        "name": "Milo, Chocolate Flavoured Drink Mix",
+        "price": "400 g, $1.25/100g",
+        "brand": "Nestl\u00e9",
+        "image_url": "https://assets.shop.loblaws.ca/products/20103042/b3/en/front/20103042_front_a06_@2.png",
+        "image_alt": "Nestl\u00e9 Milo, Chocolate Flavoured Drink Mix 400 g, $1.25/100g",
+        "price_product_tile": "$4.99$4.99$5.49$5.49SAVE $0.50"
+    },
+    {
+        "id": 102,
+        "name": "Pasteurized Instant Skim Milk Powder",
+        "price": "500 g, $1.60/100g",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20119655/b3/en/front/20119655_front_a06_@2.png",
+        "image_alt": "No Name Pasteurized Instant Skim Milk Powder 500 g, $1.60/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 103,
+        "name": "Orange Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Tang",
+        "image_url": "https://assets.shop.loblaws.ca/products/20955642/b3/en/front/20955642_front_a06_@2.png",
+        "image_alt": "Tang Orange Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 104,
+        "name": "Liquid Drink Mix, Aloha Pineapple Coconut",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20746034003/b3/en/front/20746034003_front_a06_@2.png",
+        "image_alt": "Crystal Light Liquid Drink Mix, Aloha Pineapple Coconut 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 105,
+        "name": "Pink Lemonade Liquid Water Enhancer",
+        "price": "48 ml, $5.19/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20734123002/b3/en/front/20734123002_front_a06_@2.png",
+        "image_alt": "President's Choice Pink Lemonade Liquid Water Enhancer 48 ml, $5.19/100ml",
+        "price_product_tile": "$2.49$2.49$2.69$2.69SAVE $0.20"
+    },
+    {
+        "id": 106,
+        "name": "Singles, Raspberry Peach",
+        "price": "54 g, $5.56/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20308459001/b3/en/front/20308459001_front_a06_@2.png",
+        "image_alt": "Crystal Light Singles, Raspberry Peach 54 g, $5.56/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 107,
+        "name": "Cranberry Raspberry Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20746192001/b3/en/front/20746192001_front_a06_@2.png",
+        "image_alt": "MiO Cranberry Raspberry Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 108,
+        "name": "Lemonade Liquid Water Enhancer",
+        "price": "48 ml, $5.19/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21080964/b3/en/front/21080964_front_a06_@2.png",
+        "image_alt": "President's Choice Lemonade Liquid Water Enhancer 48 ml, $5.19/100ml",
+        "price_product_tile": "$2.49$2.49$2.69$2.69SAVE $0.20"
+    },
+    {
+        "id": 109,
+        "name": "Chocolate Syrup",
+        "price": "700 ml, $0.57/100ml",
+        "brand": "No Name",
+        "image_url": "https://assets.shop.loblaws.ca/products/20430788/b3/en/front/20430788_front_a06_@2.png",
+        "image_alt": "No Name Chocolate Syrup 700 ml, $0.57/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 110,
+        "name": "Mandarin Orange Liquid Water Enhancer",
+        "price": "92 ml, $5.97/100ml",
+        "brand": "Splenda",
+        "image_url": "https://assets.shop.loblaws.ca/products/21520609/b3/en/front/21520609_front_a06_@2.png",
+        "image_alt": "Splenda Mandarin Orange Liquid Water Enhancer 92 ml, $5.97/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 111,
+        "name": "Lychee",
+        "price": "180 ml, $0.83/100ml",
+        "brand": "Paper Boat",
+        "image_url": "https://assets.shop.loblaws.ca/products/21455113/b3/en/front/21455113_front_a06_@2.png",
+        "image_alt": "Paper Boat Lychee 180 ml, $0.83/100ml",
+        "price_product_tile": "$1.49$1.49"
+    },
+    {
+        "id": 112,
+        "name": "2% Evaporated Partly Skimmed Milk",
+        "price": "354 ml, $0.70/100ml",
+        "brand": "Carnation",
+        "image_url": "https://assets.shop.loblaws.ca/products/20896812/b3/en/front/20896812_front_a06_@2.png",
+        "image_alt": "Carnation 2% Evaporated Partly Skimmed Milk 354 ml, $0.70/100ml",
+        "price_product_tile": "$2.49$2.49"
+    },
+    {
+        "id": 113,
+        "name": "Brand Dulce De Leche Sweetened Condensed Milk",
+        "price": "300 ml, $1.33/100ml",
+        "brand": "Eagle Brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/21012627/b3/en/front/21012627_front_a06_@2.png",
+        "image_alt": "Eagle Brand Brand Dulce De Leche Sweetened Condensed Milk 300 ml, $1.33/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 114,
+        "name": "Plant Based Sweetened Condensed Coconut Milk",
+        "price": "250 ml, $1.20/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21386697/b3/en/front/21386697_front_a06_@2.png",
+        "image_alt": "President's Choice Plant Based Sweetened Condensed Coconut Milk 250 ml, $1.20/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 115,
+        "name": "Liquid Water Enhancer Drops, Strawberry Watermelon Flavor, Sugar Free Concentrated Drink Mix",
+        "price": "92 ml, $5.97/100ml",
+        "brand": "Splenda",
+        "image_url": "https://assets.shop.loblaws.ca/products/21521713/b3/en/front/21521713_front_a06_@2.png",
+        "image_alt": "Splenda Liquid Water Enhancer Drops, Strawberry Watermelon Flavor, Sugar Free Concentrated Drink Mix 92 ml, $5.97/100ml",
+        "price_product_tile": "$5.49$5.49"
+    },
+    {
+        "id": 116,
+        "name": "Orange Drink Mix",
+        "price": "2 kg, $0.55/100g",
+        "brand": "Tang's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20171118/b3/en/front/20171118_front_a06_@2.png",
+        "image_alt": "Tang's Orange Drink Mix 2 kg, $0.55/100g",
+        "price_product_tile": "$11.99$11.99"
+    },
+    {
+        "id": 117,
+        "name": "Refresh 100% Coconut Water",
+        "price": "500 ml, $0.46/100ml",
+        "brand": "UFC",
+        "image_url": "https://assets.shop.loblaws.ca/products/20881151/b3/en/front/20881151_front_a06_@2.png",
+        "image_alt": "UFC Refresh 100% Coconut Water 500 ml, $0.46/100ml",
+        "price_product_tile": "$2.29$2.29"
+    },
+    {
+        "id": 118,
+        "name": "Lemonade Liquid Water Enhancer, Club Size",
+        "price": "92 ml, $5.42/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21507667/b3/en/front/21507667_front_a06_@2.png",
+        "image_alt": "President's Choice Lemonade Liquid Water Enhancer, Club Size 92 ml, $5.42/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 119,
+        "name": "Watermelon Strawberry Liquid Water Enhancer",
+        "price": "48 ml, $5.19/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21080963/b3/en/front/21080963_front_a06_@2.png",
+        "image_alt": "President's Choice Watermelon Strawberry Liquid Water Enhancer 48 ml, $5.19/100ml",
+        "price_product_tile": "$2.49$2.49$2.69$2.69SAVE $0.20"
+    },
+    {
+        "id": 120,
+        "name": "Lemonade Drink Mix",
+        "price": "40 g, $7.50/100g",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/21589332/b3/en/front/21589332_front_a06_@2.png",
+        "image_alt": "MiO Lemonade Drink Mix 40 g, $7.50/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 121,
+        "name": "Sport Orange Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20746192003/b3/en/front/20746192003_front_a06_@2.png",
+        "image_alt": "MiO Sport Orange Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 122,
+        "name": "Cream",
+        "price": "170 ml, $1.76/100ml",
+        "brand": "Nordex Food",
+        "image_url": "https://assets.shop.loblaws.ca/products/20127025/b3/en/front/20127025_front_a06_@2.png",
+        "image_alt": "Nordex Food Cream 170 ml, $1.76/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 123,
+        "name": "Singles, Iced Tea",
+        "price": "26 g, $11.54/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20301288/b3/en/front/20301288_front_a06_@2.png",
+        "image_alt": "Crystal Light Singles, Iced Tea 26 g, $11.54/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 124,
+        "name": "Fruit Beverage Syrup Strawberry",
+        "price": "750 ml, $0.63/100ml",
+        "brand": "Cool Runnings",
+        "image_url": "https://assets.shop.loblaws.ca/products/21418143/b3/en/front/21418143_front_a06_@2.png",
+        "image_alt": "Cool Runnings Fruit Beverage Syrup Strawberry 750 ml, $0.63/100ml",
+        "price_product_tile": "$4.69$4.69"
+    },
+    {
+        "id": 125,
+        "name": "Sweetener Whitener",
+        "price": "300 ml, $0.66/100ml",
+        "brand": "No brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/20802173/b3/en/front/20802173_front_a06_@2.png",
+        "image_alt": "null Sweetener Whitener 300 ml, $0.66/100ml",
+        "price_product_tile": "$1.99$1.99$2.29$2.29SAVE $0.30"
+    },
+    {
+        "id": 126,
+        "name": "Concentrated Blackcurrant Beverage Original",
+        "price": "850 ml, $1.18/100ml",
+        "brand": "Ribena",
+        "image_url": "https://assets.shop.loblaws.ca/products/21101494/b3/en/front/21101494_front_a06_@2.png",
+        "image_alt": "Ribena Concentrated Blackcurrant Beverage Original 850 ml, $1.18/100ml",
+        "price_product_tile": "$9.99$9.99"
+    },
+    {
+        "id": 127,
+        "name": "Cherry Drink Mix",
+        "price": "2 kg, $0.70/100g",
+        "brand": "Kool-Aid",
+        "image_url": "https://assets.shop.loblaws.ca/products/20160851/b3/en/front/20160851_front_a06_@2.png",
+        "image_alt": "Kool-Aid Cherry Drink Mix 2 kg, $0.70/100g",
+        "price_product_tile": "$15.99$15.99"
+    },
+    {
+        "id": 128,
+        "name": "Fruit Punch Liquid Water Enhancer, Club Size",
+        "price": "92 ml, $5.42/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21507679/b3/en/front/21507679_front_a06_@2.png",
+        "image_alt": "President's Choice Fruit Punch Liquid Water Enhancer, Club Size 92 ml, $5.42/100ml",
+        "price_product_tile": "$4.99$4.99"
+    },
+    {
+        "id": 129,
+        "name": "Grape Liquid Drink Mix",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Kraft",
+        "image_url": "https://assets.shop.loblaws.ca/products/21021895/b3/en/front/21021895_front_a06_@2.png",
+        "image_alt": "Kraft Grape Liquid Drink Mix 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 130,
+        "name": "Orange Drink Mix",
+        "price": "276 g, $1.08/100g",
+        "brand": "Tang's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20028785/b3/en/front/20028785_front_a06_@2.png",
+        "image_alt": "Tang's Orange Drink Mix 276 g, $1.08/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 131,
+        "name": "Liquid Drink Mix, Pomegranate",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20746034004/b3/en/front/20746034004_front_a06_@2.png",
+        "image_alt": "Crystal Light Liquid Drink Mix, Pomegranate 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 132,
+        "name": "Tangerine Grapefruit Liquid Water Enhancer",
+        "price": "48 ml, $5.19/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20734123003/b3/en/front/20734123003_front_a06_@2.png",
+        "image_alt": "President's Choice Tangerine Grapefruit Liquid Water Enhancer 48 ml, $5.19/100ml",
+        "price_product_tile": "$2.49$2.49$2.69$2.69SAVE $0.20"
+    },
+    {
+        "id": 133,
+        "name": "Energy Grape Energy Drink Mix",
+        "price": "33 g, $9.09/100g",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588970/b3/en/front/21588970_front_a06_@2.png",
+        "image_alt": "MiO Energy Grape Energy Drink Mix 33 g, $9.09/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 134,
+        "name": "Singles, Strawberry Orange Banana",
+        "price": "27 g, $11.11/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20308459002/b3/en/front/20308459002_front_a06_@2.png",
+        "image_alt": "Crystal Light Singles, Strawberry Orange Banana 27 g, $11.11/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 135,
+        "name": "Singles, Tangerine Grapefruit",
+        "price": "40 g, $7.50/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20323938/b3/en/front/20323938_front_a06_@2.png",
+        "image_alt": "Crystal Light Singles, Tangerine Grapefruit 40 g, $7.50/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 136,
+        "name": "Cherry Blackberry Liquid Water Enhancer",
+        "price": "48 ml, $6.25/100ml",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/20565119005/b3/en/front/20565119005_front_a06_@2.png",
+        "image_alt": "MiO Cherry Blackberry Liquid Water Enhancer 48 ml, $6.25/100ml",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 137,
+        "name": "Energy Peach Mango Energy Drink Mix",
+        "price": "22 g, $13.64/100g",
+        "brand": "MiO",
+        "image_url": "https://assets.shop.loblaws.ca/products/21588366/b3/en/front/21588366_front_a06_@2.png",
+        "image_alt": "MiO Energy Peach Mango Energy Drink Mix 22 g, $13.64/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 138,
+        "name": "Singles, Pink Lemonade",
+        "price": "45 g, $6.67/100g",
+        "brand": "Crystal Light",
+        "image_url": "https://assets.shop.loblaws.ca/products/20301645/b3/en/front/20301645_front_a06_@2.png",
+        "image_alt": "Crystal Light Singles, Pink Lemonade 45 g, $6.67/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 139,
+        "name": "Berry Pomegranate Liquid Water Enhancer",
+        "price": "48 ml, $5.19/100ml",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21080966/b3/en/front/21080966_front_a06_@2.png",
+        "image_alt": "President's Choice Berry Pomegranate Liquid Water Enhancer 48 ml, $5.19/100ml",
+        "price_product_tile": "$2.49$2.49$2.69$2.69SAVE $0.20"
+    }
+]

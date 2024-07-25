@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "name": "Zero Sugar Soda, Creamy Root Beer",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21407494/b3/en/front/21407494_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Creamy Root Beer 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 2,
+        "name": "Soda Strawberry Lemon",
+        "price": "355 ml, $0.93/100ml",
+        "brand": "Poppi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21564543/b3/en/front/21564543_front_a06_@2.png",
+        "image_alt": "Poppi Soda Strawberry Lemon 355 ml, $0.93/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 3,
+        "name": "Kombucha, Raspberry Lemonade",
+        "price": "4x330.0 ml, $0.53/100ml",
+        "brand": "Remedy",
+        "image_url": "https://assets.shop.loblaws.ca/products/21425921/b3/en/front/21425921_front_a06_@2.png",
+        "image_alt": "Remedy Kombucha, Raspberry Lemonade 4x330.0 ml, $0.53/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 4,
+        "name": "Kombucha, Wild Berry",
+        "price": "4x330.0 ml, $0.53/100ml",
+        "brand": "Remedy",
+        "image_url": "https://assets.shop.loblaws.ca/products/21428760/b3/en/front/21428760_front_a06_@2.png",
+        "image_alt": "Remedy Kombucha, Wild Berry 4x330.0 ml, $0.53/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 5,
+        "name": "Soda Doc Pop",
+        "price": "355 ml, $0.93/100ml",
+        "brand": "Poppi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21564652/b3/en/front/21564652_front_a06_@2.png",
+        "image_alt": "Poppi Soda Doc Pop 355 ml, $0.93/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 6,
+        "name": "100% Pure Coconut Water",
+        "price": "1 l, $0.53/100ml",
+        "brand": "Vita Coco",
+        "image_url": "https://assets.shop.loblaws.ca/products/20332922/b3/en/front/20332922_front_a06_@2.png",
+        "image_alt": "Vita Coco 100% Pure Coconut Water 1 l, $0.53/100ml",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 7,
+        "name": "Ginger Lemon Kombucha",
+        "price": "4x330.0 ml, $0.53/100ml",
+        "brand": "Remedy",
+        "image_url": "https://assets.shop.loblaws.ca/products/21425885/b3/en/front/21425885_front_a06_@2.png",
+        "image_alt": "Remedy Ginger Lemon Kombucha 4x330.0 ml, $0.53/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 8,
+        "name": "All Natural Coconut Water",
+        "price": "1 l, $0.58/100ml",
+        "brand": "Thirsty Buddha",
+        "image_url": "https://assets.shop.loblaws.ca/products/20689784/b3/en/front/20689784_front_a06_@2.png",
+        "image_alt": "Thirsty Buddha All Natural Coconut Water 1 l, $0.58/100ml",
+        "price_product_tile": "$5.79$5.79"
+    },
+    {
+        "id": 9,
+        "name": "Soda Orange",
+        "price": "355 ml, $0.93/100ml",
+        "brand": "Poppi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21564497/b3/en/front/21564497_front_a06_@2.png",
+        "image_alt": "Poppi Soda Orange 355 ml, $0.93/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 10,
+        "name": "Soda Classic Cola",
+        "price": "355 ml, $0.93/100ml",
+        "brand": "Poppi",
+        "image_url": "https://assets.shop.loblaws.ca/products/21564498/b3/en/front/21564498_front_a06_@2.png",
+        "image_alt": "Poppi Soda Classic Cola 355 ml, $0.93/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 11,
+        "name": "Zero Sugar Soda, Ginger Ale",
+        "price": "6x335.0 ml, $0.31/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21106231/b3/en/front/21106231_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Ginger Ale 6x335.0 ml, $0.31/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 12,
+        "name": "Zero Sugar Soda, Cola",
+        "price": "6x335.0 ml, $0.31/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21106233/b3/en/front/21106233_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Cola 6x335.0 ml, $0.31/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 13,
+        "name": "Cranberry Raspberry",
+        "price": "8x355.0 ml, $0.22/100ml",
+        "brand": "Lacroix Beverage",
+        "image_url": "https://assets.shop.loblaws.ca/products/21300994/b3/en/front/21300994_front_a06_@2.png",
+        "image_alt": "Lacroix Beverage Cranberry Raspberry      8x355.0 ml, $0.22/100ml",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 14,
+        "name": "Zero Sugar Soda, Ginger Root Beer",
+        "price": "6x335.0 ml, $0.31/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21106232/b3/en/front/21106232_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Ginger Root Beer 6x335.0 ml, $0.31/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 15,
+        "name": "Zero Sugar Soda, Cream Soda",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21105196/b3/en/front/21105196_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Cream Soda 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 16,
+        "name": "Fortified Oat Beverage Original",
+        "price": "946 ml, $0.32/100ml",
+        "brand": "Silk",
+        "image_url": "https://assets.shop.loblaws.ca/products/21435998/b3/en/front/21435998_front_a06_@2.png",
+        "image_alt": "Silk Fortified Oat Beverage Original 946 ml, $0.32/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 17,
+        "name": "Zero Sugar Soda, Vanilla Cola",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21544078/b3/en/front/21544078_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Vanilla Cola 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 18,
+        "name": "Peach Pear Sparkling Water",
+        "price": "8x355.0 ml, $0.22/100ml",
+        "brand": "Lacroix Beverage",
+        "image_url": "https://assets.shop.loblaws.ca/products/20951154/b3/en/front/20951154_front_a06_@2.png",
+        "image_alt": "Lacroix Beverage Peach Pear Sparkling Water 8x355.0 ml, $0.22/100ml",
+        "price_product_tile": "$6.29$6.29"
+    },
+    {
+        "id": 19,
+        "name": "Kombucha Gingerade",
+        "price": "480 ml, $0.94/100ml",
+        "brand": "GT's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20374106/b3/en/front/20374106_front_a06_@2.png",
+        "image_alt": "GT's Kombucha Gingerade 480 ml, $0.94/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 20,
+        "name": "Organic 100% Coconut Water",
+        "price": "1 l, $0.50/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21092373/b3/en/front/21092373_front_a06_@2.png",
+        "image_alt": "PC Organics Organic 100% Coconut Water 1 l, $0.50/100ml",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 21,
+        "name": "Raspberry Hibiscus Kombucha",
+        "price": "473 ml, $0.84/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21182850/b3/en/front/21182850_front_a06_@2.png",
+        "image_alt": "PC Organics Raspberry Hibiscus Kombucha 473 ml, $0.84/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 22,
+        "name": "Ginger Beer",
+        "price": "4x330.0 ml, $0.53/100ml",
+        "brand": "Remedy",
+        "image_url": "https://assets.shop.loblaws.ca/products/21436627/b3/en/front/21436627_front_a06_@2.png",
+        "image_alt": "Remedy Ginger Beer 4x330.0 ml, $0.53/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 23,
+        "name": "GTs Classic Synergy Organic & Raw, Divine Grape",
+        "price": "480 ml, $0.94/100ml",
+        "brand": "GT's",
+        "image_url": "https://assets.shop.loblaws.ca/products/20906034003/b3/en/front/20906034003_front_a06_@2.png",
+        "image_alt": "GT's GTs Classic Synergy Organic & Raw, Divine Grape 480 ml, $0.94/100ml",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 24,
+        "name": "Organic 100% Pure Apple Juice Boxes",
+        "price": "4x200.0 ml, $0.41/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20333714001/b3/en/front/20333714001_front_a06_@2.png",
+        "image_alt": "Kiju Organic 100% Pure Apple Juice Boxes 4x200.0 ml, $0.41/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 25,
+        "name": "Whole Bean Coffee Metta Espresso Medium Dark Roast",
+        "price": "400 g, $3.87/100g",
+        "brand": "Salt Spring",
+        "image_url": "https://assets.shop.loblaws.ca/products/20313949005/b3/en/front/20313949005_front_a06_@2.png",
+        "image_alt": "Salt Spring Whole Bean Coffee Metta Espresso Medium Dark Roast 400 g, $3.87/100g",
+        "price_product_tile": "$15.49$15.49"
+    },
+    {
+        "id": 26,
+        "name": "Dark Roast Whole Bean Coffee",
+        "price": "907 g, $2.20/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21405562/b3/en/front/21405562_front_a06_@2.png",
+        "image_alt": "PC Organics Dark Roast Whole Bean Coffee   907 g, $2.20/100g",
+        "price_product_tile": "$19.99$19.99"
+    },
+    {
+        "id": 27,
+        "name": "Organic Watermelon Lemonade",
+        "price": "946 ml, $0.41/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21022888/b3/en/front/21022888_front_a06_@2.png",
+        "image_alt": "PC Organics Organic Watermelon Lemonade 946 ml, $0.41/100ml",
+        "price_product_tile": "$3.89$3.89"
+    },
+    {
+        "id": 28,
+        "name": "Ginger Turmeric Herbal Tea",
+        "price": "1 ea, $4.49/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21411145/b3/en/front/21411145_front_a06_@2.png",
+        "image_alt": "PC Organics Ginger Turmeric Herbal Tea 1 ea, $4.49/1ea",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 29,
+        "name": "Chamomile Herbal Tea",
+        "price": "1 ea, $4.49/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21410942/b3/en/front/21410942_front_a06_@2.png",
+        "image_alt": "PC Organics Chamomile Herbal Tea 1 ea, $4.49/1ea",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 30,
+        "name": "Chai",
+        "price": "40 g, $11.23/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21411111/b3/en/front/21411111_front_a06_@2.png",
+        "image_alt": "PC Organics Chai 40 g, $11.23/100g",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 31,
+        "name": "Pure Cranberry 100% Juice",
+        "price": "946 ml, $1.16/100ml",
+        "brand": "Lakewood",
+        "image_url": "https://assets.shop.loblaws.ca/products/21178156/b3/en/front/21178156_front_a06_@2.png",
+        "image_alt": "Lakewood Pure Cranberry 100% Juice 946 ml, $1.16/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 32,
+        "name": "Organics Dark Roast Single Serve Coffee Pods",
+        "price": "12 ea, $0.75/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21029930/b3/en/front/21029930_front_a06_@2.png",
+        "image_alt": "PC Organics Organics Dark Roast Single Serve Coffee Pods 12 ea, $0.75/1ea",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 33,
+        "name": "Organic Pomegranate Cherry Fruit Juice Blend",
+        "price": "1 l, $0.33/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20312710005/b3/en/front/20312710005_front_a06_@2.png",
+        "image_alt": "Kiju Organic Pomegranate Cherry Fruit Juice Blend 1 l, $0.33/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 34,
+        "name": "Organic Fairtrade Dark Roast Whole Bean Coffee, Grizzly Claw",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322468008/b3/en/front/20322468008_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Whole Bean Coffee, Grizzly Claw 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 35,
+        "name": "Raspberry Leaf Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397454/b3/en/front/21397454_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Raspberry Leaf Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 36,
+        "name": "Organic Fairtrade Light Roast Whole Bean Coffee, Hola",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20982002/b3/en/front/20982002_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Light Roast Whole Bean Coffee, Hola 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 37,
+        "name": "Zero Sugar Soda, Grape",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21105195/b3/en/front/21105195_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Grape 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 38,
+        "name": "Chamomile Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398618/b3/en/front/21398618_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Chamomile Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 39,
+        "name": "Spring Water (Case)",
+        "price": "6x500.0 ml, $0.27/100ml",
+        "brand": "Flow Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/21033026/b3/en/front/21033026_front_a06_@2.png",
+        "image_alt": "Flow Water Spring Water (Case) 6x500.0 ml, $0.27/100ml",
+        "price_product_tile": "$7.99$7.99$8.99$8.99SAVE $1.00"
+    },
+    {
+        "id": 40,
+        "name": "Organic Fairtrade Dark Roast Whole Bean Coffee, Kick Ass",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322468001/b3/en/front/20322468001_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Whole Bean Coffee, Kick Ass 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 41,
+        "name": "Roasted Dandelion Root Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397739/b3/en/front/21397739_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Roasted Dandelion Root Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 42,
+        "name": "Gut Healthy Soda Orange",
+        "price": "4x355.0 ml, $0.67/100ml",
+        "brand": "COVE",
+        "image_url": "https://assets.shop.loblaws.ca/products/21515706/b3/en/front/21515706_front_a06_@2.png",
+        "image_alt": "COVE Gut Healthy Soda Orange 4x355.0 ml, $0.67/100ml",
+        "price_product_tile": "$9.49$9.49"
+    },
+    {
+        "id": 43,
+        "name": "Organic Ground Coffee, Decaf",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/21517176/b3/en/front/21517176_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Ground Coffee, Decaf 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 44,
+        "name": "Cranberry",
+        "price": "946 ml, $1.16/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/20956951/b3/en/front/20956951_front_a06_@2.png",
+        "image_alt": "PC Organics Cranberry 946 ml, $1.16/100ml",
+        "price_product_tile": "$10.99$10.99"
+    },
+    {
+        "id": 45,
+        "name": "Swiss Water\u00ae Process Decaffeinated Medium Dark Roast Single Serve Coffee Pods",
+        "price": "12 ea, $0.75/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21030336/b3/en/front/21030336_front_a06_@2.png",
+        "image_alt": "PC Organics Swiss Water\u00ae Process Decaffeinated Medium Dark Roast Single Serve Coffee Pods 12 ea, $0.75/1ea",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 46,
+        "name": "Organic Apple Grape Fruit Juice Blend",
+        "price": "1 l, $0.33/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20312710003/b3/en/front/20312710003_front_a06_@2.png",
+        "image_alt": "Kiju Organic Apple Grape Fruit Juice Blend 1 l, $0.33/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 47,
+        "name": "Organic Apple Grape Fruit Juice Boxes",
+        "price": "4x200.0 ml, $0.41/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20333714002/b3/en/front/20333714002_front_a06_@2.png",
+        "image_alt": "Kiju Organic Apple Grape Fruit Juice Boxes 4x200.0 ml, $0.41/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 48,
+        "name": "Medium Roast Ground Coffee",
+        "price": "250 g, $3.20/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21405540/b3/en/front/21405540_front_a06_@2.png",
+        "image_alt": "PC Organics Medium Roast Ground Coffee 250 g, $3.20/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 49,
+        "name": "Green Tea Blend, Honey & Ginger",
+        "price": "1 ea, $4.49/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21411105/b3/en/front/21411105_front_a06_@2.png",
+        "image_alt": "PC Organics Green Tea Blend, Honey & Ginger 1 ea, $4.49/1ea",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 50,
+        "name": "Wrapped Tea Bags Nighty Night Original With Passionflower Organic",
+        "price": "28 g, $18.89/100g",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397787/b3/en/front/21397787_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Wrapped Tea Bags Nighty Night Original With Passionflower Organic 28 g, $18.89/100g",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 51,
+        "name": "Organic Fairtrade Medium Roast Whole Bean Coffee, Cliff Hanger Espresso",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322468003/b3/en/front/20322468003_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Medium Roast Whole Bean Coffee, Cliff Hanger Espresso 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 52,
+        "name": "Peppermint Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397740/b3/en/front/21397740_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Peppermint Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 53,
+        "name": "Echinacea Plus Elderberry Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398164/b3/en/front/21398164_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Echinacea Plus Elderberry Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 54,
+        "name": "Organic Kombucha Orange Splash",
+        "price": "4x330.0 ml, $0.53/100ml",
+        "brand": "Remedy",
+        "image_url": "https://assets.shop.loblaws.ca/products/21539999/b3/en/front/21539999_front_a06_@2.png",
+        "image_alt": "Remedy Organic Kombucha Orange Splash 4x330.0 ml, $0.53/100ml",
+        "price_product_tile": "$6.99$6.99$8.49$8.49SAVE $1.50"
+    },
+    {
+        "id": 55,
+        "name": "Peppermint Herbal Tea",
+        "price": "1 ea, $4.49/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21411124/b3/en/front/21411124_front_a06_@2.png",
+        "image_alt": "PC Organics Peppermint Herbal Tea 1 ea, $4.49/1ea",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 56,
+        "name": "Ginger Aid Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397446/b3/en/front/21397446_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Ginger Aid Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 57,
+        "name": "Dark Roast Whole Bean Coffee",
+        "price": "454 g, $3.30/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21405559/b3/en/front/21405559_front_a06_@2.png",
+        "image_alt": "PC Organics Dark Roast Whole Bean Coffee   454 g, $3.30/100g",
+        "price_product_tile": "$14.99$14.99"
+    },
+    {
+        "id": 58,
+        "name": "Medium Roast Single Serve Coffee Pods",
+        "price": "12 ea, $0.75/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21029933/b3/en/front/21029933_front_a06_@2.png",
+        "image_alt": "PC Organics Medium Roast Single Serve Coffee Pods 12 ea, $0.75/1ea",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 59,
+        "name": "Espresso Whole Bean Coffee",
+        "price": "454 g, $3.30/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21479695/b3/en/front/21479695_front_a06_@2.png",
+        "image_alt": "PC Organics Espresso Whole Bean Coffee 454 g, $3.30/100g",
+        "price_product_tile": "$14.99$14.99"
+    },
+    {
+        "id": 60,
+        "name": "Organic Mango Pineapple Fruit Juice Blend",
+        "price": "1 l, $0.35/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/21313185/b3/en/front/21313185_front_a06_@2.png",
+        "image_alt": "Kiju Organic Mango Pineapple Fruit Juice Blend 1 l, $0.35/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 61,
+        "name": "Green Tea",
+        "price": "1 ea, $4.49/1ea",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21411143/b3/en/front/21411143_front_a06_@2.png",
+        "image_alt": "PC Organics Green Tea 1 ea, $4.49/1ea",
+        "price_product_tile": "$4.49$4.49"
+    },
+    {
+        "id": 62,
+        "name": "Chamomile & Lavender Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397443/b3/en/front/21397443_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Chamomile & Lavender Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 63,
+        "name": "Lemon Balm Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398152/b3/en/front/21398152_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Lemon Balm Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 64,
+        "name": "Organic Fairtrade Medium Roast Ground Coffee, Three Sisters",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20805126001/b3/en/front/20805126001_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Medium Roast Ground Coffee, Three Sisters 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 65,
+        "name": "Wrapped Tea Bags Ginger Organic",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398591/b3/en/front/21398591_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Wrapped Tea Bags Ginger Organic 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 66,
+        "name": "Zero Sugar Soda, Black Cherry",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21105194/b3/en/front/21105194_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Black Cherry 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 67,
+        "name": "Organic Fairtrade Dark Roast Ground Coffee, Grizzly Claw",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20805126002/b3/en/front/20805126002_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Ground Coffee, Grizzly Claw 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 68,
+        "name": "Organic 100% Pure Apple Juice",
+        "price": "1 l, $0.33/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20312710002/b3/en/front/20312710002_front_a06_@2.png",
+        "image_alt": "Kiju Organic 100% Pure Apple Juice 1 l, $0.33/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 69,
+        "name": "Throat Coat Original With Slippery Elm Organic Wrapped Tea Bags",
+        "price": "32 g, $16.53/100g",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397723/b3/en/front/21397723_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Throat Coat Original With Slippery Elm Organic Wrapped Tea Bags 32 g, $16.53/100g",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 70,
+        "name": "Organic Fairtrade Medium Roast Whole Bean Coffee, Three Sisters",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322468006/b3/en/front/20322468006_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Medium Roast Whole Bean Coffee, Three Sisters 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 71,
+        "name": "Dark Roast Single Serve Coffee Pods",
+        "price": "330 g, $6.97/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21037646/b3/en/front/21037646_front_a06_@2.png",
+        "image_alt": "PC Organics Dark Roast Single Serve Coffee Pods 330 g, $6.97/100g",
+        "price_product_tile": "$22.99$22.99"
+    },
+    {
+        "id": 72,
+        "name": "Organic Lemonade Fruit Juice Blend",
+        "price": "1 l, $0.33/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20312710004/b3/en/front/20312710004_front_a06_@2.png",
+        "image_alt": "Kiju Organic Lemonade Fruit Juice Blend 1 l, $0.33/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 73,
+        "name": "Organic Mango Orange Fruit Juice Boxes",
+        "price": "4x200.0 ml, $0.41/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20333714004/b3/en/front/20333714004_front_a06_@2.png",
+        "image_alt": "Kiju Organic Mango Orange Fruit Juice Boxes 4x200.0 ml, $0.41/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 74,
+        "name": "Organic Mango Lemonade",
+        "price": "946 ml, $0.41/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21022975/b3/en/front/21022975_front_a06_@2.png",
+        "image_alt": "PC Organics Organic Mango Lemonade 946 ml, $0.41/100ml",
+        "price_product_tile": "$3.89$3.89"
+    },
+    {
+        "id": 75,
+        "name": "Medium Roast Whole Bean Coffee",
+        "price": "907 g, $2.20/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21478111/b3/en/front/21478111_front_a06_@2.png",
+        "image_alt": "PC Organics Medium Roast Whole Bean Coffee 907 g, $2.20/100g",
+        "price_product_tile": "$19.99$19.99"
+    },
+    {
+        "id": 76,
+        "name": "Medium Roast Whole Bean Coffee",
+        "price": "454 g, $3.30/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21405551/b3/en/front/21405551_front_a06_@2.png",
+        "image_alt": "PC Organics Medium Roast Whole Bean Coffee   454 g, $3.30/100g",
+        "price_product_tile": "$14.99$14.99"
+    },
+    {
+        "id": 77,
+        "name": "Ginger Kombucha",
+        "price": "473 ml, $0.84/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21180527/b3/en/front/21180527_front_a06_@2.png",
+        "image_alt": "PC Organics Ginger Kombucha 473 ml, $0.84/100ml",
+        "price_product_tile": "$3.99$3.99"
+    },
+    {
+        "id": 78,
+        "name": "PC\u00ae Organics Swiss Water\u00ae Process Decaffeinated Medium Dark Roast Ground Coffee",
+        "price": "250 g, $3.20/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21405543/b3/en/front/21405543_front_a06_@2.png",
+        "image_alt": "PC Organics PC\u00ae Organics Swiss Water\u00ae Process Decaffeinated Medium Dark Roast Ground Coffee 250 g, $3.20/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 79,
+        "name": "Alkaline Spring Water",
+        "price": "1000 ml, $0.30/100ml",
+        "brand": "Flow Water",
+        "image_url": "https://assets.shop.loblaws.ca/products/20987454/b3/en/front/20987454_front_a06_@2.png",
+        "image_alt": "Flow Water Alkaline Spring Water 1000 ml, $0.30/100ml",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 80,
+        "name": "Gut Healthy Soda Lemon Lime",
+        "price": "4x355.0 ml, $0.67/100ml",
+        "brand": "COVE",
+        "image_url": "https://assets.shop.loblaws.ca/products/21515636/b3/en/front/21515636_front_a06_@2.png",
+        "image_alt": "COVE Gut Healthy Soda Lemon Lime 4x355.0 ml, $0.67/100ml",
+        "price_product_tile": "$9.49$9.49"
+    },
+    {
+        "id": 81,
+        "name": "Hibiscus Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21398066/b3/en/front/21398066_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Hibiscus Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 82,
+        "name": "Organic Fairtrade Dark Roast Whole Bean Coffee, 454 Horse Power",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322468009/b3/en/front/20322468009_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Whole Bean Coffee, 454 Horse Power 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 83,
+        "name": "Zero Sugar Soda, Cherry Cola",
+        "price": "6x355.0 ml, $0.30/100ml",
+        "brand": "Zevia",
+        "image_url": "https://assets.shop.loblaws.ca/products/21544076/b3/en/front/21544076_front_a06_@2.png",
+        "image_alt": "Zevia Zero Sugar Soda, Cherry Cola 6x355.0 ml, $0.30/100ml",
+        "price_product_tile": "$6.29$6.29$6.99$6.99SAVE $0.70"
+    },
+    {
+        "id": 84,
+        "name": "Organic Fairtrade Medium Roast Whole Bean Coffee, Smart Ass",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20810001/b3/en/front/20810001_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Medium Roast Whole Bean Coffee, Smart Ass 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 85,
+        "name": "Everyday Detox Lemon Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397790/b3/en/front/21397790_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Everyday Detox Lemon Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 86,
+        "name": "Wrapped Tea Bags Organic Dandelion Leaf & Root",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21452637/b3/en/front/21452637_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Wrapped Tea Bags Organic Dandelion Leaf & Root 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 87,
+        "name": "Dark Roast Ground Coffee",
+        "price": "250 g, $3.20/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21405547/b3/en/front/21405547_front_a06_@2.png",
+        "image_alt": "PC Organics Dark Roast Ground Coffee 250 g, $3.20/100g",
+        "price_product_tile": "$7.99$7.99"
+    },
+    {
+        "id": 88,
+        "name": "Lemonade",
+        "price": "946 ml, $0.41/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/20936902/b3/en/front/20936902_front_a06_@2.png",
+        "image_alt": "PC Organics Lemonade 946 ml, $0.41/100ml",
+        "price_product_tile": "$3.89$3.89"
+    },
+    {
+        "id": 89,
+        "name": "Medium Dark Roast Single Serve Coffee Pods",
+        "price": "136 g, $6.61/100g",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21036469/b3/en/front/21036469_front_a06_@2.png",
+        "image_alt": "PC Organics Medium Dark Roast Single Serve Coffee Pods 136 g, $6.61/100g",
+        "price_product_tile": "$8.99$8.99"
+    },
+    {
+        "id": 90,
+        "name": "Organic Strawberry Watermelon Juice Blend",
+        "price": "1 l, $0.35/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/21313187/b3/en/front/21313187_front_a06_@2.png",
+        "image_alt": "Kiju Organic Strawberry Watermelon Juice Blend 1 l, $0.35/100ml",
+        "price_product_tile": "$3.49$3.49"
+    },
+    {
+        "id": 91,
+        "name": "Organic Mango Orange Fruit Juice Blend",
+        "price": "1 l, $0.33/100ml",
+        "brand": "Kiju",
+        "image_url": "https://assets.shop.loblaws.ca/products/20312710001/b3/en/front/20312710001_front_a06_@2.png",
+        "image_alt": "Kiju Organic Mango Orange Fruit Juice Blend 1 l, $0.33/100ml",
+        "price_product_tile": "$3.29$3.29"
+    },
+    {
+        "id": 92,
+        "name": "Organic Fairtrade Dark Roast Ground Coffee, 454 Horse Power",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20805126004/b3/en/front/20805126004_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Ground Coffee, 454 Horse Power 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 93,
+        "name": "Organic Fairtrade Light Roast Ground Coffee, Hola",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20982015/b3/en/front/20982015_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Light Roast Ground Coffee, Hola 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 94,
+        "name": "Organic Fairtrade Dark Roast Whole Bean Coffee, Decaf",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20322468002/b3/en/front/20322468002_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Whole Bean Coffee, Decaf 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    },
+    {
+        "id": 95,
+        "name": "Organic Fairtrade Dark Roast Ground Coffee, Kick Ass",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20805126003/b3/en/front/20805126003_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Ground Coffee, Kick Ass 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 96,
+        "name": "Organic Fairtrade Medium Roast Ground Coffee, Smart Ass",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20982074/b3/en/front/20982074_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Medium Roast Ground Coffee, Smart Ass 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 97,
+        "name": "Organic Fairtrade Medium Roast Ground Coffee, Smart Ass",
+        "price": "284 g, $4.93/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20982074/b3/en/front/20982074_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Medium Roast Ground Coffee, Smart Ass 284 g, $4.93/100g",
+        "price_product_tile": "$13.99$13.99"
+    },
+    {
+        "id": 98,
+        "name": "Smooth Move Original With Senna Organic Wrapped Tea Bags",
+        "price": "16 ea, $0.33/1ea",
+        "brand": "Traditional Medicinals",
+        "image_url": "https://assets.shop.loblaws.ca/products/21397464/b3/en/front/21397464_front_a06_@2.png",
+        "image_alt": "Traditional Medicinals Smooth Move Original With Senna Organic Wrapped Tea Bags 16 ea, $0.33/1ea",
+        "price_product_tile": "$5.29$5.29"
+    },
+    {
+        "id": 99,
+        "name": "Organic Apple Juice from Concentrate Unsweetened",
+        "price": "1.36 l, $0.29/100ml",
+        "brand": "PC Organics",
+        "image_url": "https://assets.shop.loblaws.ca/products/21209313/b3/en/front/21209313_front_a06_@2.png",
+        "image_alt": "PC Organics Organic Apple Juice from Concentrate Unsweetened 1.36 l, $0.29/100ml",
+        "price_product_tile": "$3.89$3.89"
+    },
+    {
+        "id": 100,
+        "name": "Organic Fairtrade Dark Roast Whole Bean Coffee, Half Ass",
+        "price": "454 g, $3.74/100g",
+        "brand": "Kicking Horse",
+        "image_url": "https://assets.shop.loblaws.ca/products/20616063/b3/en/front/20616063_front_a06_@2.png",
+        "image_alt": "Kicking Horse Organic Fairtrade Dark Roast Whole Bean Coffee, Half Ass 454 g, $3.74/100g",
+        "price_product_tile": "$16.99$16.99"
+    }
+]

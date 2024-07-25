@@ -1,0 +1,533 @@
+[
+    {
+        "id": 1,
+        "name": "Banana Loaf Cake, Sliced",
+        "price": "376 g, $1.33/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21542160/b3/en/front/21542160_front_a06_@2.png",
+        "image_alt": "Farmer's Market Banana Loaf Cake, Sliced 376 g, $1.33/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 2,
+        "name": "Sliced Loaf Cake, Vanilla",
+        "price": "344 g, $1.45/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21542159/b3/en/front/21542159_front_a06_@2.png",
+        "image_alt": "Farmer's Market Sliced Loaf Cake, Vanilla 344 g, $1.45/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 3,
+        "name": "Sliced Loaf Cake, Marble",
+        "price": "344 g, $1.45/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21542157/b3/en/front/21542157_front_a06_@2.png",
+        "image_alt": "Farmer's Market Sliced Loaf Cake, Marble 344 g, $1.45/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 4,
+        "name": "Loaf Cake, Banana",
+        "price": "390 g, $1.28/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/20565382/b3/en/front/20565382_front_a06_@2.png",
+        "image_alt": "Farmer's Market Loaf Cake, Banana 390 g, $1.28/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 5,
+        "name": "Loaf Cake, Cinnamon Swirl",
+        "price": "390 g, $1.28/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/20610846/b3/en/front/20610846_front_a06_@2.png",
+        "image_alt": "Farmer's Market Loaf Cake, Cinnamon Swirl 390 g, $1.28/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 6,
+        "name": "Vanilla Sunny Shell Cakes",
+        "price": "23.67 g, $2.11/100g",
+        "brand": "Gestion Touche",
+        "image_url": "https://assets.shop.loblaws.ca/products/21425857/b3/en/front/21425857_front_a06_@2.png",
+        "image_alt": "Gestion Touche Vanilla Sunny Shell Cakes 23.67 g, $2.11/100g",
+        "price_product_tile": "$3.00$3.00"
+    },
+    {
+        "id": 7,
+        "name": "Loaf Cake, Golden",
+        "price": "390 g, $1.28/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/20611092/b3/en/front/20611092_front_a06_@2.png",
+        "image_alt": "Farmer's Market Loaf Cake, Golden 390 g, $1.28/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 8,
+        "name": "Loaf Cake, Marble",
+        "price": "390 g, $1.28/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/20611096/b3/en/front/20611096_front_a06_@2.png",
+        "image_alt": "Farmer's Market Loaf Cake, Marble 390 g, $1.28/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 9,
+        "name": "Mini Angel Food Cakes",
+        "price": "270 g, $1.85/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21313112/b3/en/front/21313112_front_a06_@2.png",
+        "image_alt": "Farmer's Market Mini Angel Food Cakes 270 g, $1.85/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 10,
+        "name": "Angel Food Cake",
+        "price": "283 g, $1.77/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21313115/b3/en/front/21313115_front_a06_@2.png",
+        "image_alt": "Farmer's Market Angel Food Cake 283 g, $1.77/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 11,
+        "name": "Mini Vanilla Cupcakes 12 Pack",
+        "price": "284 g, $1.41/100g",
+        "brand": "two-bite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21298140/b3/en/front/21298140_front_a06_@2.png",
+        "image_alt": "two-bite Mini Vanilla Cupcakes 12 Pack 284 g, $1.41/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 12,
+        "name": "Tuxedo Cake",
+        "price": "753 g, $1.66/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21500612/b3/en/front/21500612_front_a06_@2.png",
+        "image_alt": "Farmer's Market Tuxedo Cake 753 g, $1.66/100g",
+        "price_product_tile": "$12.50$12.50"
+    },
+    {
+        "id": 13,
+        "name": "Cupcakes Assorted",
+        "price": "284 g, $1.65/100g",
+        "brand": "two-bite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21530130/b3/en/front/21530130_front_a06_@2.png",
+        "image_alt": "two-bite Cupcakes Assorted 284 g, $1.65/100g",
+        "price_product_tile": "$4.69$4.69"
+    },
+    {
+        "id": 14,
+        "name": "Meringue Nests",
+        "price": "96 g, $5.21/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21572454/b3/en/front/21572454_front_a06_@2.png",
+        "image_alt": "President's Choice Meringue Nests  96 g, $5.21/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 15,
+        "name": "Strawberry Shortcake",
+        "price": "755 g, $1.66/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21500763/b3/en/front/21500763_front_a06_@2.png",
+        "image_alt": "Farmer's Market Strawberry Shortcake 755 g, $1.66/100g",
+        "price_product_tile": "$12.50$12.50"
+    },
+    {
+        "id": 16,
+        "name": "Mini Chocolate Cupcakes 12 Pack",
+        "price": "284 g, $1.41/100g",
+        "brand": "two-bite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21298138/b3/en/front/21298138_front_a06_@2.png",
+        "image_alt": "two-bite Mini Chocolate Cupcakes 12 Pack 284 g, $1.41/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 17,
+        "name": "Chocolate Coffee Cake",
+        "price": "500 g, $1.20/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21582945/b3/en/front/21582945_front_a06_@2.png",
+        "image_alt": "Farmer's Market Chocolate Coffee Cake 500 g, $1.20/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 18,
+        "name": "Cinnamon Coffee Cake",
+        "price": "500 g, $1.20/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21583022/b3/en/front/21583022_front_a06_@2.png",
+        "image_alt": "Farmer's Market Cinnamon Coffee Cake 500 g, $1.20/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 19,
+        "name": "Tiramisu Cake",
+        "price": "675 g, $1.85/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21500693/b3/en/front/21500693_front_a06_@2.png",
+        "image_alt": "Farmer's Market Tiramisu Cake 675 g, $1.85/100g",
+        "price_product_tile": "$12.50$12.50"
+    },
+    {
+        "id": 20,
+        "name": "Marble Loaf Cakes, Club Pack",
+        "price": "1170 g, $0.68/100g",
+        "brand": "Old Mill",
+        "image_url": "https://assets.shop.loblaws.ca/products/20974175/b3/en/front/20974175_front_a06_@2.png",
+        "image_alt": "Old Mill Marble Loaf Cakes, Club Pack 1170 g, $0.68/100g",
+        "price_product_tile": "$8.00$8.00"
+    },
+    {
+        "id": 21,
+        "name": "Marble Coffee Cake",
+        "price": "500 g, $1.20/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21582953/b3/en/front/21582953_front_a06_@2.png",
+        "image_alt": "Farmer's Market Marble Coffee Cake 500 g, $1.20/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 22,
+        "name": "Lemon Coffee Cake",
+        "price": "500 g, $1.20/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21582859/b3/en/front/21582859_front_a06_@2.png",
+        "image_alt": "Farmer's Market Lemon Coffee Cake 500 g, $1.20/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 23,
+        "name": "Chocolate Fudge Cake 6\"",
+        "price": "475 g, $1.26/100g",
+        "brand": "Charlottes",
+        "image_url": "https://assets.shop.loblaws.ca/products/20970813/b3/en/front/20970813_front_a06_@2.png",
+        "image_alt": "Charlottes Chocolate Fudge Cake 6\" 475 g, $1.26/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 24,
+        "name": "Sliced Cheesecake Selection, 12 slices",
+        "price": "1 kg, $1.90/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20599530/b3/en/front/20599530_front_a06_@2.png",
+        "image_alt": "President's Choice Sliced Cheesecake Selection, 12 slices 1 kg, $1.90/100g",
+        "price_product_tile": "$19.00$19.00"
+    },
+    {
+        "id": 25,
+        "name": "Waffles",
+        "price": "420 g, $1.55/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21396165/b3/en/front/21396165_front_a06_@2.png",
+        "image_alt": "Farmer's Market Waffles 420 g, $1.55/100g",
+        "price_product_tile": "$6.50$6.50"
+    },
+    {
+        "id": 26,
+        "name": "Gluten Free Strawberry Cake",
+        "price": "553 g, $2.35/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20794367/b3/en/front/20794367_front_a06_@2.png",
+        "image_alt": "President's Choice Gluten Free Strawberry Cake  553 g, $2.35/100g",
+        "price_product_tile": "$13.00$13.00"
+    },
+    {
+        "id": 27,
+        "name": "Cupcakes Strawberry",
+        "price": "284 g, $1.41/100g",
+        "brand": "two-bite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21598066/b3/en/front/21598066_front_a06_@2.png",
+        "image_alt": "two-bite Cupcakes Strawberry 284 g, $1.41/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 28,
+        "name": "Cherry-Topped New York-Style Cheesecake",
+        "price": "600 g, $1.83/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20147627/b3/en/front/20147627_front_a06_@2.png",
+        "image_alt": "President's Choice Cherry-Topped New York-Style Cheesecake 600 g, $1.83/100g",
+        "price_product_tile": "$11.00$11.00"
+    },
+    {
+        "id": 29,
+        "name": "Black Forest Cake 6\"",
+        "price": "400 g, $1.50/100g",
+        "brand": "Charlottes",
+        "image_url": "https://assets.shop.loblaws.ca/products/20970811/b3/en/front/20970811_front_a06_@2.png",
+        "image_alt": "Charlottes Black Forest Cake 6\" 400 g, $1.50/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 30,
+        "name": "Gluten Free Chocolate Cake",
+        "price": "553 g, $2.35/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20794594/b3/en/front/20794594_front_a06_@2.png",
+        "image_alt": "President's Choice Gluten Free Chocolate Cake 553 g, $2.35/100g",
+        "price_product_tile": "$13.00$13.00"
+    },
+    {
+        "id": 31,
+        "name": "Double Decker New York-Style Cheesecake",
+        "price": "600 g, $1.83/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20287738/b3/en/front/20287738_front_a06_@2.png",
+        "image_alt": "President's Choice Double Decker New York-Style Cheesecake 600 g, $1.83/100g",
+        "price_product_tile": "$11.00$11.00"
+    },
+    {
+        "id": 32,
+        "name": "Cookies & Cream Cake 6\"",
+        "price": "400 g, $1.50/100g",
+        "brand": "Charlottes",
+        "image_url": "https://assets.shop.loblaws.ca/products/21003336/b3/en/front/21003336_front_a06_@2.png",
+        "image_alt": "Charlottes Cookies & Cream Cake 6\" 400 g, $1.50/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 33,
+        "name": "Original New York- Style Cheesecake",
+        "price": "600 g, $1.83/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20318102/b3/en/front/20318102_front_a06_@2.png",
+        "image_alt": "President's Choice Original New York- Style Cheesecake 600 g, $1.83/100g",
+        "price_product_tile": "$11.00$11.00"
+    },
+    {
+        "id": 34,
+        "name": "Chocolate Caramel Pecan Cluster New York-Style Cheesecake",
+        "price": "600 g, $1.83/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/21395368/b3/en/front/21395368_front_a06_@2.png",
+        "image_alt": "President's Choice Chocolate Caramel Pecan Cluster New York-Style Cheesecake 600 g, $1.83/100g",
+        "price_product_tile": "$11.00$11.00"
+    },
+    {
+        "id": 35,
+        "name": "Carrot Cake 6\"",
+        "price": "475 g, $1.26/100g",
+        "brand": "Charlottes",
+        "image_url": "https://assets.shop.loblaws.ca/products/21002214/b3/en/front/21002214_front_a06_@2.png",
+        "image_alt": "Charlottes Carrot Cake 6\" 475 g, $1.26/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 36,
+        "name": "Carrot Cake",
+        "price": "875 g, $1.20/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21392550/b3/en/front/21392550_front_a06_@2.png",
+        "image_alt": "Farmer's Market Carrot Cake 875 g, $1.20/100g",
+        "price_product_tile": "$10.50$10.50"
+    },
+    {
+        "id": 37,
+        "name": "Cake Vanilla Celebration",
+        "price": "475 g, $1.26/100g",
+        "brand": "Charlottes",
+        "image_url": "https://assets.shop.loblaws.ca/products/21381555/b3/en/front/21381555_front_a06_@2.png",
+        "image_alt": "Charlottes Cake Vanilla Celebration 475 g, $1.26/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 38,
+        "name": "Cake Black Forest",
+        "price": "1200 g, $1.42/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21591636/b3/en/front/21591636_front_a06_@2.png",
+        "image_alt": "Farmer's Market Cake Black Forest 1200 g, $1.42/100g",
+        "price_product_tile": "$17.00$17.00"
+    },
+    {
+        "id": 39,
+        "name": "Cake Chocolate",
+        "price": "1.5 kg, $1.13/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21193724/b3/en/front/21193724_front_a06_@2.png",
+        "image_alt": "Farmer's Market Cake Chocolate 1.5 kg, $1.13/100g",
+        "price_product_tile": "$17.00$17.00"
+    },
+    {
+        "id": 40,
+        "name": "Truffle Royale",
+        "price": "600 g, $2.50/100g",
+        "brand": "No brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/20378142/b3/en/front/20378142_front_a06_@2.png",
+        "image_alt": "null Truffle Royale 600 g, $2.50/100g",
+        "price_product_tile": "$15.00$15.00"
+    },
+    {
+        "id": 41,
+        "name": "Chocolate Brownie Cheesecake with Ganache Topping",
+        "price": "600 g, $1.83/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20299699/b3/en/front/20299699_front_a06_@2.png",
+        "image_alt": "President's Choice Chocolate Brownie Cheesecake with Ganache Topping 600 g, $1.83/100g",
+        "price_product_tile": "$11.00$11.00"
+    },
+    {
+        "id": 42,
+        "name": "Banana Chocolate Chip Coffee Cake",
+        "price": "500 g, $1.20/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21583031/b3/en/front/21583031_front_a06_@2.png",
+        "image_alt": "Farmer's Market Banana Chocolate Chip Coffee Cake 500 g, $1.20/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 43,
+        "name": "Vanilla Cupcakes",
+        "price": "284 g, $1.41/100g",
+        "brand": "two-bite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21296811/b3/en/front/21296811_front_a06_@2.png",
+        "image_alt": "two-bite Vanilla Cupcakes 284 g, $1.41/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 44,
+        "name": "Chocolate Cake",
+        "price": "850 g, $1.24/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21392544/b3/en/front/21392544_front_a06_@2.png",
+        "image_alt": "Farmer's Market Chocolate Cake 850 g, $1.24/100g",
+        "price_product_tile": "$10.50$10.50"
+    },
+    {
+        "id": 45,
+        "name": "Cake Vanilla",
+        "price": "1.5 kg, $1.13/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21193721/b3/en/front/21193721_front_a06_@2.png",
+        "image_alt": "Farmer's Market Cake Vanilla 1.5 kg, $1.13/100g",
+        "price_product_tile": "$17.00$17.00"
+    },
+    {
+        "id": 46,
+        "name": "Fruitcake",
+        "price": "340 g, $0.88/100g",
+        "brand": "Anmol",
+        "image_url": "https://assets.shop.loblaws.ca/products/20083566/b3/en/front/20083566_front_a06_@2.png",
+        "image_alt": "Anmol Fruitcake 340 g, $0.88/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 47,
+        "name": "Wild Blueberry-Topped New York-Style Cheesecake",
+        "price": "600 g, $1.83/100g",
+        "brand": "President's Choice",
+        "image_url": "https://assets.shop.loblaws.ca/products/20305400/b3/en/front/20305400_front_a06_@2.png",
+        "image_alt": "President's Choice Wild Blueberry-Topped New York-Style Cheesecake 600 g, $1.83/100g",
+        "price_product_tile": "$11.00$11.00"
+    },
+    {
+        "id": 48,
+        "name": "Cookies and Creme Cake",
+        "price": "825 g, $1.27/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21392554/b3/en/front/21392554_front_a06_@2.png",
+        "image_alt": "Farmer's Market Cookies and Creme Cake 825 g, $1.27/100g",
+        "price_product_tile": "$10.50$10.50"
+    },
+    {
+        "id": 49,
+        "name": "Cupcakes, Maple",
+        "price": "284 g, $1.41/100g",
+        "brand": "two-bite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21242659/b3/en/front/21242659_front_a06_@2.png",
+        "image_alt": "two-bite Cupcakes, Maple 284 g, $1.41/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 50,
+        "name": "6 Inch Red Velvet Cake",
+        "price": "600 g, $2.50/100g",
+        "brand": "La Rocca",
+        "image_url": "https://assets.shop.loblaws.ca/products/20598232/b3/en/front/20598232_front_a06_@2.png",
+        "image_alt": "La Rocca 6 Inch Red Velvet Cake 600 g, $2.50/100g",
+        "price_product_tile": "$15.00$15.00"
+    },
+    {
+        "id": 51,
+        "name": "6\" Chocolate Truffle Cake",
+        "price": "600 g, $2.50/100g",
+        "brand": "No brand",
+        "image_url": "https://assets.shop.loblaws.ca/products/20378352/b3/en/front/20378352_front_a06_@2.png",
+        "image_alt": "null 6\" Chocolate Truffle Cake 600 g, $2.50/100g",
+        "price_product_tile": "$15.00$15.00"
+    },
+    {
+        "id": 52,
+        "name": "Cake Vanilla",
+        "price": "1500 g, $1.13/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21591532/b3/en/front/21591532_front_a06_@2.png",
+        "image_alt": "Farmer's Market Cake Vanilla 1500 g, $1.13/100g",
+        "price_product_tile": "$17.00$17.00"
+    },
+    {
+        "id": 53,
+        "name": "Eggless Fruit Cake",
+        "price": "340 g, $0.88/100g",
+        "brand": "Golden",
+        "image_url": "https://assets.shop.loblaws.ca/products/20219109/b3/en/front/20219109_front_a06_@2.png",
+        "image_alt": "Golden Eggless Fruit Cake 340 g, $0.88/100g",
+        "price_product_tile": "$2.99$2.99"
+    },
+    {
+        "id": 54,
+        "name": "Cake Chocolate",
+        "price": "1500 g, $1.13/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/21591663/b3/en/front/21591663_front_a06_@2.png",
+        "image_alt": "Farmer's Market Cake Chocolate 1500 g, $1.13/100g",
+        "price_product_tile": "$17.00$17.00"
+    },
+    {
+        "id": 55,
+        "name": "Chocolate Cupcakes",
+        "price": "284 g, $1.41/100g",
+        "brand": "two-bite",
+        "image_url": "https://assets.shop.loblaws.ca/products/21296818/b3/en/front/21296818_front_a06_@2.png",
+        "image_alt": "two-bite Chocolate Cupcakes 284 g, $1.41/100g",
+        "price_product_tile": "$4.00$4.00"
+    },
+    {
+        "id": 56,
+        "name": "Maple Loaf Cake",
+        "price": "390 g, $1.28/100g",
+        "brand": "Farmer's Market",
+        "image_url": "https://assets.shop.loblaws.ca/products/20824405/b3/en/front/20824405_front_a06_@2.png",
+        "image_alt": "Farmer's Market Maple Loaf Cake 390 g, $1.28/100g",
+        "price_product_tile": "$5.00$5.00"
+    },
+    {
+        "id": 57,
+        "name": "Red Velvet Cake with Cream Cheese Frosting",
+        "price": "475 g, $1.26/100g",
+        "brand": "Charlottes",
+        "image_url": "https://assets.shop.loblaws.ca/products/21000008/b3/en/front/21000008_front_a06_@2.png",
+        "image_alt": "Charlottes Red Velvet Cake with Cream Cheese Frosting 475 g, $1.26/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 58,
+        "name": "Strawberry Shortcake",
+        "price": "400 g, $1.50/100g",
+        "brand": "Charlottes",
+        "image_url": "https://assets.shop.loblaws.ca/products/21184896/b3/en/front/21184896_front_a06_@2.png",
+        "image_alt": "Charlottes Strawberry Shortcake 400 g, $1.50/100g",
+        "price_product_tile": "$6.00$6.00"
+    },
+    {
+        "id": 59,
+        "name": "Tiramisu Cake, Dome",
+        "price": "700 g, $2.71/100g",
+        "brand": "Elite Sweets",
+        "image_url": "https://assets.shop.loblaws.ca/products/20001390/b3/en/front/20001390_front_a06_@2.png",
+        "image_alt": "Elite Sweets Tiramisu Cake, Dome 700 g, $2.71/100g",
+        "price_product_tile": "$18.99$18.99"
+    }
+]
