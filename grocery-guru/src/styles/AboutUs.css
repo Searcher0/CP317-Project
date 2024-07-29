@@ -1,0 +1,115 @@
+/* AboutUs.css */
+
+.aboutus-container {
+  padding: 20px;
+  background-color: #fff; /* Background color for the page */
+}
+
+.aboutus-section {
+  padding: 40px;
+  margin: 30px;
+  border-radius: 10px;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  margin-bottom: 20px; /* Add some space between sections */
+}
+
+.section-1 {
+  background-color: #02303D;
+  color: #fff;
+}
+
+.section-2 {
+  background-color: #E8EBDB;
+  color: #02303D;
+}
+
+.section-3 {
+  background-color: #02303D;
+  color: #fff;
+}
+
+.section-9 {
+  background-color: #E8EBDB;
+  color: #02303D;
+}
+
+.aboutus-title {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.aboutus-subtitle {
+  font-size: 1.8em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.aboutus-description {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.team-section {
+  padding: 30px;
+  margin: 30px;
+  border-radius: 10px;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.team-container {
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.team-member {
+  background-color: #02303D;
+  color: #E8EBDB;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  flex-basis: 45%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.team-member-image {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.team-member-info {
+  text-align: center;
+}
+
+.team-member-name {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.team-member-role {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.team-member-description {
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+.fade-in-section {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.fade-in-section.fade-in {
+  opacity: 1;
+}

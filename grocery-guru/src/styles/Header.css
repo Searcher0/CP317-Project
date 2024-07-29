@@ -1,0 +1,30 @@
+/* src/styles/Header.css */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #E8EBDB; /* Light Primary Color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    width: 50px;
+    height: auto;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #103C4D; /* Dark Primary Color */
+    font-size: 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #2396E2; /* Secondary Color */
+  }

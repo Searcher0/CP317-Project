@@ -1,0 +1,41 @@
+/* src/styles/CreateList.css */
+.create-container {
+    padding: 2rem;
+    background-color: #ffffff; /* White background for content */
+  }
+  
+  .create-title {
+    font-size: 2rem;
+    color: #103C4D; /* Dark Primary Color */
+  }
+  
+  .create-input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .create-button {
+    padding: 0.5rem 1rem;
+    background-color: #2396E2; /* Secondary Color */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .create-button:hover {
+    background-color: #103C4D; /* Dark Primary Color */
+  }
+  
+  .list-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+  }
