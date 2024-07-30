@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+mysql-connector-python
+beautifulsoup4
+requests
+flask_sqlalchemy
