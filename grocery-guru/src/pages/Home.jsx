@@ -9,6 +9,7 @@ import Adnan from "../assets/Adnan.jpeg";
 import Waleed from "../assets/waleed.jpeg";
 import George from "../assets/George.jpg";
 import Muneeb from "../assets/Muneeb.jpeg";
+import Yousif from "../assets/Yousif.jpeg";
 
 const defaultLocation = { lat: 43.4723, lng: -80.5449 };
 
@@ -69,7 +70,7 @@ const Home = () => {
     {
       text: "I was able to cut down my grocery bill significantly thanks to Grocery Guru.",
       name: "Yousif",
-      image: "https://via.placeholder.com/50"
+      image: Yousif
     },
     {
       text: "Fantastic app! Makes grocery shopping so much easier and cheaper.",

@@ -4,11 +4,11 @@ import Adnan from "../assets/Adnan.jpeg";
 import Waleed from "../assets/waleed.jpeg";
 import George from "../assets/George.jpg";
 import Muneeb from "../assets/Muneeb.jpeg";
-
+import Yousif from "../assets/Yousif.jpeg";
 const teamMembers = [
   { name: 'George Salib', role: 'Lead Developer', image: George, description: 'George is the front and backend developer for this project.' },
   { name: 'Muneeb Zaidi', role: 'Backend Developer', image: Muneeb, description: 'Muneeb is the backend developer that developed the webscraper.' },
-  { name: 'Yousif Salman', role: 'Customer Support', image: 'https://via.placeholder.com/50', description: 'Yousif is the backend developer that developed the webscraper.' },
+  { name: 'Yousif Salman', role: 'Backend Developer', image: Yousif, description: 'Yousif is the backend developer that developed the webscraper.' },
   { name: 'Adnan Awad', role: 'UI Designer', image: Adnan, description: 'Adnan designed the front-end interface and handled the documentation of our project' },
   { name: 'Waleed Asif', role: 'UI Designer', image: Waleed, description: 'Waleed designed the front-end interface and handled the documentation of our project' },
 ];
