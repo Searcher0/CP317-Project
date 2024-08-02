@@ -1,8 +1,6 @@
 {
-    "Produce": ["banana", "tomato", "onion", "lettuce", "carrot", "potato", "cucumber", "broccoli", "spinach", "pepper", "mushroom", "avocado", "garlic", "ginger", "cauliflower", "zucchini", "asparagus", "sweet potato", "celery", "beet", "radish", "corn", "squash", "peas", "eggplant", "green beans", "brussels sprouts", "kale", "leek", "cabbage", "artichoke", "pumpkin", "turnip", "parsnip", "rutabaga", "fennel", "endive", "arugula", "bok choy", "collard greens", "mustard greens", "swiss chard", "watercress"],
-    "Eggs": ["eggs"],
-    "Dairy": ["milk", "cheese", "yogurt", "butter", "cream", "sour cream", "cottage cheese", "cream cheese", "ice cream", "whipped cream", "half and half", "ghee", "kefir", "evaporated milk", "condensed milk"],
-    "Meat": ["chicken", "beef", "pork", "lamb", "turkey", "duck", "goose", "veal", "rabbit", "venison", "ham", "bacon", "sausage", "hot dogs", "pepperoni", "salami", "prosciutto", "chorizo", "brisket", "ribs", "steak", "ground beef", "ground turkey", "ground chicken", "ground pork"],
+
+    "Meat": [ "ground beef", "ground turkey", "ground chicken", "ground pork"],
     "Breads": ["bread", "bagel", "bun", "rolls", "croissant", "pita", "naan", "tortilla", "sourdough", "rye bread", "whole wheat bread", "white bread", "multigrain bread", "french bread", "ciabatta", "brioche", "focaccia", "english muffin", "flatbread"],
     "Baking Ingredients": ["flour", "sugar", "baking soda", "baking powder", "yeast", "salt", "cocoa powder", "vanilla extract", "honey", "maple syrup", "molasses", "cornstarch", "powdered sugar", "brown sugar", "confectioner's sugar", "chocolate chips", "coconut flakes", "almond flour", "rice flour", "cornmeal", "oats", "rolled oats", "steel-cut oats", "quinoa", "barley", "buckwheat", "semolina", "gelatin", "pectin"],
     "Juices": ["orange juice", "apple juice", "grape juice", "cranberry juice", "pineapple juice", "pomegranate juice", "mango juice", "lemonade", "limeade", "grapefruit juice", "tomato juice", "carrot juice", "beet juice", "vegetable juice", "coconut water", "aloe vera juice", "prune juice"],

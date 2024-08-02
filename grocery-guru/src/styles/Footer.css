@@ -1,10 +1,21 @@
 /* Footer.css */
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  flex: 1;
+}
+
 footer {
   background-color: #02303D;
   color: white;
   text-align: center;
   padding: 10px 0;
-  position: relative;
   width: 100%;
+  position: relative;
 }

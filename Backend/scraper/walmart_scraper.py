@@ -4,25 +4,24 @@ from api.models import db, Walmart
 import logging
 import json
 from sqlalchemy import text
+import random
+import time
 
 logger = logging.getLogger(__name__)
 
 def scrape_walmart():
     base_url = "https://www.walmart.ca"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11.15; rv:104.0) Gecko/20100111 Firefox/104.0"
-    }
     
     with open('categories.json', 'r') as file:
         categories = json.load(file)
     
-    # Drop and recreate the Walmart table to reset auto-increment ID
-    db.session.execute(text('DROP TABLE IF EXISTS walmart'))
-    db.create_all()
-    logger.info("Cleared existing data from the Walmart table.")
+    # No need to drop and recreate the Walmart table
+    logger.info("Starting to scrape Walmart data.")
 
     for category, items in categories.items():
         for item in items:
+            number = random.randint(20100100, 20101999)
+            headers = {"User-Agent": f"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:104.0) Gecko/{number} Firefox/104.0"}
             search_url = f"{base_url}/search?q={item}"
             response = requests.get(search_url, headers=headers)
             if response.status_code != 200:
@@ -64,14 +63,18 @@ def scrape_walmart():
                 print(product)
             
             # Store data in the database
-            db_items = [Walmart(name=product['name'], price=product['price'], category=product['category'], generalized_name=product['generalized_name']) for product in products]
+            for product in products:
+                existing_item = Walmart.query.filter_by(name=product['name']).first()
+                if existing_item:
+                    existing_item.price = product['price']
+                    db.session.merge(existing_item)
+                else:
+                    new_item = Walmart(name=product['name'], price=product['price'], category=product['category'], generalized_name=product['generalized_name'])
+                    db.session.add(new_item)
             
-            if db_items:
-                db.session.bulk_save_objects(db_items)
-                db.session.commit()
-                logger.info(f"Committed {len(db_items)} Walmart items to the database for category {category}, item {item}.")
-            else:
-                logger.info(f"No items found for Walmart for category {category}, item {item}.")
+            db.session.commit()
+            logger.info(f"Processed {len(products)} Walmart items for category {category}, item {item}.")
+            # time.sleep(30) # sleep for 30 seconds to avoid getting blocked by Walmart
 
 if __name__ == "__main__":
     scrape_walmart()

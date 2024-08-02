@@ -17,7 +17,7 @@ const App = () => (
         <Route path="/create-list" element={<CreateList />} />
       </Routes>
     </main>
-    <Footer />
+    {/* <Footer /> */}
   </Router>
 );
 

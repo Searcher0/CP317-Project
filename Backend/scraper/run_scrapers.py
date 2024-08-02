@@ -24,9 +24,9 @@ def run_all_scrapers():
         logger.info("Finished Walmart scraper.")
         
 
-        # logger.info("Starting Loblaws scraper.")
-        # scrape_loblaws()
-        # logger.info("Finished Loblaws scraper.")
+        logger.info("Starting Loblaws scraper.")
+        scrape_loblaws()
+        logger.info("Finished Loblaws scraper.")
         
         # logger.info("Starting Superstore scraper.")
         # scrape_superstore()

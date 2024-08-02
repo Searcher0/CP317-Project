@@ -71,7 +71,7 @@ const Map = ({ location, setLocation, stores, setStores }) => {
   }, []);
 
   const fetchNearbyStores = async (lat, lng, map) => {
-    const overpassUrl = `https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];nwr["shop"="supermarket"](around:10000,${lat},${lng});out geom;`;
+    const overpassUrl = `https://overpass-api.de/api/interpreter?data=[out:json][timeout:25];nwr["shop"="supermarket"](around:5000,${lat},${lng});out geom;`;
 
     try {
       const response = await axios.get(overpassUrl);
@@ -93,10 +93,11 @@ const Map = ({ location, setLocation, stores, setStores }) => {
 
       // Filter stores based on specific names
       const filteredStores = allStores.filter(store => 
-        store.name.toLowerCase().includes('metro') || 
-        store.name.toLowerCase().includes('superstore') || 
+        // store.name.toLowerCase().includes('metro') || 
+        // store.name.toLowerCase().includes('superstore') || 
         store.name.toLowerCase().includes('walmart') || 
-        store.name.toLowerCase().includes('loblaws')
+        store.name.toLowerCase().includes('loblaws') ||
+        store.name.toLowerCase().includes('no frills')
       );
 
       console.log('Filtered stores:', filteredStores);

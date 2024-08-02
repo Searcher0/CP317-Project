@@ -3,6 +3,7 @@ import time
 from scraper.run_scrapers import run_all_scrapers
 from api.app import app
 
+
 def run_scrapers_periodically():
     while True:
         run_all_scrapers()

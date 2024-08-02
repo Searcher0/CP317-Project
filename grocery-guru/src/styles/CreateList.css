@@ -1,41 +1,241 @@
-/* src/styles/CreateList.css */
+/* CreateList.css */
+
 .create-container {
-    padding: 2rem;
-    background-color: #ffffff; /* White background for content */
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+
+.create-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.create-input {
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.create-button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  background-color: #02303D;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.create-button:hover {
+  background-color: #035f78;
+}
+
+.input-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  position: relative; /* To position suggestions absolutely */
+}
+
+.suggestions {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-height: 150px;
+  overflow-y: auto;
+  width: 550px;
+  left: 0;
+  right: 0;
+  margin: 0 auto; /* Center the dropdown */
+  z-index: 1; /* Ensure it appears above other elements */
+}
+
+.list-divider {
+  margin: 20px 0;
+  border-top: 2px solid #02303D;
+}
+
+.list-container-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+.list-container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.list-container.notepad {
+  border: 2px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 50%;
+  max-width: 600px;
+  background-color: #fff;
+  margin: 0 auto; /* Center the list container */
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.remove-button {
+  padding: 5px 10px;
+  background-color: #d9534f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.suggestion-item {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.suggestion-item:hover {
+  background-color: #f0f0f0;
+}
+
+.loading {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #333;
+}
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  border: 1px solid #02303D;
+}
+
+.popup-button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #02303D;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.popup-button:hover {
+  background-color: #035f78;
+}
+
+.store {
+  margin: 10px 0;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: start;
+  justify-content: start;
+}
+
+.store:nth-child(odd) {
+  background-color: #E8EBDB;
+}
+
+.store:nth-child(even) {
+  background-color: #02303D;
+  color: white;
+}
+
+.store-header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.store-details {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.store-details div {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+}
+
+.store-details.hidden {
+  display: none;
+}
+
+.missing-items {
+  color: red;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 10px;
+}
+.loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #E8EBDB; /* Same color as the nav bar */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 1000;
+}
+
+.loading-logo {
+  width: 100px;
+  animation: moveAcross 3s linear infinite;
+}
+
+.loading-text {
+  color: #02303D;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+@keyframes moveAcross {
+  0% {
+    transform: translateX(-10vw); /* Start off-screen to the left */
   }
-  
-  .create-title {
-    font-size: 2rem;
-    color: #103C4D; /* Dark Primary Color */
+  100% {
+    transform: translateX(10vw); /* Move off-screen to the right */
   }
-  
-  .create-input {
-    width: 100%;
-    padding: 0.5rem;
-    margin-bottom: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-  
-  .create-button {
-    padding: 0.5rem 1rem;
-    background-color: #2396E2; /* Secondary Color */
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .create-button:hover {
-    background-color: #103C4D; /* Dark Primary Color */
-  }
-  
-  .list-item {
-    display: flex;
-    justify-content: space-between;
-    padding: 0.5rem;
-    border: 1px solid #ccc;
-    margin-bottom: 0.5rem;
-    border-radius: 4px;
-  }
+}
