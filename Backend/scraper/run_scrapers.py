@@ -20,18 +20,18 @@ def run_all_scrapers():
         db.create_all()  # Ensure all tables are created
         logger.info("Finished creating tables.")
         
-        logger.info("Starting Walmart scraper.")
-        scrape_walmart()
-        logger.info("Finished Walmart scraper.")
+        # logger.info("Starting Walmart scraper.")
+        # scrape_walmart()
+        # logger.info("Finished Walmart scraper.")
         
 
-        logger.info("Starting Loblaws scraper.")
-        Loblaws_Scraper()
-        logger.info("Finished Loblaws scraper.")
+        # logger.info("Starting Loblaws scraper.")
+        # Loblaws_Scraper()
+        # logger.info("Finished Loblaws scraper.")
         
-        logger.info("Starting Nofrills scraper.")
-        migrate_data()
-        logger.info("Finished Nofrills scraper.")
+        # logger.info("Starting Nofrills scraper.")
+        # migrate_data()
+        # logger.info("Finished Nofrills scraper.")
         
         # logger.info("Starting Metro scraper.")
         # scrape_metro()

@@ -6,7 +6,7 @@ from api.app import app
 
 def run_scrapers_periodically():
     while True:
-        run_all_scrapers()
+        # run_all_scrapers()
         time.sleep(24 * 3600)  # Run every 24 hours
 
 if __name__ == "__main__":

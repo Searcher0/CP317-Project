@@ -53,10 +53,12 @@ def create_table():
 def Loblaws_Scraper():
     base_link = "https://www.loblaws.ca/food/c/27985"  # Hard-coded base link
     retries = 3  # Hard-coded retries
+
     # Path to the ChromeDriver
-    chrome_driver_path = r"C:\Users\User\Downloads\chromedriver-win64 (1)\chromedriver-win64\chromedriver.exe"
+    chrome_driver_path = r"C:\Users\User\Downloads\chromedriver-win64 (1)\chromedriver-win64\chromedriver.exe" # update this if you want to run the scraper
+    
     driver = webdriver.Chrome(service=ChromeService(chrome_driver_path))
-    file_path = r"C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\Backend\scraper\loblaws.txt"
+    file_path = r"Backend\scraper\loblaws.txt"
     attempt = 0
     page_number = 1
     all_html_content = []
@@ -132,7 +134,7 @@ def grab_html_content(driver):
 
 def parse_and_insert_data_from_file():
     try:
-        file_path = r"C:\Users\User\OneDrive\Documents\GitHub\CP317-Project\Backend\scraper\loblaws.txt"
+        file_path = r"Backend\scraper\loblaws.txt"
         if not os.path.exists(file_path):
             logger.error(f"File not found: {file_path}")
             return
@@ -149,7 +151,7 @@ def extract_product_info_from_html(html_content):
     try:
         soup = BeautifulSoup(html_content, 'html.parser')
         product_elements = soup.select("div.chakra-linkbox")
-        file_path = r'C:/Users/User/OneDrive/Documents/GitHub/CP317-Project/Backend/categories.json'
+        file_path = r'Backend\categories.json'
         # Load categories.json
         with open(file_path) as f:
             categories = json.load(f)
@@ -216,7 +218,7 @@ def insert_data_to_mysql(products):
 
 if __name__ == "__main__":
     # Step 1: Create Table
-    create_table()
+    # create_table()
 
     # Step 2: Scrape Data and Insert into MySQL
     Loblaws_Scraper()
