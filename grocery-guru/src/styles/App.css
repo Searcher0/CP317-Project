@@ -14,17 +14,12 @@ html, body, #root {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+   overflow: hidden;
 }
 
 .main-content {
   flex: 1;
   overflow: hidden; /* Ensure content stays within the bounds */
-}
-
-footer {
-  background-color: #02303D;
-  color: white;
-  text-align: center;
-  padding: 10px 0;
-  width: 100%;
+  display: flex;
+  flex-direction: column;
 }

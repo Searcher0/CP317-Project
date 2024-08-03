@@ -1,17 +1,21 @@
 import React, { useEffect } from 'react';
 import '../styles/AboutUs.css';
-
+import Adnan from "../assets/Adnan.jpeg";
+import Waleed from "../assets/waleed.jpeg";
+import George from "../assets/George.jpg";
+import Muneeb from "../assets/Muneeb.jpeg";
+import Yousif from "../assets/Yousif.jpeg";
 const teamMembers = [
-  { name: 'Alice', role: 'Developer', image: 'https://via.placeholder.com/50', description: 'Alice is a highly skilled developer with over 10 years of experience.' },
-  { name: 'Cornelius', role: 'Data Analyst', image: 'https://via.placeholder.com/50', description: 'Cornelius is a data analyst who ensures our database is always up to date.' },
-  { name: 'Charlie', role: 'Customer Support', image: 'https://via.placeholder.com/50', description: 'Charlie leads our customer support team, helping users with any issues.' },
-  { name: 'Dave', role: 'Project Manager', image: 'https://via.placeholder.com/50', description: 'Dave oversees all projects, ensuring everything runs smoothly.' },
-  { name: 'Eve', role: 'Marketing Specialist', image: 'https://via.placeholder.com/50', description: 'Eve handles marketing and ensures our platform reaches more users.' },
+  { name: 'George Salib', role: 'Lead Developer', image: George, description: 'George is the front and backend developer for this project.' },
+  { name: 'Muneeb Zaidi', role: 'Backend Developer', image: Muneeb, description: 'Muneeb is the backend developer that developed the webscraper.' },
+  { name: 'Yousif Salman', role: 'Backend Developer', image: Yousif, description: 'Yousif is the backend developer that developed the webscraper.' },
+  { name: 'Adnan Awad', role: 'UI Designer', image: Adnan, description: 'Adnan designed the front-end interface and handled the documentation of our project' },
+  { name: 'Waleed Asif', role: 'UI Designer', image: Waleed, description: 'Waleed designed the front-end interface and handled the documentation of our project' },
 ];
 
 const AboutUs = () => {
   useEffect(() => {
-    const handleScroll = () => {
+    const handleVisibility = () => {
       const elements = document.querySelectorAll('.fade-in-section');
       elements.forEach((element) => {
         const rect = element.getBoundingClientRect();
@@ -24,9 +28,10 @@ const AboutUs = () => {
       });
     };
 
-    window.addEventListener('scroll', handleScroll);
+    handleVisibility(); // Check visibility on initial load
+    window.addEventListener('scroll', handleVisibility);
     return () => {
-      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener('scroll', handleVisibility);
     };
   }, []);
 

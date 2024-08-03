@@ -8,17 +8,44 @@
 .intro-section {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  align-items: center;
+  padding: 40px;
   margin: 20px;
   margin-bottom: 50px;
   opacity: 0;
   transform: translateY(50px);
   transition: all 1s ease-in-out;
+  flex-wrap: wrap; /* Allow wrapping */
 }
 
 .intro-section.animate {
   opacity: 1;
   transform: translateY(0);
+}
+
+.image-placeholder {
+  flex: 1;
+  background: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%; /* Ensure the image width adjusts according to its container */
+}
+
+.home-image {
+  width: 100%; /* Ensure the image width adjusts according to its container */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.intro-text {
+  flex: 1;
+  color: #02303D;
+  background-color: #E8EBDB;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 10px;
+  animation: fadeIn 2s ease-in-out;
 }
 
 .image-placeholder {
@@ -29,14 +56,20 @@
   align-items: center;
 }
 
+.home-image {
+  width: 100%; /* Ensure the image width adjusts according to its container */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .intro-text {
   width: 60%;
   color: #02303D;
   background-color: #E8EBDB;
-  padding: 20px;
+  padding-bottom: 200px;
+  padding-top: 0;
   text-align: center;
   border-radius: 10px;
-  margin: 10px;
+  margin: 30px;
   animation: fadeIn 2s ease-in-out;
 }
 
@@ -128,6 +161,8 @@
 .testimonial-image {
   border-radius: 50%;
   margin-right: 20px;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 .testimonial-name {
@@ -139,6 +174,7 @@
   display: flex;
   justify-content: space-between;
   padding: 20px;
+  flex-wrap: wrap; /* Allow wrapping */
 }
 
 .map-placeholder {
@@ -233,5 +269,40 @@ footer {
   }
   to {
     transform: translateX(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .intro-section {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .image-placeholder {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .home-image {
+    width: 100%; /* Ensure the image width adjusts according to its container */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .intro-text {
+    width: 100%;
+  }
+
+  .stores-section {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .map-placeholder {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .stores-list {
+    width: 100%;
   }
 }

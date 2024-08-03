@@ -5,6 +5,11 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import '../styles/Home.css';
 import image from "../assets/home.jpg";
+import Adnan from "../assets/Adnan.jpeg";
+import Waleed from "../assets/waleed.jpeg";
+import George from "../assets/George.jpg";
+import Muneeb from "../assets/Muneeb.jpeg";
+import Yousif from "../assets/Yousif.jpeg";
 
 const defaultLocation = { lat: 43.4723, lng: -80.5449 };
 
@@ -49,28 +54,28 @@ const Home = () => {
   const testimonials = [
     {
       text: "This website has saved me so much time and money. I always find the cheapest products in my area. Thank you Grocery Guru!",
-      name: "Alice",
-      image: "https://via.placeholder.com/50"
+      name: "Waleed",
+      image: Waleed
     },
     {
       text: "Grocery Guru is fantastic! I can always find the best deals on groceries.",
-      name: "Bob",
-      image: "https://via.placeholder.com/50"
+      name: "Adnan",
+      image: Adnan
     },
     {
       text: "The best grocery shopping helper ever! Highly recommend Grocery Guru to everyone.",
-      name: "Charlie",
-      image: "https://via.placeholder.com/50"
+      name: "Muneeb",
+      image: Muneeb
     },
     {
       text: "I was able to cut down my grocery bill significantly thanks to Grocery Guru.",
-      name: "Dave",
-      image: "https://via.placeholder.com/50"
+      name: "Yousif",
+      image: Yousif
     },
     {
       text: "Fantastic app! Makes grocery shopping so much easier and cheaper.",
-      name: "Eve",
-      image: "https://via.placeholder.com/50"
+      name: "George",
+      image: George
     }
   ];
 
@@ -141,7 +146,7 @@ const Home = () => {
       <section className="stores-section">
         <Map location={location} setLocation={setLocation} stores={stores} setStores={setStores} />
         <div className="stores-list">
-          <h3 className="stores-list-title">List of stores - 10km radius</h3>
+          <h3 className="stores-list-title">List of stores - 5km radius</h3>
           <div className="stores-list-scroll">
             <ul>
               {stores.map((store, index) => (

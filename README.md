@@ -9,3 +9,6 @@ mongodb+srv://Muneeb:mzlaurier@groceryguru.qdx3gmj.mongodb.net/
 
 Current Progress:
 Nofrills Directory (4/14)
+
+
+To run frontend run the following 
