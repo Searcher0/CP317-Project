@@ -12,6 +12,7 @@ Must get chromedriver that is compatible with your chrome version. (needed for r
    
 Then:
 pip install -r requirements.txt
+For any issues later just use (npm install {whatever is missing} ex. flask
 
 For Backend Setup:
 1) Open terminal
@@ -34,7 +35,7 @@ For Frontend Setup: (must be after backend setup)
 
 When Chromedriver is downloaded adjust line 58 in loblaws scraper within the backend/scraper folder to lead to the path your chromedriver is located.
 Only needed if you are trying to run that scraper.
--
+
 
 To run the webscrapers for nofrills & loblaws you must download the chromedriver that corresponds to the version of chrome you are using.
 Unfortunately, if you have a mac you will not be able to run the selenium library properly (based on my knowledge), therefore 2/3 scrappers will not run.
