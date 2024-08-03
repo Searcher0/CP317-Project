@@ -13,6 +13,7 @@ Must get chromedriver that is compatible with your chrome version. (needed for r
 Then:
 pip install -r requirements.txt
 For any issues later just use (npm install {whatever is missing} ex. flask
+If it fails simply close vs code, & open as administrator. It is just a permissions issue.
 
 For Backend Setup:
 1) Open terminal
