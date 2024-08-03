@@ -3,11 +3,10 @@
 Project Name: Grocery Guru
 
 Requirements to Run:
-Must have npm installed.
+Must have npm installed. (https://nodejs.org/en)
 Must get chromedriver that is compatible with your chrome version. (needed for running scrappers)
    https://googlechromelabs.github.io/chrome-for-testing/
-
-Firs
+Then:
 pip install -r requirements.txt
 
 For Backend Setup:
