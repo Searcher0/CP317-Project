@@ -1,7 +1,7 @@
 # CP317-Project
 
 Project Name: Grocery Guru
-
+https://www.youtube.com/watch?v=ZXlv4CHf1F0
 You do not have to run the scrappers to see the working functionality, data has already been prepared in the database. You only need to follow the following Instructions to get to the working site.
 
 Requirements to Run:
